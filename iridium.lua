@@ -1,5 +1,9 @@
 -- // Coded by _notportal Modified by UnstableSolutions
 --
+for _, child in ipairs(game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui:GetChildren() or game.CoreGui:GetChildren()) do --// Stops Duplicates of the Ui since portal is to slow to add this.
+    if child.Name == "UI" then child:Destroy() end 
+end
+
 local Library = {};
 do
 	Library = {

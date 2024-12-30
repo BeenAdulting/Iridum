@@ -1,4 +1,9 @@
 -- // Coded by _notportal Modified by UnstableSolutions
+--[[ 
+Change - Logs
+[+] Added a check to remove duplicates from CoreGui
+[+] Enabled RichText for Watermark and Library name so u can use colors
+]]--
 --
 for _, child in ipairs(game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui:GetChildren() or game.CoreGui:GetChildren()) do --// Stops Duplicates of the Ui since portal is to slow to add this.
     if child.Name == "UI" then child:Destroy() end 
@@ -805,6 +810,7 @@ do
 			local Title = Instance.new("TextLabel")
 			Title.Name = "Title"
 			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+            Title.RichText = true
 			Title.Text = Window.Name
 			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 			Title.TextSize = 12
@@ -1172,7 +1178,8 @@ do
 
 			local Value = Instance.new("TextLabel")
 			Value.Name = "Value"
-			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono) 
+            Value.RichText = true
 			Value.Text = Watermark.Name
 			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
 			Value.TextSize = 12
@@ -4324,5 +4331,3 @@ for i,v in next, game.Players.LocalPlayer.Character:GetChildren() do
 		table.insert(Bodyparts, v.Name)
 	end 
 end
-
-return Library;

@@ -7,6 +7,8 @@ Change - Logs
 --
 -- // Coded by _notportal Modified by UnstableSolutions
 --
+-- // Coded by _notportal Modified by UnstableSolutions
+--
 for _, child in ipairs(game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui:GetChildren() or game.CoreGui:GetChildren()) do --// Stops Duplicates of the Ui since portal is to slow to add this.
     if child.Name == "UI" then child:Destroy() end 
 end
@@ -15,7 +17,7 @@ local Library = {};
 do
 	Library = {
 		Open = true;
-		Accent = Color3.fromRGB(128, 128, 128);
+		Accent = Color3.fromRGB(117, 153, 230);
 		PageAmount = 0;
 		Pages = {};
 		Sections = {};

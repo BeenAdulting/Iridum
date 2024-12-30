@@ -4321,10 +4321,4 @@ for i,v in next, game.Players.LocalPlayer.Character:GetChildren() do
 	end 
 end
 
-return {
-	['library'] = Library,
-	['flags'] = Flags,
-	['pointers'] = Pointers,
-	['utility'] = Utility,
-	['bodyparts'] = Bodyparts
-};
+return Library;

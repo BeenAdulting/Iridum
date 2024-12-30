@@ -5,6 +5,8 @@ Change - Logs
 [+] Enabled RichText for Watermark and Library name so u can use colors
 ]]--
 --
+-- // Coded by _notportal Modified by UnstableSolutions
+--
 for _, child in ipairs(game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui:GetChildren() or game.CoreGui:GetChildren()) do --// Stops Duplicates of the Ui since portal is to slow to add this.
     if child.Name == "UI" then child:Destroy() end 
 end
@@ -1178,7 +1180,7 @@ do
 
 			local Value = Instance.new("TextLabel")
 			Value.Name = "Value"
-			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono) 
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
             Value.RichText = true
 			Value.Text = Watermark.Name
 			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -4331,3 +4333,5 @@ for i,v in next, game.Players.LocalPlayer.Character:GetChildren() do
 		table.insert(Bodyparts, v.Name)
 	end 
 end
+
+return Library;

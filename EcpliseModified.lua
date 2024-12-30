@@ -16,7 +16,7 @@ repeat
         obj.Text = 'active user: <font color="rgb(115, 100, 215)">' .. game.Players.LocalPlayer.Name .. '</font>'
     end
     if obj.Name:lower():find('buildlabel') then
-        obj.Text = 'build: <font color="rgb(115, 100, 215)">Public</font>'
+        obj.Text = 'build: <font color="rgb(115, 100, 215)">Private</font>'
     end
  end
  
@@ -386,7 +386,7 @@ repeat
     BuildLabel.Size = UDim2.new(-0.00151476054, 200, 2.14484048, -1)
     BuildLabel.FontFace = Font.fromId(12187362578, Enum.FontWeight.Regular)
     BuildLabel.RichText = true
-    BuildLabel.Text = "build: <font color=\"rgb(115, 100, 215)\">public</font>"
+    BuildLabel.Text = "build: <font color=\"rgb(115, 100, 215)\">iridium.priv</font>"
     BuildLabel.TextColor3 = Color3.fromRGB(74, 74, 74)
     BuildLabel.TextSize = 10
     BuildLabel.TextWrapped = true

@@ -2,11 +2,14 @@
 --[[ 
 Change - Logs
 [+] Added a check to remove duplicates from CoreGui
+[+] Added Custom Drop Shadow
 [+] Enabled RichText for Watermark and Library name so u can use colors
 ]]--
 --
--- // Coded by _notportal Modified by UnstableSolutions
---
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end 
+
 -- // Coded by _notportal Modified by UnstableSolutions
 --
 for _, child in ipairs(game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui:GetChildren() or game.CoreGui:GetChildren()) do --// Stops Duplicates of the Ui since portal is to slow to add this.
@@ -727,22 +730,53 @@ do
 				Name = (Options.Name or Options.name or "Name");
 			};
 			--
-			local UI = Instance.new("ScreenGui", game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui or game.CoreGui)
-			UI.Name = "UI"
-			UI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-			Library.ScreenGUI = UI
+			-- Create the ScreenGui and assign it
+local UI = Instance.new("ScreenGui", game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui or game.CoreGui)
+UI.Name = "UI"
+UI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Library.ScreenGUI = UI
 
-			local AccentOutline = Library:NewInstance("TextButton", true)
-			AccentOutline.Name = "AccentOutline"
-			AccentOutline.AnchorPoint = Vector2.new(0,0)
-			AccentOutline.BackgroundColor3 = Library.Accent
-			AccentOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
-			AccentOutline.ClipsDescendants = false
-			AccentOutline.Position = UDim2.new(0, 200, 0, 200)
-			AccentOutline.Size = UDim2.new(0, 550, 0, 600)
-			AccentOutline.ZIndex = 2
-			AccentOutline.Text = ""
-			AccentOutline.AutoButtonColor = false
+
+local AccentOutline = Library:NewInstance("TextButton", true)
+AccentOutline.Name = "AccentOutline"
+AccentOutline.AnchorPoint = Vector2.new(0, 0)
+AccentOutline.BackgroundColor3 = Library.Accent
+AccentOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+AccentOutline.ClipsDescendants = false
+AccentOutline.Position = UDim2.new(0, 200, 0, 200)
+AccentOutline.Size = UDim2.new(0, 550, 0, 600)
+AccentOutline.ZIndex = 2
+AccentOutline.Text = ""
+AccentOutline.AutoButtonColor = false
+
+-- Create DropShadowHolder (with larger size for shadow)
+local DropShadowHolder = Instance.new("Frame")
+DropShadowHolder.Name = "DropShadowHolder"
+DropShadowHolder.ZIndex = 1  -- Make sure this is below AccentOutline's ZIndex
+DropShadowHolder.BorderSizePixel = 0
+DropShadowHolder.Size = UDim2.new(1, 21, 1, 21)  -- Increase size by 21 pixels (default size)
+DropShadowHolder.Position = UDim2.new(0, -10.5, 0, -10.5)  -- Adjust position to reflect new size
+DropShadowHolder.BackgroundTransparency = 1
+DropShadowHolder.Parent = AccentOutline
+
+-- Create DropShadow image for shadow effect
+local DropShadow = Instance.new("ImageLabel")
+DropShadow.Name = "DropShadow"
+DropShadow.ZIndex = 0  -- Ensure it stays behind the AccentOutline
+DropShadow.BorderSizePixel = 0
+DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+DropShadow.ScaleType = Enum.ScaleType.Slice
+DropShadow.ImageTransparency = 0.1  -- More visible shadow by reducing transparency
+DropShadow.ImageColor3 = Color3.fromRGB(77, 205, 255)  -- Purple color for shadow
+DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+DropShadow.Image = "rbxassetid://6015897843"
+DropShadow.Size = UDim2.new(1, 21 + 0.5, 1, 21 + 0.5)  -- Increase size by 0.5 of a pixel
+DropShadow.BackgroundTransparency = 1
+DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)  -- Keep the shadow centered
+DropShadow.Parent = DropShadowHolder
+
+
+
 
 			local Inline = Instance.new("Frame")
 			Inline.Name = "Inline"

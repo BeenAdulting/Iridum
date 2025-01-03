@@ -64,7 +64,7 @@ local library = {
     opening = false;
     hasInit = false;
     cheatname = startupArgs.cheatname or 'Clanware';
-    gamename = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name;
+    gamename = startupArgs.gamename or 'Universal';
     fileext = startupArgs.fileext or '.txt';
 }
 

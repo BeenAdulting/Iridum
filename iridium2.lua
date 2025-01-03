@@ -63,8 +63,8 @@ local library = {
     open = false;
     opening = false;
     hasInit = false;
-    cheatname = startupArgs.cheatname or 'Clanware';
-    gamename = startupArgs.gamename or 'Universal';
+    cheatname = startupArgs.cheatname or 'octohook';
+    gamename = startupArgs.gamename or 'universal';
     fileext = startupArgs.fileext or '.txt';
 }
 

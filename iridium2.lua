@@ -600,8 +600,8 @@ function library:init()
 
     makefolder(self.cheatname)
     makefolder(self.cheatname..'/assets')
-    makefolder(self.cheatname..'/'..self.gamename)
-    makefolder(self.cheatname..'/'..self.gamename..'/configs');
+    makefolder(self.cheatname..'/'..game.PlaceId)
+    makefolder(self.cheatname..'/'..game.PlaceId..'/configs');
 
     function self:SetTheme(theme)
         for i,v in next, theme do

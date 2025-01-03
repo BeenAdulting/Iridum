@@ -4572,7 +4572,7 @@ function library:init()
             text = {
                 {self.cheatname, true},
                 {"Private", true},
-                {self.gamename, true},
+                {game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name, true},
                 {'0 fps', true},
                 {'0ms', true},
                 {'00:00:00', true},

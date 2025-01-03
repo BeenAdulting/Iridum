@@ -1,1 +1,4217 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _btfWYpVAGHer = a; end)); AWyFGInOPXLFOacZ=_ENV;kxilTLKYqT_iChc='S73z.n%{c:0ZYk_Bz:_%k:YYY3Yn0n:ccZ{Yn3:zcZ{nnk3c.0z03{7Y7c7?Bn0:_7Y_kncYc0cF%k%&nz..70nkzBzBBkBc_Zk_k7Y.Z{00ckYBc%cy%:nY.B.^%z.c.:zY3n7_7NB__YYzZ_0%::cY{k%_{!%znYn_n_n3zZz.3%Bz_:k%Y:ZY0kYkY30Y0.:k%.nB.{z03k7_z{3B304cb%B%_._:YZYZ:.c:{{%0nk._n3n%nY.Z73sZBn_ckZYY:YZ.k.Y{Z{0k%c.7nYnIzBz33n7%B{_{kY_%k{YkY.ZO0z:%_B_Z_7Y{Z%0Z0zz7307.8{B0_Z7p=7_%_%knZZZ00n{Z{Cn_n7..zn._.%z73kB:_kkYYBY37{372BBzc.c7%{n0.kz_&_3..%3Y7Z37RnB{0%k0_Q:::0:_{k{U%zn..BnY%z7_.nz{7_Y:_ce._z:n0kkz0B0_0.:z{BnnnBzc3Z7_HBHY377.!%k__zk.Yz00Z_0B:::7{k{Y..nc.%z:3k3:_B7nXcB:Y3Z{0n:ccZB3k3Y%Yz0B.iz:3z7%}:B0__7313_._0k3YZZkc0:c%k%wnz..zknn._z%377BwB7zBn_kk:cn::YQZ3::c:cn{_%%nz...0z33Z7kk<YzZ%YzZ_0%::cY{kc{nzc&{.%bnY77M%7:3zBz_Bk%Y:ZY0k{k:YZ3:k:Hc7{z33z_n%BY7%77B:_YkBktY0Y%Zn0{:x0.:n:.{Y{b.%z03:7Y/B{%%_nc.Pk7YYZ.0{:0cZ{B:{:.c%{Y%0%7.:.3z.d7BY_.k{Y0ZZcZZzY.0:0::c{_{k%czbz73Z7.a{B0_Zi{_BB._ckzY:Z.0:07%_%_n7..z{3cB_zBz{37+:k.Bz_Zk:k{{YZB0707nBnknY.?zz3%c3%Z.7z03Zz0?B3B3%7:BZk:YcZ:Znn:.kzY3B33{c{<nY%U_._7Y{Z00k:_%_c0c..{nZ{7%.%n.Z.YzBB:B0B3kkkyYzZ.k7ZYZkZ8:7c0{Zn7n7z.3{70>ZLkB{_Y_z_Z_B_3k7:{0c{B{.%7{7%_zkzG3z7%2:BYYBn77nYZk_0_07:.cn:k:YcB{_{.3_7%i:zc3n3YQ{q_I)_{04kYY7Z:%k:3:.chz:3_7_7.in9c307JjBB0YnYzZ%0%::cY{k:%:(nZn:z_z73.7n3.707Bw._ckk_{Y9:_:{cZ:Z:Z%.{Y.{z03k7_333:7k70Z0Bz_:kBYZ{:Yz0)0n.ncc{k%k%n.:z0z_337.YzWkB3B8k{c303Z{00:Y{.{:%070.z7z7ZH_B_B7_..0zB7BZ<0z:%c:{Y%B%3nn.cz_.0377.&{BcYc__iz_.k{YYYkYl0%0c:3cncn7Bzzn0.Yzz3k3zPk77_B_7:*:k{B:7cZ{.%{n0.Z37nknc.33Y3Y7%E.ktY_Y:Z70.:{ccncc6:7{%{%7{3_z_..3.BZ___7k.Y{Z00k0ckzc:c:%YnBn3.zz_.Zn3Fkz.3%<kB{k._Y_{YnYzZz07{c%knZ._.7z3zsz%zn32Bn_{kYkcZBZ30n:%%Y0Y:7:3cn%_%{n:.{znl7BBB0_3knYcZ:YYY_Z.0z0:ck{B%B{nn:3B3Z73^nBc_:_7VbBz_3ZcZkZkZ.:0c{{Yn3.0zn3c7Z?YjB7.7%kcB{_kkz0:07cY{B{3%znZ{0%knY3%z{z:-;I3_zk%Y:Z0{.%{{5cB:BcYc7{k{nn_n%.3BY_B_3Y{0.kn_.Zc0Z:_cBnB{{:{c0{0{y3Zj.7cz03k7YFYB:_0BIkck7Yz%c0::k:nz.%k%:%3._z{B.}7B:_.k{Y0ZZZ0knZB0:0::zc7nc._zZ3_37737%7_7YG{BzY:ZB0Y:B:3Bc_YkkY{ZB0Zz03B7k7=DzB.?ZBcB{_3Zc0c:Zc_c7{{%Bn0.k.1z7n..:307k737zd%Y_Y_Z70.:{ccnc{{{Bc.{c7{n%.Yz{3Y3.Y:BkHzZYZkZc0/:zc%{{{0c_%_{3%{.Z.Z7zz.7Z_k&7k,YzZ%0{{{cB0B03:3cc.z7Y.%n...z%33Y_-3i.B{_%k%YzZ.Z003:Zckz3{Znknkn7z0zz3nkcYZkck:ZZ0_07:3:n:0:%{BnY{5%cnX.,z%3z7.70D3BZ_kZ0Zn:k:lcz{.%Z{Y{_n?nnnn.Yz37B7._{k0YkYKZz0%::02ZB{n::nc.Zz_3BBB7k30z7_Y7z5n_Y:{Z%k3Z7%z{Z07{k{Y{3%7.kBZBZ_77Y7ZQ_BkBz0k:nccZz0c0%ckck%k3Yn.nz..B:30777kV7Z_0k0z:{c.:qc:{z%%n:.0%_nYnz.{zc3370t%k{Y0ZkZu0z:%c:{Y0B%3n{.czZ3_377.G{B0___WkzY%Z:0_:B:3cn{ck?n_n7..z{307k74;z.0_:kYYBYzZn0c:Z:nc7{.%{n0.k.#zz3%7:vY_Bz7_ckkYZZ_Z77cBc_Y_:kn%zn%.:zY3B337n{czZB7_7k.Y{Z0ZL07:zc%{:%0%3nc.nzc3Z:7cn{%%Lnc..kiYzZ%0::YcBc3{n0cnY.B.7z.3{70 kisBz_ck:YYZBZ30Z:ccZ{_{7{_n{.YzkzC3z7%D:BYB._3kcYcZY0_07:.c{c_%k%.nz.{z:3Y7B73,ZBc__k_kzY.Z:00:k0.cz{c%:nY.B.nzn3c30*_Q7B._ck0YkY=_%0%::cY{B06%nn:.Zz_z73.7{(07fBP_nk%Y:ZY0B03:n0%{Z%B%7n%.{zY3k.%nYb%B0_Y_Zk3Y%Zc0k:_:nZY{{%0nknY.zz{3:7Yzk#3B%_ckYY_Y7Z.0{0kckc3{z%%n:.YzBzcc77cI_B_B7_.kcY0ZBZ60z__c:{Y%B%3nn.czZ3_337.T{B0_B_)kzY%Z:0_:B:zcn{Z%ZnBn7.c%B307k7uz.B%_0kYYBBrZn0::Zc_c7{.%{n0%O.Jzn3%7:&YBBB3_nB%YZZBZ70%:{cY{k:%{0n%.0zY.7337%Vct7___n6YY{Z00kZ3:zc{{:{^:{n3.nzcnY7_73;.B{.kkkk7YzZ%0::YcB:,c3%cnY._{3z.3c70(_TwB{7_k:YYZB_z0n::cZ{_:B%.nc.0.?zA3z7%5:b0_B_.knYcZZ0_070%c_{0{-%xn..%z:3Yz73.9nBY_ZkBk7Y.Z{00Z3:Oc.{%%knYn7.3nZ..7ZjBp73n_{kZYkYnZz00k7cY{B{3:%nc.Yz_.z.:7{qZBkB._zk%Y:Y_k.03:{ccc3%_%7n..{:k3k3z7za%B:_YkB_._0Zc0B:_:3c.{{%0%7{0.zzc3:.YfB*zBn_c__Y_Y{Z.0c:0ckca{z{0n:nzzBz%3n7cqZB_Bn_.kBY0Y7ZR0z:%c:c{%B%Znn.ZzZ3_377.7:B0B{_)kzY%Z:0Y:B0kcncz%Z%zn7..z{303_7*VBB%__kYYBY3ZnYx:Z:{c7c5%{nY.k.Ecn3%37GYP{B3__kcYZkZZ70k:{cB{k{;%zn%.BzYz{337kTc}.__w7_0Y{Y30k0c:zc:{:%Y{{n3.Yzcz37_7:E.B{B0kkk7YzZY0:0zcBc%0Z%cnk._%3z.3c70}k.YBz_{k:Y_ZBZ30n:ck{{_{7%.n:.0zkzo3z%0s:BY_B_zknYcZZc%07:.c{cYYu%&nz.%n{3Y7B73MZ=Y_Zk_k7BzZ{0Z:k:wcz{007nY.B.3%.3c7Yy_q7.n_{k0YkY!Zz0%::cY_7{3%%nc.Zz_z73.7{33BkBX_zk%Y:Zk0BY30*cc{Z%_%7n..0z0zB.h7zR{B:7nkBk3YnY0Y%:_:zc.:n%0nknW.::33:7BvBj3Bn_:kZYBY7Z.BB:0ckcV{.%%n:.YzB.c3n70XZUqB7_nk{kYk%Z>0n:%03{Y%B%3%{._zZz737._^{B0_k!Vk{Y%ZY0Y03:30k{c{k%Bn7.cz{zk7k7iWz7%B_kYkzY3Z:0c0{c_:zcc%{nB.k{0zz3%7:3Y=0B3_0kck*Z_k*0.0:Yn{k{%%z:y.:zY3B.37Bmc&7___{k.k%Z00k00:zck{:%YnBn3.n.0z_7_7:s.3-_0kkk2knZ:0:0ncB0n{n%cnZ%w.cz.z77079GpBz_%kk_nZBZ00nZccZ{B{7%.%0.0.:za3c7%X:BY_B7_knknZZZ:07:.c{{0c:%+nB.%zZ3Y3773<nC{_Z_nk7YBZ{Z%:k:r:.{%{tnYnZ.3.r3c7B..97BY_{B.YkY7Zz0%Z3cYc{{3%knc.Zz_z{cJ7{73BkB7_zk{Y:Y30B03_kcc{Z%_%zn..{z03k{c7zo%B:BukBk3YnZcWz:_:7c.{B%0nkn<.zc_3:7Y&BgnBn_ckZY_7:Z.0{:0:.cL{z%%n:0.zBz33n7:QZB_B7_.37Y0Y%Zq0Z:%c:{Y%B{nnnn3zZ3_377.O{B0BB_QkYY%ZZ0Y07:3cn:n%Zn_n7.kz{307k7l7nB%_:kYk7Y3Zn0c:Z0Zc7{.%{n0.k.hzz30zoKYBBB3ZYkcYYZ_Yz_0:{c0{k:3%zn%.:nYz{337njcBZ___.k.k:Y30k09:zYZ{:%YnB%.n<zc3Z7_zzH.B{_0BkkYYzZ%0::YcBYc{n{0%Z._.7z.3k70QkjyBz_kk:YYZBZz0n:ccZ:9{Z%.n{.0.BzQ3z7%7Z.3_B_3kn__ZZ0_07Z0kr{0%k%Wc_.%z03Y.%73r:z(_Zk_k7BBZ{0Z:k:.ZZ{%%:nYcZ.3z%3c7Z%367B._{kZYkYPZzZcZ_cY{B{307nc.Zz_.z307{4ZBkB%_zk%Y:Y_Zz03:{ccZB%_%7n..{nn3k377zhcB:_kkB_.kkZc0Y:_YYc.{{%0{k%{.zz{3:7k!B..BnB0B%Y_Y.Z.k0:0ckcg{z%Zn:.kzBzn3n70XZ7;z{_.k:Y0BcZ,0z:%0:ZZ%B%.nn.0zZ{)373%7_B0B7_O73Y%Z:0Y:B0.cn{0%Z%3n7.%z{zY7B7JR%B%B0kYYBY3knZC:Z:3c7{%%{c_.kn3.%3%7B Y.9B3_nkcYZYcZ70Z:{c0{k{z%z%%n:zYz%33._/cB___77B%Y{Y70k0c:z:Z{::Y%Zn3.YzczB7_n.9.B{v%kkk.YzZk0::kcBc3{:%cnB._.7z.3{707BK%Bz_Zk:xcZBZ30n00c_{_{{%.{7.0zkzQzn3Y6:iz_BBcknYcZZYLY7:.cB{0{{%Xnz.%.Zz%7B7Zdnzz_Zk_k7_.5{000%:qcY{%:_nY%7n0znzz7Zz327B._{k0_.Y&ZB0%:BcY{B{3{{%c.Z.Zz7.B7{x0BkBrB3k%k{ZYZ%03:nccckcc%7%z.{n{3k3N7zx%K._Y_Bk3YkZc0Z:_:7_.{{{nnknZ.z.%3:7Y7{T3B__c_%Y_YzZ.Yk07ckc:{zYcn:.kzB%e3n7Y.zB_B7_.z:Y0Z_ZT0{Y_c:{Y%Bk nn.:zZ.L%{7.77B0Bz_HkzY%YZg{:B:kcn0B%Zn_n7...%303{7lQnB%_0kY_BYBZnZ3:Z:2c70c%{%Yn%.,zB3%n0KYBBB3_nB7YZYZZ70.:{ck{kcy{0n%n%zY%c337c1c3ZB7_7_7Y{Y30kk{:zZ%Z3%Y%Yn3n:zcnc7_77nZB{B.kkkkYzZ{0::Y:%c3{B%cnZ._.7z.3{7kGk50Bz_ck:YYZBk30c:c:n{_{3%.%B.0zk.c3z335:Jn_B_3knYckR0_0Z:.:z{0%B%F{z.Zz:z{7B7YRnzn_Z(._3Y.Y30073:Mc.{%::nYnz{0zn3c7Zcz97Bn_{k_;nYGZz0%77cYc-{3%nZY.Z.3z73n7{>0Bk74_Yk%Y_ZYZ:03::cc{B{%%7n..{Y:3k377z3%t._Y_0k3YBZcYY:_Z{Yk{{{nnkkc.zz{3:3zQB?%3k_ckZY_.:Z.0c:0:BY%{z{7n:n3zBz33n30%%B_Bk_.7{Y0ZkZf0z:{c:c{%B%.nn.:zZ._zk7.73B0_B_QH{Y%YZZ%:B:BcnZ:%Zn_n7...3303Z7XGzB%_YkYkBkbZnZ%:ZY{c7{{%{c0%n.1.73%37^YzBB37n77YZYYZ7Zc:{Z{{k{e0nn%n.zYzk337%/cBZBZ_7kBY{Z00k0+:zc%c3%Y%0n3.{zc3Z7_7nOBB{_0kknBYzZ{0:0_knc3cN%c%7._.7z.z:n7?k=YBz_Bk:YYZBk3Z{:c:c{_{Z%.{c.0zk.c3z33q:mc_B_BknYckz0_0Y:.c:{0%_%?nz.0z:z{7B73fnBc_Zk__7Y.Y300:B:Kcz{%{Z03.B.kzn3_7Zl_?79%3ck0k:YA_:0%::cY{Bcz%n%z.Z.mz73n7{7Y7vB1__k%>.ZY0B03Zn:z{Z{:%7nB.{%B3kz337N%x%_Yizk3YnZcZkZn:7:3{{::nknl.z.cz77Y7_J33o_ckZY_kzB00{00ckZc{z%%n:n_n.z3z%7clYB_B7_.k{k.ZkY30z:%c:{Y%B{.nc.c._3_3z7.!{B0BB_{kzk0Z:Z7:B:3cnc0{:n_%%..%c307k7b>zB__:B3YBY{Zn0c:Zc_:k{.{.n0n0.W.:3%7:.BBBBk_n_nYZYAZ7Y.:Zc0c:{K%.n%%7zY3Bz%7n7%BZB:_7k.Y{Z0ZZ0C:Bc%c{%Y%7n3%nzB3Z3Z777UB{3{kkB%YkZ%Z%:Y.7c3{%%c%%._.n%Y3{70AkZ3Bz_{k:_YY3Z3Z3:cck{_0n%.%:{:zkzB3zn{4:BY_B_3BuYcYZ0_07:.c0{0{k{:nzn%z:%n7B7nvno0!%k__3Y.Y^00:k:O0zc0%:%_.B._zn.:7Zg_73B.Bck0k_Y=Yn0%0:0n{Bc3%n%=.Z.Bz7n.nTK0dkB<B{k%jYZY0BB::n:n{Z{_%7nn.{z0z03o3v8%B:_YkBk3Ynk.0Z0Z:7c%{{%0nk{5.%z%z%7Y77!33:_c_k7:Y7Yz0{kZckcG{z%%%n.Y.Bz33n7cO_B_<7_Yk{k0Zk_:0z::c:0Yc{%3%n.c.z3_.Z7.z{BB_kBUkzk0Z:_B:B:3:{{c{cn_%7..zc303B77Uz9z_:_3YBY3ZnZ0YVc_cB{.{_n0.k.Rzz._7:7:BBB._nk:YZkgYZ0.0.c0cz{A%zn%nZ.c3Bz17nz.BZ___7k.YBZ0Z00L:nc%{0%Y{7%{.n.n3Z3.77l.B{BY_3kWk7Z%Y.:YcBc3:n%0nZnk.7.G3{3cik31B__%_cYYY_Z3Z3:ccZ:0{7{3n{nczkzB3z7%7ZBYBY_3k{YcZY0_Zz0+c{c{%k%%nz.%z:z_3.737zBctZk_k7Y.k{Zn:k:Bczc3%:%0.B%3.Y3c30<_7(B.}Yk0YkY_ZzZ.:::0{Bc7%nnc0:z_z_3.7:b0B_BNBn3zY:Y:0B0c:ncc{ZcM{zn.nnz0zk3C7zW%7:BZkB_7YnY.0Z0Y:70.{B%0%YnEn3z%nZ7YXB7nBnB%kZkYY7Yz0{:003cocj%%nZ.Y.Tz3z{3YDZMZB7_0k{Y0ZkY3Yc:%:{{Y0k%3nn.cnZn:373z4{I%_k__kz_%k70Y0_:3:.{cc{n_n7n%z{zc7k7_pz*n_:kYk%Y3Y30c:kc_c3{.%{0_.k.Mzz3{7:AYBB';ZSZJYjjZcQPymuxvv='y=CW*&2_ cDg(dr{2D&&&(&&*DWr{PC2Cd=r:g=*/={{{2D dgc(c2 r 2_cg*D{cgc=c**V__*g_*2{&g&=&*1PWcegW*C{=g===*(MVD(g{*r{dgd=d* S(* gg*D{cgc=c**e (*g_*2{&g&=&*L%WrAgW*C{=g===*(U{d(dgDg*g=D=cdcg(*g{DgD=D*&Ac2&d* *g_*2{&g&=&*^MW(fd*WWd{WC_=uMcl*{&D rrg*D&c{c _ g*g_2MD22dc2*g*c*g_{2 2=&(*d:A*2I({ W rgr dr(A{c{rr(DKddc&c d  ( CD(_C_*2+DN&C*c*2*=CF&(&{M *r=&Wr{W{=d =&r&( {dgdgdgcD cc dc*c> C_D_c& c(c_ W_c_(C 2{W&&r=W*&{ WcCrr =dd&d = (((&g r=D=DrD&cLd6 C_D_ 2d&^c(  _d_rC 2&W&= *dnD3 * {c{&rddc(ddB=n(cgrr*drcOd{( (=g(Dd2%D22(& c *D* 2dC1&c&r*(z-Wd{&{ W rc=&d(d*d*(zM.r2DDDC  (*(__<g2_dD2&g&c*^_d*dW}2&CWC== =c8={&{c{}rrr2dd(hj*{{rgr=r*ch(ccd(2_gDd2oD=c2&- &Wd*3 YWC&DC_=r}c=2Ld{ W rcr&.D,Cg 1*{nr&r2cF(dcd kg&_W_JgV2W&c =*=W&W _ CcCW=g=_{ W(W_CW=c=(( k&d&(Wggg_D{D   (cgr_Mg2D{D(&1 (_g_d2d_(2 &d&r# **WWW&C&{dr C dc(S{_(d{(r{r2r&d&(Cgd(C WD&D2c**  & * W2d2c&r=>*dp&nD*r7&{sd C*=MB&S2g0rdgdD)d&cCcOd- WDg_&2=&&& c *d*_W{W2= &(&_*WWcW(r C&{&r=d(d=({(2D rcdrcGd2({((_hD(cgcd dc(  _d_rC 2*&W&&*&=d? * {crKC(rdIr=&;2{W{(rcr_drcp(* =g(g_DWccc(*  &&&*I :W}Cc=4&**{WgW=W*rs=rC&=2RWX({c{_rrc drcY(r =g& &D&2Wcr* cC_d *_d_C22=z*(=D*g*&CDr =ddd=2(({dgdg { D D=c=(&(2g*2 g_Doccc* &W  *_D_&&d=O*(*{{ W(W_CW=c=(( 9*d&{rg6g;{FDzcc c(=g2_4D*_&2d*D_(*dWCW=_*2^&&&2?VWD*CCdC=CWdBwd>r{(g<{*r{dgd=d* 8gd dDr2rcDDcc( &*T_rWIW1_,C+=c9cB=W(W_CW=c=(( ?&d&{rg!r&D=dc(r xg( d &2Cc*2C*Dc* Z_&_2C3&dCd&DurC=W&=DCC6dG_CCrD(H{&g=r&r*rW(d(cgr_kD(_d_&&C *&WWD *_v2&22=m*d=dWd*rE&rC=*rB(DE&}*:Wrdrcdrc<((cdc&_CD*_2&DD*cB & 2W?_*&g&d*dC&*2*dWrCgW*C=={=2( {dg({2DcrDd&d(d&(Dgr2 DW2M2 &* r =_(W*2WC*&r=**&k=W&W2C*d =&=*=W{d{crrDYd(DdD& Cg* *2Dg*Dxc&c2*4_d*d_*&g&d*d*d*(*gW&W=C2d =*r&ddgDr(g DCr(d (d(r_ g& &D(cWc& &_g 2W 2rCr&D2c&(*&..Wr{/{.WZrIdc(c(=gcr&ggdddr(( I(*g{DgD=D*&8c2&d 2W W _ C C ==&CWWWrC&{d=dd+zdjr{(gHrdrrd(c.(d(rg(_sDdD(Dgc&*  &&&W 2dCdC 2 =D=&W({crd{)WBrWwc8*dRg?{2gdr2cgcc T(*g{DgD=D*&T d&d*c*C*vW=Cd=1&=*2{ WrW_W*d =*FW3&{&1*{6r&r2ca((gggdDd &_,gU2=*  (&&W _22{2(=h&*;cWcWrC(rG=_{&{2{2g {{{DD7r*Dg(d(rg(_lDdDrc(&o d r_(WZ2d2(2g&&&=*2{ W&rd{CW2rdd (<N({ rdrrc d&D&  gd_D_ g 2c2*2/*cWd*f F2=WvCCC=ek*{W W=C(=dd3=2d(( H gDgCDDc)(c(rg(_4Dd2&2 D &{ 2*r*(W _ Cg&2*DHwW(W{r Cr{&=rdWd=g {&(&D ddcDcccWc3_c2d_W2 2W& &JW _(__2W&c&(L *(=&Wr{WC&d =cRr( {dg&g { DgDPD%(W = r &_hgF2=2Y&**rWQ_(2 &d&r? *&=&{ Cdrgr C drdC(=g&g { DdD2cdcC_ g(g_DWccc(*  &&&*WWgWCCrC / *cWr{%W2C{C(d;H({g{drd{(r dddr  (*gWg&D&_d2 D &c*s_c*dCD&(C(*(CpW(HcY={r=(rcr=dc{((c(=g d(DcD=c{g( c R =c(_=2  *&=* *=2*W=CcC***=_tgC({c{Brc>(rtdC{*(c(%d(g;D&(*c  {D(_c_C2D (&{&*_**/2*W2&*C==c=&W*x={c{2=*r=dcd*{*(=g g&d*D=ccc0g* =_ _Wc*2* *&c&=2(WcWnC(*(C==_W*i={c{*=*r=dcd*{*(_ggd(DcD=Djg(cz 2D*_=2c2c *&=*c*W2*W_Cc*(=c=zk{C({ =(rrb(dcd=(dr(gcg=Dr((ccc= (D(_c_52d (&c&=* 2(WcWHCg*(=gW(Zcb={d=(rcr=d{{(d=( r*g=DDDv(*cc  D( =__c*2c2j_(*c*=W(&(CcC==gW(p{b=C*{crdO(d {((rr(gcg=Dd((ccc= rD(_c_=2( (&c&!*d2(WcW=C *(=c=OtgC({(=({=r S*d=(D(=r*g=DcD2(*c=   =D*_ 2r (&{&&_** *X&(CcC=C=W(==v_C*{=r r2l*d=( (Pr*g=D D2(*cqg* &D*_=2c22 *&c*{2(*=W &*C== = W*:={ {==*r2f*dcd=r(gcg=Dc((ccc=  D( =_cc*2c&{_(*c*=Wr&(W=Cc**=_Z(C({r{ =*rcd{{((c(vgDd(g=D_(*c  rD(_c_G2d (& _(*d2(WcW=Cr*(C==_W*Lc;>=(rcrFr6{((c(ogcd(Dr((cccT dD(_c_=2  (&c&=*d2(WcWTCc*(=c==T(C({c{=rrB(d{d&{*(2(od(DcD=D=g(ck =D*_=2c2= *&c* 2(W{W2&*C2={W(Hd{C<WC&C2=*( 8&6*}WrdrcdrcT(d & D(r &_U& D*cG & 2W42dWdCE&&=&=S&Vh=Cd{Cr=d&d = d3(*gdrCc d(d_(Wgcg(2 D&_&2c&d&2*r*WC 2c&r=,&2*{*({BC(=g=dod=(x {d{rD r*dWd&(&cd  ( _c2,cdcr (*X_d_(_g2&= &&C&A Wd{d{ W rDr;d (cgd(8bRg&g=D_D= G(2 dg22g2c&ec* {_g_=_*Ce&dCd=(=C==5W{grhC==2( 4rE_m*D r*dWd&(&d*(Qg&g22Mc( g d_d&&*s QW== 2CC&&g&&5gCdCr=(d6+der{(gMrdrrd(cK(d(((gg&2 D&_&&  d*d*   WDWCCD=c8d=s&uz2{{{==cd4=2ddk2gggcDNr{d d=((gd_kg2_(2 D &c C*cW92c2r&(=M*dU&K * {g{_=D==r*dH=+(=rDr*d(cX((({_ gr &Dr2W2=*  &&&W 2dCgWHCk==f&aDL=Nb{ r{di=*h{{g{={*D/r(Ddd2 ggd_kg=D22Fc&*d&jce**2gW=Wj=cC*=dq * {D{2r =W( =*I>{&{2DnddDdc;(& C 6(k_=cD2 &=*&*   W{W&CrCCj *(*_WWCcC(d =&r&dW(r(=g(D8r=d2  (r(_(*2 D*cWc& &c* #_&_2Cf&(*g*dWd=&1<*Z{=d =2r&=W#(/C{=rrd{Dg(d(rg(_wDdD(Dgc&c= 2W _&CdWC_2Cd= YB*(W CdCrd =&r&( {dggg { DcD=(d c_d Q(+_W2g2W&r*U *_{2g2=2*=%*d=dur%2{{{crddV==92g {r{_{*c d*(W(&g&(*g#D&D2&Y (_g_d2d*&W!_GC=R *&*2W*r C&C*CW8d(%{d(dgGr&DWD;rAcWgcgW_=2&2 D &g 2_D*&C 2rW&&r=W=={ W(W_CW=c=(( i&d&(2g(gWDrD+  (cgr_Gg2D{D(&a (_g_d2d_(2 &d&r: **WWW&C&{dr C dc(iQ*(dr{r&r(d2(d(r(r_kDcDrc(&V { & (_22d2r2r= ===gWdWrC(rE=d=rI((v{d{rr(D0dddr(( 9gdgrD(2qcd2d&P &*&* W(W*C==&=(=VR(G={rrX=d=rV((Lj(g rcDcgWd(d_(Wgcg(2 D&_&DgD&&g_r_{_DC.22Cd= & x {({ W =r=2( !*s_gj{*r{dgd=d* /g( dgD2rDD_ccr_2 { =*{2gC#&r===gWdCgW2=d{&=*rW8&{W{*r&gdr2Dg(d(rg(_4g*D{cgc=c**>_r &_22W2(&c&_*r{ W{{tCrr=CC<d=*Ad7C{2D7dd(gd2gdcWg&g2D*& c(c_ W_c_(C 2{W&= *r&&*2WWW(CcC_=rd%hW(*{2g=r(r_dW(c((_ g=_*D*_&2bD>&9*cW(W _ CcClJ *(*_WWCcC(d =rr&=g=WUdg*{g{&c(rWddd&g(g_DWccc(*  (&&WdW _ C C=Y *(*_WWCcC(d =&r&dS=T(#gcDbr*d{(g(=(*_xg(_dcg&0c{   =_(2dCj2(2C&d*&{ W*W_r.C2Ggd = ( (Wr&dgrDcrrOgDgcgCgDg=_{ {&A 2**_&W*C &r2&&2*W*(WcW_Crr:dcuddd{cggrdD-rDd&d(d&(Dgr2 D&2&2wDn&^*cWz2d2r&(=c=REc+=Cdt&r =rC&=2EWE({c{_rrDHccd*cd(*_g_ g 2 2=* cC_d *_d_C22=G&*sfWdWrC(rcr^dc==E2g {((&gdD1Dzr/cjgr_cg(D cdcr*  (&&WCCD2*W&CS2^=<U N4r CCCD=&Fcogg {&{2r*c d&d2(*_ g(g_DWccc(*  (&&WW2rCf2{& &=*(Wd{qCd{(C*dgd = ( (=D r*r_cmd2gg  ( _ _Cc& g (_d&& CW2_ &C&=*D&C*c=_C_r =rd(9d(((G{2{drrdgr*d=({(2_ _=D&_&c=&W &W  C2d_*2d2C&2mpWd{d{ W r r=( Y&f2{*g=D D=cc((cdg(_g_ g 2 2=*  c_rW#2(C&C 2 = =C=&9d{ W r r4( =*AT{&{2D1d(Ddc d    E2 gC22_g2(c_2c_{2C*(Wg= &2Wg? * { {==&d(dBZ{(:g gwD r2(gc d    WD&cgD2 g& c * *C2&&gC 2 = =tW&CdW_WCd rUCsd9( gcgCg#{iD=c  c W_ g2cg2 D & &W_&2g_2&gC 2 = =CW&Cg{ W r r=z&{dT_hCD gJ{nD+c  c W(*_=2&2 D &c&J* WcW=CcWW2*C&*W-W**sWC&C2=*( 3&Y2{*D {Cddr*dddC(2_0gD2rcg_D2( =_r_=&r2cC}&r*W=6&hw9{c=dr==&=2o*(=(g{(D r_c c(c! *_C _gg2r cDC*2 2* W{*g&c2=C&W{=d{(C_C=CcCD=cddrWrC{2d{{CggrC ( =cgD_ gc__& c2g&H D_2&cCr=2*c*=t{*g{{{_r{r r?(2=CdgRW{gD*D2D&Dg {Dcg2g=2*222&2g__ g2_C(W&&r*c&g{rN2{r{dr*CD1_x=d&r{r=r={W(crW(= *   &_d_&cr2&cg*{ g2=2=Cr=(=*&=S*5 9&{_==r2dW===W(2(dD(g&ggD&D&DWgr_{D=&rcrDCcgcW&g*d*g2cC2=r*=*W*D=&{d{dr =cG=rW(2(8D(crc(rCDgdW(  dgDDcDDcccD2W&cW*2=&_2D*_Cg*c;_{{W=C2=r(rV*{={rrC(&d_ggdcc_ {_(_{2(gC_=2& =_c2c_c_gC{2g&2*({ri_*C-gWWd(rd=gd&(_g{r=g1D_rCD&c& 2cWg=cc_g21&_Wr*_Cr*g_C2g&hC&=d*DCc{ VWr CC==(rog{cr=(Wc2gWcdc6(*(Cg=2r2 &**(&*&g_c*&*WC_WWC&=H{2C=WgrrXcd*d2m2(2r={={CrgrWg{ * _D__dc__&_W_c&k&D CWdCrWg2WB2=d!drrC===}c)=rg=Wrc(d(&( rgD&(=gc   3_2gC2 DW =&W* W*W2=rC2=rW{W=*D=C={{ddr=cr&rWvgg{{Dcrd= rdD r_( d___&DD&{c=*{W(W*2=&_2D*_Cg*c{2{{{dC2CDd{72(r{rd {gD*Dd(_g{DW(Dg2_2&r {2& =_c2c2cC(C{C ar*==h*g*Wr(rrCD3_r&{cg2g{(ggKDd r(=c& 2cWg=cc c20&_Wr* _2&c&=C_=*W{W_W{O&{={KCDr4d =Cr{{cr=(Wc2gWcdcwDc(C__2rcd&**(**W2_c2=&c2DCI=2=NWr{rW*r*C=Z_{c<2(2r={={CrgrWcd *  _*2(Dc2__W*2 2&g CC2&==(& Cg=&{(rrC===Ucj=r&=W{r(d(&D*g&dcc_ {(=_{ gD2crDW*(   =*&2==rC2=rW{W=CcWD{d{dCD=crgrWrcdWgdgZd= rc2 cDc_W2(_&cr_W&d 2_rW*2=&_2D*_Cg*cu2{{r(C2rC(r=Dgrg2gr( D*g&dcc2(cgrg2_ c=DD2& =_c2c2c*&C{*ckrW{{rCc*C{2r*=rrdd2d&g(rcg crc((= 2c& 2cWg=cc2_29&_Wr_r CC(_W=22W*==&*=Wc={{+U{(r(((r{={cr=(WrDgWd=cPgr(C2(2rcr =_{**2c2_Wd2cC2WWW{{rCcC=={r d(d{O=L2rc{2{={CrDrW(=g=_2g c{_&_gcc&2*{2c CC(_C=2=d&g6{42rrC=C2{gR=dd(rg2d{{=gdcW(_c2gc(g_{__gCDg =_{_c*2*j&{C{2gKrC&W=W2{={_{d?cd*d d&g2rc(gcrD2cr (c{(D_*g=_&22DC =*r DWr*g*r&r*_C&*c=*i&Wgr{==CC==grdggrD2D*r=Ddc2gcgr(WD=2* c2C*g__2c2cW_*WWgC7&D=p=g*W={WWCDrd=g0c( rcdc{WD2Ddd= *   & gcc r c&22W_rCr*&&=*{2W=2=d{2Wc{ r{d(d S=ddmD(dd{g&gggWDgce(Dg2c{gCcWDW_c = =*&C(*W&=WWC&{rWrC_C=CcCD=cr&rWdC(h(({C(c(= r r _2d__Dc c_W2D*{_=_2*g_WC2*c*=0{Cc{{RgC2=rX={{(rS=d dWgdd=(_DgDW(g 62(D2c= =*2_c*2*O_=C{C2&2*gW=Cc*C{2r*C=r&(()cg2rcrrcrdrcrDgg=  cWD=_0&22T&dWrW WrC(&gC2*_CgN**DWcr(QWd2r7d_(rZg(=g_D*({(c (dC 2(W_d2rDg&*_{__*_2c*&*W=(*c&g{rK_{r{ rr#crd=gd&( {cg2{WD2Ddd= *  D_ggcc c_W&2&P2c CWd&=*{CdCgL*={Wcr(?Wd(NdR=ddrc(dD(g&gggWDgDWg= Uc{c=D=DW =cWW2*&_D*WC C.5(&hR2C_{d{dr_r&=grW(2{2{=D{d_ r ( C _ d2(_d_2_Wcg&v g_2W_&_C2*c&=*cs2{{C=C2CDCC{{{=rcr=dDrFdr(_dD {D{2rc{&r222& =_c2c2c2=C{WgQr*==>)_C=/gr*r r&ddUcrcg{gdr2c( rg{c& 2cWc{ccDD&{cgWr* Wr2=W22g=&= =&=gCc{2=c==r#(2=Crcgrgdd_c2d2(=dC(D(C g2r_g&*&____r2_2&W&*cCkC*=SW=C=9&r*d(d*{{d&dgr=r={W(ccrdg *_2 &g=DcDg&{2g&/&g2=&{&=&==*=2=&*gT&=c==r20CX==W(2(d(ggDrD(_c  {(=g2 &&r { g_{cWW22_*2=rC2=rW{W=CcrgC={d5cr&=grW( rcdcD{dr(= ((*g=g 22Dc&2 ccg 2W(W*2=&_2g*_=dW_P_=WC=r{==rBdd=Crcgr(=gdrD(ccddC 2(W g2r c&rcg D g*&C(*W=(WW&g{rCc{r={rr==d{%=T26g{2r=D{D2crDg rcg_*g=Dcc=_WcD2W g_2*&&_C2*cCg*c{2WcWgHWd2=2rg=Cdgr=DdD*rD(c (gc  (WD=2*Dg&*2&*D*2*d*&&cC2WW=2*2*g*Cr(WWr2r&r&u2g2DDDcD=Dgd(  (__ _c_A2r&(*D&g2C2**&2=2*22&D& WdC{=rQd=-{CdgA&Xr(dd(gdr*gdg&d2g=cCD!g g4_DcD =___=W&*C2D2C&*&b=DW&bD{d=cu{=r=2(g(Wr_{ gD(*g(g2(*cC(ZgC2gD & _c_d_&2iWdWD* *c*(CoPWWr={LC{Dr&{{(={=(&(dddr2g(g{ gg=DdD=c__C_(c2*g&_2_&{2r***_CdC_W(=r{W}&C JK{*d&dd{*r=d!rCrsDDgccDgDc{_Dc=_(2d*g 22_WW&d***pW*CrC2W*C({D{Cr&=CdDr*(&r&g&(*g(DCc&(2(Q_W r { c&d2&_(&&WW2rCW&*&CVgC**j=2N({C=*rCr(?C{_r*rD(2gDcdcDD2g*g2 (2W2Dc  **d_*&{*(Cd*cCCWd=D*Q=2Crv2r&ddrrdCaC{2DgDW(Eg{D(D*g* d_Dc(_C2Cc:   f*D2D*{*dW*CCC2WrWCWV{DE(?&r&r*{*d (CDWg&(&(*(CD_ D2g 22& (__&C&r_ &c* Wr*&C(W==C= TrCC=*dW:Dt2ggg_d_d&(_cWD(( (^D& C_D_C_{*g_( =*C2r2C=gCC*DC{C_C=9Ci{=rl=d&(Wrdd*dc(2(dd (Dg=(V dDrc(2&&W D22_*2=2*WCWC*=CrW&*F{d^(rd!crdT*{(gggWrrr (_DD(DD2c(D= C_CDYc2 D&C_r2&W&WDW(W2W;*2C%pC#rj*r={2rrddDcr=g&( (_dCg_D_DdD=Dgc=c*_ _c 2&&WWW&2 WrW*WdC{CdC(Cr{d=D=2jDdCr.d2d_d=(cg{ gc_(oc{_2 {c*&d_c&d&&2(W&WCWr& WdW WDC&=drdVcrCr&JC(&gWdcr (dDDc&(2(>_W2g22cd &c<2*_**dW2&(W&=W=&*CW*aDA(=&{C5={cr (Dr=gD( grcdgccdc& d_Dc(&g&W_d_&Cc&*&c*2WC*=C&C =rC=<&{Cox=C{ddDrY(d(rr2grg  g(C(M d2 c(c* ( r&C*D_C*rWD&rW2C(!d*7= =dC2rDr2rC{&dCgd(r({(ccdg#( (nc*&c *2&_{2r_= ?& 2D22WrCDC(* =&{dWS92=r;=rCr {r{2ddcrdDg{ gcCDcgC_DDC B_W D22WrWd&_22*6&2WcR({,C&=dj*dgrd=.{(d&(drrr2cccWggD{Db_dcY_C_g =2r2{&CCCC==cCW*cW_=C=o62=D{*=c=&1d{*d_(g(=(CD&(2(dgrDgg*D=c{c2* _dWc2dC CQ=d&DYrW{=cOcCr=cM*=W{&(Wg rr{&r2dWd((c(_gr_x2cD*c{ g = *Wl2(C(&dCd&D-rC{WdW==c=D==rg{W(*!Cg2r_rrrcgDg*c(DCg&_g2Oc2cd r_g *_=2{22= &*u(Wd{(W2r(=(dc=2( ?2g {*D(ddcm(c(rg(_QDd2(D2&( d*c**_rWh2&C*&*=***V*W({=r(=dd X(((}2g({2D(ddcc(c(rg(_<Dd2 cd&( d*( 2W(2dCcC*&(=%*&9*Wrr C=C2=*( G*(*{rg*r*D=cc(d(rg(_c_wD2Ddcr gc* =_{_2C 22=(&*,(*({(CrrcC==2( Y*d2FCg2d2{=d=DDg{Dg(_g 29D(c  d rW  C2d_*2d2C&2,FWr{vCdCr=(dkP(dd{(gg{DDrd{r2r=gCD(c*cDDd& c&2&* _dWg_DCr&r*2&D*2&=*cWcCCr=d&=D(rd{d{rcdV(*g*d*dq_ gcDr2 cd&&cD*r2a22&r*c* W{&{W4k=l(WDrr=sC==_{cIwrC{}r2c r*d-(&(2_KDd_d2^c&&CcC*2_=_c22&(W{*{CW=c{crdWCr2=crrr .rF&r={WrCc3dD(&(((&gDDr& D*&Sc**L_2W*2(C*&(=**rp={(W2r C(d(=2((Y*g({2DLdcdr(( vgr_c_*Dr2.D*&*c***_(W*2r= &=&2**{ W2{=r(C2d =2((b*g({*D(r2cj(c(rg(_Ig(2c2=c&c*cW_dW3_D2&2(2&&D*r{ W(r C&C2=*( =C{d9*{d{Cr2cpd* hgdgrD(2(crD&c2 W (_c__2rCo&(=*&*b*W2{*Crr==ckr(G{((r{DDrg(drgWg5D(Dcg&D(& D*cj & 2W8_D2&2(2&&D*r{ Wrr C&C2=*( p*d&{*gW{CD2d_drdcDDD* (cCD&&Q d&d*E_&WW_CC22=*D*_WCC_=DC_WCdc(d=C(2d(dCr(r_(Lg(DW(__bg=D22Ac&*dcC*2  *r*c2*2&W(CD*&{co*{dCDdr=cr_M(r2(dd=r*rC  d*(Lg&g22ecd2d&P &*C CW22g2;*&W * =(W{W&rcddCCd2{&dDr*dC{2(7gggW h(Dg&g(g&DDcr*  2*6_(Wq_*C*&r=**(?***{=r(C*d =*((;(g({2Dsdcdr(( ugr_(g22c2*c(&< (**_(W*2rC*&(==*=*2W*r C2r?=rd*N2(*i*g*r2D=c(d(  ((_(g(2(D2&( r*c_c_r2(Ci2(= &(j(*2{(W*r(=rdcd=)&S*RWrdDfrDd&d(d&(Dgr2 Dr& c&c2 *W  C2d_*2d2C&2t}Wr{xCdCr=(d(<r=&n2{W{(rcr_drc9d* *g2_*D(2*cr&= c_rW!2(Wr2D=r*{C C&=c=&C{=c{{( =*<e{&{2DVrDd&d(d&(Dgr2 g*& c&c2 *W _**&2*CW2C=2*_*r*c=D=*{(VC=&(F{d(dgXr&D&rCc2(rD cggcg2 {cg_D*cWd CW22*2C&DCg&_CrC*xrrTC==2dqw&gd;Cg2((rdd d2DD(rc{ (2c_*DC&2_W C&22C2{2_W{W&wl*(W CdCrd =&r&( {dgD{DDr({g&dDDggdcdc{ D2=&&cD*r d2W2(2C2d*W*dW{{ *CCdW*CdCC=2(YG*g {2D r2c(d( (gr_(g*2c2*c2&Bc***_rW*2rC*&(7 *=*2W*r Crr=d(=(( e2g({*D(r*cR(c(rg(_Xg(2(D(&l c r_(Wz_*CcC*&r=8*2^*Wrr C=C2=*( Pr(*{(g*rrD=d=d2(*_ g2_jg*2*cr*  = 2_*C 2rC*&r=**rk={cCdC(Cg=&( =C{d;*{d{Cr2cAd* GgdgrD(2eDDc&c(c& D_rC 2(= &&&2**-*W2WdCr=gC*==.{z2g {2D(r(c((r ((*_cg=D2& c*22cC*2 &_d&c2C&WW{&&W={%W(C =d=r( =C{d+*{d{Cr2cHd2 RgdgrD(2hc(2d (*g DWr2{_2_=*CW(C*CDWdr C&{&d 5d(gvDgr(ddW( dD(cdBDc(&_=2&DD&rc_ & c&C*{**&g*C5 *cWr{ Cdr&CDdr=={Ddgqc{&rg{Cd2c=crc&(C_2 c *Dc2d *_=2__WC-2(& *d*r{ W&U&r =ddg=D(r{Ci2rrrdrCd&(_g{ =_&gD2r d ^_W g2{&D_r&2= 2C*d&**d*CW2rOC*d er( k2g({(D(drc((r cgcgrD(2MD*& c**(_rW(_2C(22=c=*&*.mWr{*C(r*=rd*Or(=g({*D r(c(d* ((*_(Dr2Lcccr (*5_rWc2c2r&(=#&2e **{(W(r(C(d(zr(c(*{rgQ{*D*d(c*(r_ g=g2D*& c(&*c**=Wc2d2(2g&&x &CWd**WdWCC2d+=*(Y{d{rr(D:rDd&d(d&(Dgr2 Dr& c&c2 **= C2d_*2d2C&28iWd#gCdCr=(dcdS(c(=gcrdrrd(DggDDcDWc{D(g&DdD=2( C&r& *D&{2=Cd2W&C^2* Cc8D=c{DG_=c{cg({DDrrdd=d)g=(2(Cc* Wg&2gc* {_g_=_*Cb&dCd=fId*D{r=jC C {W{,<D4cdCgWD drr&d2(W((gcg_Dr26&cc* {_g_=_*CE2*=(&2=d*D{r={CdC=QcUDz=dgrWg*{CD2d_drdcDDD* (cCD&2g&n 2 d_r2g_*2=&{&2< *2{(Cdrc=dd Ud( {dg(rdDcD*d&c+(r *gr_=2ccdcr (*c*k_2_d2r&g2*&=*{*2{ Cdr(=(dc==M2g {((2{CD2gggVgD(cD=D{gDD&&hc(  _d_rC _C&d2*&d&C*2{.CdrG=d=r0((>P*(d{*DgrDcr({d2d=DCc( * Dcd*  r&&W _2Cg2D=r&CCg={C&W2e2{cC_d=(&MDgr{(r_ddrhDcgh(&c_2 Dccr& c2*& DWr&__c&wW{&gWcW{*D{={r{&CCd2rDrgr*{&(=r d_d_ N((g DdDr& cr2&*  2Wg_DCr&C&&WWWC*d=(4{=_r=d&=D(rF }_dOd_r gcgcd8_ (CDdg*DdDCc2*1_dWj2d2(2g&&7 &CWd**WdWCC2d,8(( {dg rdD(d(cc(c(rg(_kDd2 cd&( d*c**_&W;2*C*&&< *=*2W*r C*r=dcfdwr{(gL{Dr&r(r&dD(r_ g*_tD&2Xc*&* &*=W(2(C &d=(*d7cb=W&W2C*r*=2=d3r{gv*{=r{r2c (( (gd_cg=D2& c(22cC*2&&&g_ 2r&(W&C&WD{sW(C =d=r( =C{d>*{d{Cr2c?(( fgdgrD(2JD*2dc**g DWr2{_2_=*CW(C*CDWdr Cr{&d =2(dBDgr^tr=g{g*ggg*g_(&_=2&DD&r _2c2C D_&2W2(W&M *cWr{ W2r&CDdr?h=WrXEDrr({rddcc=c(c&(C_2 =_c c2d D2C&=_WCV2(& *d*r{ WrU&r C2dg=D(rv({{dWd2r&g&ddg  =_&gD2rDWD2_{2D &&&2=*{= 2C*d&**d*CW2rb=dd^;dA(Mg{&D {Cddr*dddC(2_uDd2 cd&  (*(_(WcW*2*CA&&=**&G={cCdCr=(d5=DH&n(J&{Drrc d&cK(& Jg*_*D*2=&( d* _(W(2(CcC=&&&2**i=*CCdW*CdCC=2(NX2(grdrrd(cccS c =g(g_DWccc(*  g&& CW2&W*_**&r*_CDC=fdr:C_CC( =C(2r&{*(_(cg=r?((cc gg*D{cgc=c**^ (_&*&C &{&&&(*2WdWrWrrcC_CCdnP2hd{rrg{*r=d{d2   =(CDdg*DdDCc2*!__&&&2&2= &&&2**z=YgW*C{=g===*(Zp&(d{DDrd{r2r=gCD(c*cDDd_Wc(c_ W_c_(C 2=W&2C=2W =DCDW(CWC/m*r(dg4*{{rgr=r*c!d(cd(D_rD=D= {_{c=_W2d D*W2(2_&W*c*({ W(h&WCr2CCrchc{gdDd*{=rrDgd*({ggg=g*2ncrD&c2 W (_c__2r= &(*dx &C{({2rrr2dc=*G{{g{={*Dqr_Ddd_  gd_(_lgg22&r&2cd*=2gWc&dCq=_p{;cf=igW*C{=g===*(Ke2(d{DDr({ddd=gcgDg= gcW_WDC&2_C_D _&g*D*{W_WCP Wr*&W2CWC(=c=_Or(0gc{DDrr(r_g=d2({c2c&Dd2!&cc2&d 2Wg_DCr&{222=WCC(=*=DCdd =&=2n*(={({_rWdcd(  (2(dgrDgg*D=c{c2*O_dW 2(C(&d=c&=*2{ W&r W*CH=&=2(JvD{&{({&rDdr  (r_ g&g2D*_Wcr2& **W_r*W2&22&*m *(*_WWCcC(d =*d*xr(*{ (&rWD,rCc2g_(&gcD=DCcc_W_g*(_gW(2dC(2_=(&D/rCr=gCtW_=c=D.(%D(=(g{*r{dgd=d* Mgr(&g2DWD(ccc_ rW _2W;Cc2*&{*g*=**{OW2r(=(rd=D(rrrdgr!{_dcdD(((D hg{_*D&2>DC&2 _ r c&D&*W(*C&&a(*D{rC=C=s{{{=={Wrd3Dg=D(ddc dD rg=g&DcDcgtc*2{ _** CW22C2r*C&C*=*{WCVrrcrWrCd=dg{dg gDDcgWrC(dd*(d(Cg22 c(&D&D&&*rWcWW2rWW&&&2**=WW(W_CW=c=(( =Wd&G*{D{&ddDgd*({ggg=g*2PDg2d& *n *_{2g2=2*=l*r&&*2WWW(CcC_=r( =&(6gc{*r{dgd=d* u(* dg22 2=2gc* {_g_=_*Cu&dCd&2< q=ogW*C{=g===*(51((dgcggr*d{(g(=(*_Ug*_d2tc*&X &***=W*WCC =c=C# :DCr{g{Cr=dcdW;(dW{({_rWdcd(  (rc&g*_AD&2*2C&c*(*g*=W=Wg2*&{*g*=**{jCd{dr6d d&d=(=rrr(D ddc(cgcC =_c WDccr& c2&d&&*uW=_*2b&&&2ps*=W2{AC({&rd=g(c^({ rdrrc rC(dd*(d(Cg22)cd&D& &g_d_(_g2&= &rC&===W**F&{i{W=&=2A*dW{&{*{Wdddc(r  (2 d &_C2 2*&{*c (_ 2d2r= 2C*d&**d*CW2r C*rdr&dM(={={2r*Dod&cC   c_{_ 2c2=c{cD* _dWDW+W:C_C3==:c=WW&W2C*{WCCtd=*jd?C{2DFrDcrgc( (2D{(=cp *cg&^ &**_rW&W=C CC=gJcZC{ W(rgr,=(d_( (DrrgdgCD=ccc=cggdgrD(_gD*c{ g = *W12DWd22Cg&**{WgW=W*rH=rC&=2KW1({c{_rrc rxcs(r =g(g_DWccc(*  *&W_c2rC 22&{&(x}*2{cW(C =d=r( Frd&{CgmDcgWdc(r  (2 d &_w2=D*ct & 2W<_D2&2(2&&D*r{{{_nWC&C2=*rWb&s2{*(Wr*g&rCc2d gCg=DDgCDc__ _*  _W(2dC Cc=(=ghc<*W&{P{&r*r2d=(gf2gdgcDcgWd&c!(r =g(g_DWccc(*  &&&WCCD222_2CX *r=&{ {crgCgdcd*(W{(gur(r{c d&D&(& 2_rgD2rgA D c C D =*{&{C<&*=**r^*Wr{=C&C2=*( =C{dX*{d{Cr2c}(dcggdgrD(_gD*c{ g = *WG_gWd=g2C=2& Wc=DCc%D=_Ccvc( {_g D{d(D(Dcc2g( (  2{2c2=Dr2&&=W _(__2W&c&(! *&=&WrOWC(C_=WzcF(g {2{drrdgr*d=({(2_tg*D&2j&r&2*r*= C2d_*2d2C&2&gG2{r{2Wdr*CCd2{ /2r2dW(Dg{g{(c  _{_W2{2(22&r&2*c_d_r2(Ca2*&{*g*=**{bCrW&C2=W=(sct_{rD r&ddc c=(((_gWDcD(& c&2&cgc&*g_*2{&g&=&*O-W_^d*WWd{W=(=_lW{c{(D rWg&rgr&cg(*g{DgD=D*&-cW&dcW2{W*2WC*&r&=*(v*W&*&{gC*={sg.=-*g4rdgdr2c c=(((_gWDcD(& c{2&cgc&_2___C= &(C&==x*W&r C*C_dt=*s{{g{={*Dnd(Ddd#   = gg*D{cgc=c**7_d*g_=22CL&*C&=dHD{cW(C =d=r( R&d&g {lD D=rrD& WdW(d_=_gcdc(cg & =_2W^2*W&Cd= 3c*(W CdCrd =(=_zW{c{(D rrg&r&cG ccWgcDr2LDg&? c r_(Wi_DCr2{*=WC&&W(W=W(W2r3CCd2= {cdDrc(Dd_rc(c  (2_c_*2_22&  *&*&AWgW=C*={=c&(* WdWrr Cr{&CCd2=7d(d (DrcdgriDd  (2_c WD&D2c**  &&&_r*W2&2*2W*d*cWr{ C({d{&rWd==*>E{&{2DIddDdd    = gDdDrc(2gc__g *2d*&2&WW&&&2**=WWgCW{W=&rd=F( (=(grrr{rDc!(dcd c_(g22 2=c*c_*9_g2g2dCdCO=W2W==&&{cC&{d=d=&d%(cdW{&{2r*gWd2d_dC_ gg &_=2*cr&U*c_(_{C 2(2_&W*c*({ W&f&C r}dcrWUc{rg r(D ddc(cc ( c_c &_d2 &cc(  _d_rC 2(2_&W*c*({ WWN&C*re=&d*dC(*(Wg=ggr*d{(g(=(*_tgD_dc(&  d*(*(W(WrCcWW&(&_*WWcW(r C&{&Cgsr( (=g(rrD D=c(d2(c(*_(g2DcD*Dd2W c_rW 2gWdW&C?==&**xW&W2rI=djg=({dd&{2gVDcgWd&(W(=g& dDr2 2=2g d ( g_&_=22C>&WC&=d{g*g{cWdr=C*=6x&U2gUrddgr((dD&(r e_c WD&D*DW d c_rW 2gWdW&2D*W=CW&{cW(C =d=r( A&{W8*r&gdr2c c= d e CD2_=2r&c d ( g_&_=22Cj&WC&=d&CCg{g=dr=C*=j?&%2gErddgr((dD&(r V_c_&2 2D r&c&2*=_&2W2=&&Cd*r^ M=8gCdCr=(rg==,2(1{*g!{CD*D=c*c= = d &_=2=D*c, & 2W.2d&g2**dC&*{WWW&CWC(=&>dIdHr{(gE{=r2Dbd*cQdC * C_*_C2=2d2&&=*= *_Q2&22=A*dWg*(Cdq&C{=W=&+W=*{&rdrdrrd(cTd=(2 0g*_vgC2*2W&*&W*=*d*&W=C=2*&w*&*2{qCd=g=cjdr&.{{W{&rWr=d&(d(d(rg(_-D_cgDW d2& &&W_&_22*= &&&2**=W*CCdW*CdCC=2(BaW(grdrrd(Dgd*({ggg=g*23crD&c2 W (_c__2r= &**dJ W({(W2r(=ddc=*B{{g{={*D#r*Ddd2cg(*g{DgD=D*&Vc*&d_d*g_D2&2(2&&D*r{ C{{EWCr2C_{crDId{*rc{*rrc dD r({D=cCg&c(c=c(c2*0W  W_CC2*C*D&_Cg=D={l_LCd l((c=&gcrWgCd&c(d2 c *g&_=2ccdcr (*< *_{2g2=2*=,*r&&*2WWW(CcC_=r( 9_(E:#g*r D*d{c=(((_gWDcD(& c2cd r_g *_=2{22=V*(*&kS{r{2rrr==(=_VW{c{(D r2D*dDc*d& *grDd2(cdc&&* r** DW*_WC*&C=*&cH*C{{*C*{W=(=_wW{c{(D r&g&D,DWd_(agcg*D&2&2=2* &W _*__CE2=&2s =W=*FdCdrHC(= %d0rg {crrDwddD(cd 4((g DdDr& cc r*H_d r*&W>= 2*&f*&*2{!WDC&C =&Xc=*g {crrDBDgD((d <((g DdDr& Dc2&cC*22 _2&2*WWDC{C{Wc{ r{rWd{d(d2(r(2gcg&g=gW({D&dgd& gDDgCcdc=cW&g_d_r2(Wg2gCd2W&d=WWC>&Wgr2drd2=ddWQ&{2{*r=d(  d*(D(&Dd_gcdc(cg &W  W*&_g_&Cg*D=d&W{r{2rrW&rgndPr{(gPrdr(rgd&  (cgr_PDdgr_&2C* c* 3_&_2Ck&r&{&DXw*2xd{({=r*r2dd(p{({{D rcdrcJ(dcr d_5g(D cdcr*  &&&WdWDWg&D2C*d*=*WGgCdCr=(rgn(dd{gg g{DcgWdCdD(&gcgg WD&D2c*2W & * W2dCE&dCd=&=C=WW&W2C*d =&=2M*g {&{*{WddcLd=(2_  k 2_dcd&qc(  _d_rC 22W&&W=-=2v*m={(r(rcd(rLdc(*8-g=ggrCDd(g   r_(_(_z2*2C&*&=** iW=Wg&d&(&g*&{ WcCrrq=drrd&dCg u*{ur&r2c:(r({(D_sD(_d2c2C&*&_*rWN2(2{= &c*rjuKc*rn&C&d C*=!n&52g.{2gdD&D*cccgdC d_&_=_WcCcD &_c_g*W2&22&*CW&&=&WW{R{2r*r d((((gg(gcgRD*r?c=cggdg& &D(cd&Oc2 &&&*:*W2C2D&&*c*g=WW&W2C*{W=&=*=W{dg:{dgddgc cr (cY *_*_W2*2=& *(  Wc*W2&&dCd&**&{ WrCd{dr rg/d1r{(gqrdrrd(cR(d(rg(_^Dd_dcd&g&c&g_d_r2(Wg&r&{&D35Wd;d{ r(W=d;E(A{g {crrD ddDrD&d& =(*gZD&D2&4cg_g_dWd_d&dW&&C*W*&PW,=C&{g=d=(=ge&g {*rWr&d&Dd(Dgggd_g_ccd_Wc&c2 *&W_&_22*WW&(&_*WWcW(r W&{&Ccd&=&(W(=D r(r_dW(c((_ g& WD(D_cW c (W _W*W2(2_&W*c*({ W2WdCr=gC*==l{k2gsrDD D2crc2 c({g g=D(cd&ac(cC d_&C 2*2_=o*d*rW({)CdCr=(dz={? /={(rdD6r(rCdd(&_ g*g_2<D=c2*  r&*WdW(W>= 2*&.*&*2{!W2{dC2dgd(dCg {&{2r*c d&D&(2gWgrD&_gcg2d d_g &2d*W2c&r=P=d=C=2}dCgrxC(= Vdhrg {crrDtdgD(D&cC d_5g(D cdcr*  c_rWU2gW(CcCWI &**VW&W2roC==2( iWd*(2D {*rJd&d2 ,(=g22 DW_22d&g*8 (_ 2d2r= &c*rB0v(YrCgrhC(= Udjrg {({_rWdcd(  (rc&g&DWD(c&2gc* {_g_=_*CS2*Cd*(WgWdCgW(=d=&rgF({gj2gggcddg&d(DW(*gWgrD&_dD* g d_g_c2d2&Wg&d&(&g*&{ WcCrr:=grrd((Sz({ rdrrc d(d_(Wgcg(2 D&_&c& W (_&*g_*2{&g&=&*HV*27dC(=g=dqdrW32u_}CD r&g&d&cWc= *(D2 D*D_&?cD*r2W&*_{&=2_*DW*CWsaWr{*C*=W=&k&(c{d{rr(ggddd(dg(&_ g(g_DWccc(*  W**_{*W222_2C! &C=&8N{*{*d =*=_(NJ={2D g=g*rC  d*(9g&g220D=c2* &C&* CC _*2k&&&2bA*=W2r WCW2rddc(95({ rdrrc rC(ddPgdg=g(2nD=c2* cC&***C _*2S&&&2kjW(CgCd=gC*pdB&dd{(rgrddgr((d(&gggdDgDccdc&2gc2&d 2WgWcWg&dCd*rWg*2CdQWCCCD=&fcUgdW{&{2r*gWdc(r  g(DgDdcgD* d &&d&&_&2W2=&&=c&(* WdWrr Cr{&=rdWd=dW{&{*{WddcVd2cdgdDgg(cd_Wc&c2 *&W &_2_*2=&(} &**D*&Cd{g=d=(=g^&g {crrD d((g(dgg(*DdD&_d_&c& W =_&Wc_(2 &d&rG *r=&Wr{W{={W=&=*=W{dg6{2gddd(gd(gdcWg&g2D*_Wc&c2 *W _&_*_W&d=e*g=dWdCgW*=d=(bg5g{dd&{*rWrWd&c dW  g(_(Dg2g2c&( d_g (2dW=Cc22Cd&2sgbcAgCd{d=r8g=2{ddW{&{2r*c d&d*dWgd_Vg=D22&2W2*cCW  *_u2&22=?*r*{*D{IWW{drcr2d*d_(dg5r(r{c dc(r U(D(r &_=& D*ck & 2WV2gWd&d*g&*Wd=WW{l&C*=W=&ZW=*{&rd(Wr*dWdWcWc=g& dg__gc( g g_d&&_{2W2&&W&=*&Wd=WWrY&CrrWr=rWS&d&{2rWrrd&Dg(DdCgdg=gW_gcdcr (&g_(2g2d&g2**d*&=dW(CgCd=gC(IdB&dgx2(d{2DgDcDg(dcdgrDgg2cd_WcCcD &_c_g*W2&22&*CW*&***WCdr>=grdJd{gO*rd(Wr{g&d*(W(&gW(*D&cd_Wc* W W*W*=2&Wd2_Cg*(WgWgCdJ&C{=W=&#W,={&rd(Wrrg&drcWc=cWg& &D2cWcr &&g_d_r2(Cj&d&r*(b/WdWrC(r<=d=r:((4{d{rr(D%ddd(dg(&_ gcDr2)2c2(2& WW  *_s2&22=a&=*2{ WWV2rdrDdv=(Q {d{rD {CddrX(d(=((_Rg=D2& cWD2&d*cWY_(2 &d&rN *(*_WWCcC(d =rr&e&{W{(r&r*dWdr(&  (W_ D(2(D2&g&c*(_d2g_(&dC==c*D&CWdW=WW{g=d=ri(dg{(rgrddgr*(d(&cd(eDgDdcgD( d &&g d_r_(2c2*=J&(&C*dW&lWC&C*CW1d(vw*{{rgr=r*c7d2cdgdDgg*cdc( gc2_d*a_gW!2*C*&r=W==T*W&CWW*=&dcd=R&?2{*D r&r*rW(d ^g(g{2 gCcdD*cdcC 2W?2(&g&d*g&*WdW&W&W2C*d =&=2w*g {&{2r*c d&d*dWgd_Qg=D2& cW2*&d&^W>_(2 &d&rJ *cWr{6{r{r{&=W( =*Em{&{2D/r*d{(g(=(*_<Dg2(Da2g r { DW?_DWdC =(=rk7W(W{r Cc=rd1=Ddr(Dg#{(r dddr  (cgr_m_(_r_&DC* c* /_&_2Cx2=&2v =W=&BdWDrxC(= 1dxrg {*rWr&dWd((&gdc&g{DWD&cWD* &_d&W_r*&2rCWC=CW*&=&W2CWCr=&rgEd?(}g{&D rWg&d&(W((g& ggX_dc( g d_g (2d2&Wg&(*g*g3gvcCd)&C {W=*PW#W{&(d{Hdgdd(g(cgdg& gg2_dD2&g&c&g_d*d2r&g22*dCW*&*2W*r C&C*CWjd(kA={2D g={2DddD L((g DdDr& c2c_cCW _=*&WCC(=(C==={ W*W_rwC==2( =C=2(dgrD7r(d (d(r_ g*_MD&cWc( &*(_d2g_(&dC=Cg&2=d*2{g{c{g=drdBr{gN2rd(WrCrDd&(c(gcWg&g2D*_WcW2& &_W_(2&2*&W&W*&=dW(CgCg=drs=gdZH*(*{WgWg=D*d&(Wd*g&_c_=DCDDc& c g&W_&_22*WW&&&*&WWd{}C(r =d;g=*{d(*{&rW{*d&ccDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&d&r*(s}WdWrC(r4=d=(=gH&g {crrDbrDDrc  m((g DdDr& cc r*d*c r*&_C= 2*&4*&*2{!CrC{CDdnQcdd(D(cg*g_D(cR((({_ gcDr2+2cDr2&cCW  *_u2&22=N*g=dWdCgW*=d=(vgEg{d(5{*rWrWDWD=(& c(2 dg22g2c2g d&d_r2g_2&dWW&C&D*&WcWg?WC&C2=*rW)*(S{&rWr(d&c((dgg((Dd_=_gD22dc2*g*c*g2dWd&r*g&2Wd=WWCWDC&=c=grW^&M2{*(Wr&r*rW(d pg(_ DdcgD* d&* &_W *2&CcWW&rC&*r)WX=jWC&{&=2GW;r{&(grdrrd(cH(d(((gg&2 D*cWc& W (_&2d*&2{&W&&*W&*W&CdXWCr{&=rdWd=dW{&(&r2dWdr(&cggdgrD(2Acdcr (*/_d_r2(C}&d&(&g*&{ WcCrr}=grrdg(vw({ rdrrc rC(ddagdg=g(2lD=c2*  Wc2*d*wCT2(& *d*r{ W2W_WCd =&r&P&{W{(r&D(dd(gd(gdg(g{2 D*cWc& &&d 2_c_*Wg&d&r*(=gWD*CCdC=CWrgTd/r{((grrr{rDcp(gcd  _(_r28c(c{*  c_rWs2gWrCD=#&(* WdWrr Cc=rd0dddr{ggz{(r dddr  (cgr_jDg_(2(&kc(  _d_rC 2*&W&&*W*(W&Cd#&C*=W=&NW=*{&rdrWr&dWd=(&gdcWgr &Dr2W2=2W &&&_22W2r&&Cg*d*(*gW&r C{=W=&oW=*{&rd(&r*dWd&(W((g&Dd WDr_&cr&W&=&W_&*&22&W&r*&=gWdWrC(ru=d=(=gP&g {crrDSdgrrD&cC_ (*guD&D2&#cD &  _&2c_*= &c*r9^Wg*r4&{&d C*=tV&M2gH{_dgdd(gd(gdg& dD(cgcd gc*_d_&*g2D_C&d&=&W=gWdWrC({g=(>ghd{gx*rdr&gdDpd&(Wd*g&(r &_92=2gc2&d 2WgWcWg&dCd*rWg*2Cd^WW&C2C*==G(g v*{D{&ddDg(d(((gg&2 D{cWc& Wc*_&2d*&2*&W&&*W*(W&Cd7WC&C2=*( f&#2{*D r&r*rW(d 0(=g22 DW_*2=* c* M_&_2Cv&(*g*dWg**CdC&{d=(xgGd{gF(rdr&dgdd(g(cgdg& gg2_dD2&g&c&g_d*d2r&g22*dCW*&***WCdrsC==2( mW=2(dgDD?r(d (d(r_ g{DWD&cWD* &_d&&_*2W2&&W&(*&Wd=WWr7&CrrWr=rWS&d&{2rWrrd&Dg(d(((gg&2 D*cWc& W (_&2d*&2{&W&&*W&*W&CdXWCr{&=rdWd=dW{&(&r2dWdr(&cggdgrD(2+cdcr (*Y_d_r2(Cq&d&r*(z3*dWrW(CcC*dZ=(=CUd{&(Wr&r*rW(d fgrg{gD2qcg2d& *(*rWR2(2{= &c*rTbWgHr{DrGC(= 8dwrg {crrDRDdDr(g j((g DdDr& cc r*x_g*(W(Cq2(& *d*r{ W*CWC&=W=(-&{dd&{*rWr&dWr*(&gdgWg&DWD=c& d2W r&&_rWWW=WW&&C&*2WWWrC&{g=d=(=gS&g {{rWr&dWr*(&gdc&g*DWD&cWc( &_d&W_r*&2rCWC=CW*&=&W2CWCr=&rgFdmr{(gUrdr(rgd&  (cgr_NDggr_&2C* c* t_&_2Cn2D&&& *&Wc**r Cc=rd/jg=rd&(&D {*r:d&d2 U(_DgDdcgD( d &&d_(2g2d&g2**d*&=gWD*CCdC=CWrgldJr{((gr(dgdd(gd*gdg& d_OD&cWD* &cr&&*BW=Wg22Cd&2:gQcJgCd{d=rXg=2{ddWL&{2{*r=d(  d*(D(&Dd_gcdc(cg &W _{2W2&&W2**&Wd=&W*CWC&=W=(;&{ddW{&{2r*c d&d2(*_ g&g*gWcd&Mc= 2W _W**W== 2*&I*&*2{kC(=g=d:g=*{d{&(dr(dgdd(gd(gdg&DgDdcgcc d &&g 2*d_2CgCcCg*d=dWrCgW2=d{W=&=*=W{dgM{=r2c dWr2cd D_;g(D cdcr*  {_W_&2W_*&&*dC&**WWW&CWC(=&IdrWtrd&{rgWg=gWd&D&(2gWgrD&_gcdc(cg &W _*2W2&&W&(*&Wd=&W{CWC&=WC*,&{ddW{r(&rrDWD=DW(&c&g2DWDrc&2g d r_(WY2d2r&(=B*d*rW({ICdCr=(d%ed/r{(gXrdrrd(c%(d(((gg&2 Dccr&j&c&Y&*_WC _*28&&&2R)*=W2r CW{*r=dD(T:({ rdrrc d*(W(&gWg(D&cd_&c* W &_W *2&&d&W&&*W*=W&CdqWC&C*CW0d(7x_rgrddgr((d(&cdg(DgDdcgD* d &&g_d_r2(Ct&d&(&g*&{ WcCrr1{=Crr&AWg S*{Pr&r2c-d=(2_ g*DWD&cWc( &_d (_ 2d2r= &rC&*r}W9=eWC&C*CWId(;t2(drddgr((dDW(&(2g* WD&D*DW d*-_r_{_DCA&gCd= f(Tc{?C(C{d =cBr(M{gxr(&g=c r*d}(&(2_kD(cgcd gc*_d_&*d2(&g&d*g&(WdW&CgCd=g=cJds&dgu2(d{2DgDcDg(dcdgrDgg2cd_Wc&c*cW_dWR_2Wd&d*g&(Wd=WW&W2C*d =&=2I*g {&{2r*c d&d2(*_ g&g2D*& c&c2 *W _&_*_W&d=#&=*2{ WW3*{drcr ( =*h/{&{2DNr=d2  c= r ( &DW& D*c} & 2Ww_=22= C==r=r=&WWr W*C;=&=2(.{(rgrddgr*(d(&gggdDgg(cdc&2d (_g_d2g2c&d&&Cg*d*(*gW&r Cc=rd+dcd*d*{WD {*r5d&d2 ,grg{gD2.D22d&c&2***&*=Ck&(&{B *cWr{OCg{rrcr_( =*fh{&{2Dsd((g(dgg(*DdD&cgcd gc(_d_&*d2(&g&d*g*cWdW&ogCDWC=d===Wdg{d{rr(ggr*d{(g(=(*_^g2_dcd gc*_d_(2g_2&dCP&g=0**u*Wr{W{=r*=&bW=*{&gcg=rCrDd&(c(gcWg&g2D*_Wc&c*cW_dWl2(&g&d*g&*WdW&CgCd=gC(VdT&dd{(rgrddgdc(d(&cggdgrD(2#cdcr (*n_d_(_g2&= &c*rzR6cz*;*{d=gd6=(- {d{rD rcdrcZcccpc* dDg2jD(c  d rW  C2d_V&d&=&(Ax*=W2r {=rdCrr&SWg X*{Mr&r2c^d*({ggg=g*28DD2g r { DWe2gWdC =(=(BhW(W{r Cc=rd1dDdr{gg-{(r dddr  (cgr_lDggr_&&d&g*V (_ 2d2r= &2&_&C{ W=z&{Crcd(d{dcg {*{_D3r=d2  (Wc2 72 g*DQc&c2*Y_(W 2d&g2**d=**&WW**C&rc{W=rr&tr(W(=(Wr&g&d2(W(rg& gDDgCcdc=cW&g_d_r2(Wg&(*g*dWg**CdC&{d=(Ag7d{gI(rdr&ggr2Ddd2 g c gDd_dcr gc2_d&W_C_D2&&c&gCW*&*2W*EWC&C*CWJd(-{(g rddgr*(dc*(&gW(*D&2c_Wcr2& r*W*=*W2&W&&2*W*rW&JgCdCr=(djFdA(Hg{&D rcdrc4cDcrc&gW2 g*D3c&c2*U_(W 2d&g2**d=**&WW**C&rc{W=rr&qr(W(=(Wr&g&d2(W(rg& gDdD(Dgc&*  c_rWu2gWrW&CCa &**TW&W2rF=r={=D(QH_(dg(g=D*D2cg sg(g{2 Dccr&t gcr&&*WC _*29&&&2sJ*=W2{%C*=W=&FWF({&rd(&gddd(g(cgd =(*g4D&D2&?c2&d 2WgWcWg&d&(&g*&{ Wrp&C&=WC*B&dg{d{rr(ggdDrC(d(=(W gDdDrc(2gcD&d_d2g_*&d&(*g&DWd=&W*CWWC=&d =W( {(g({DDgDcc((dgg((Dd_=2cD22dc2*g*c*g2dWd&r*g&2Wd=WWCWDC&=c=grW8&32{*(Wr&r*rW(d L(=g2_%D*cWc& W (_&2d*&Wd&d*g*cWdi=**W8C&C2d-=2ddi2gggcggddd(dg(&_ gr &D&cWD* &&g_d_r2(Wg&d&r*(+UWdWrC(r5=d=rA((:{d{rr(D/dDrC(d(=(W gDdDrc(2gc* {_g_=_*CB_CCd&CWgWdCgW(=d=&rg=*L{{g{={*DerWDgd*({ggg=g*2Zcg2dDWcd&W_g*&_CC2&=CgCC*2*JCr=cC_d CW=d(*^gr_d{r=dr(((&d5 dDrg&D2cWc( c __rWP2rC*&&==*(*_WWCcC(d =&r&aW{W{&r&ggrDd&d(d&(Dgr2 D&cW2= &_g_d2gWD&d&&Cg*d*rW({(C_={C2=&={>cn2{*rd{ g&d2dd(rgg(*g=D{D2&  (*(_dW(_2Cc2*&{*g*=**{qCd{d=g0g4d{d{drggcdddWd&(WcCg&Dd &Dr_Wc&c2 *&W dW=Wg&r&{&D,G**Kd{cr(=d}gxc{d{({{D rrg&drcWc=cWg(g_DWccc(*  &&&_22W2r&&Cg&=*2{ W&CWCd=&rdr&d dsg>{(r dddr  (WgWg(_&_=c&2dDW ***_&2W_*&&2dCW*&***WCdrR=gPg=*(d(crd(&{grzc((dgg((Dd(&_gcdcr (&g__2gCg&{CWC=*&=dWgqgCdCr=(rgv({g{drg{*ddd&Dd({  dC_(gW2(D_&c2Wc& 2 *_=2(= 2*&D&&WdMgCdC(Cg=&( o(!_{Wrcr(c rCDW(2(_(C2 DW_&2^&*&*W _*__C92=&2Q =C=2WWr W*Cz=&=2(M7={2D rW{2Ddc&cW_ (*g5D&D2&T r { DWz2cWdCDC==*=_=={eC(C{d =cQr(A{g(rg DOr(d (d(r_ g*_ZD&cWc( &*(_d2g_(&dC=Cg&2=d*2{g{c{g=drdSr{gm2rd(WrCrDd&(c(gcWg&g2D*_Wc* W &_W_(2&&dW&&**W*&WW**C&=d{W=rr&6r(W(=(Wr&g&d2(W(rg& gDDgCcdc=cW&g_d_r2(Wg&d&(&g*&{ W*{7C&=W=(%&(({drg{(ddD=Dgd2cd(2_g_c_gcd2d r_g 22d*W2&22&*l *&***WCdruC==2( dCd2(drgD>r(d (d(r_ g*_eD&cWc( &*(_d2g_(&dC=Cg&2=d*2{g{c{g=drdhr{gF2rd(Wr&r*rW(d >(=g22 DW_22d&D*k (_ 2d2r= &2&_&C{ W{0&{*rcd(drdWg {*{_D^r=d2  (Wd2 d_g2PD(c  d rW _c2rC &(*g*dWg**CdC&{d{&=&oW3={&gc{(r dddr  (rc&gr_W_=_Wc&c*cW_dW%_2Wd&d*g&(Wd=WW&W2C*{W=C=D?&{c{g(Wr&r2d*DWdCc&g&DWD(c&c* WcC_&*d2(&g2D*d=O*g^,W*{*WCrWr=d*?&{Wl*r&DcD=drD&(r W = WD&_&c2 W r_&*g2D_C&d&=&W=gWdWrC({g=d=(=g.&g {crrD d((g(dgg(*DdD&_d_&c& W =_&Wc_(2 &d&r} *r=&Wr{W{={W=&=*=W{dgw{2gddd(gd(gdcWg&g2D*_Wc&c2 *W _&_22*= &&&2**{ W&W2C*d =&=2p*g {&{*{WddcBd=(2 <g&DWD(c&2( (_g_d2g2c&d&&=c&(* WdWrr Cr{&=rdWd=dW{&{*{WddcSd2cdgdDgg(cd_Wc&c2 *&W_&_22*= &&&2**{ W&W*WW=ddv==?2g {W(*gdDDD=  d*(#g&g22>D=c2* &=&=*(2gC52(& *d*r{ WcCrrhrDr<r&dd{gg:{(r dddr  (((_gWDcD(& c=2W 2 _ CC 2WW&CJ=*=2{ W*W_r}C==2( dCd*{WD {*r.d&d2 w(=g22 DW_22d&d*V (_ 2d2r= &c*r%%4(A(Cgr!C(= .dbrg %Crd{?ddd=d( w(=g22 DW_*22* c* )_&_2CR&(*g*dWg**CdC&{d=(hg/d{g-(rdr&ggr2Ddd2 g c gDd_dcr gc2_d&W_C_D2&&c&gCW*&*2W*zWC={&=&4WZ({&{*rWr=d&Dd((gggcDd_QDg2xc*&* =*W*=W*2&&W2**&;cO=*&W2W*C==(( =*YD8&rdggddd(dg(&_ g*DWD&cWc( &_d&&_*2W2&&W2**&Wd=WWr-&CrrWr=rWY&d&{2rWrrd&Dg(d(rg(_>DdD(Dgc&*  c_rW82gWrW&C)e &**FW&W2r/CD=&= +&{c5*D rcdrcncgdrc&gW2 g*D9c&c2*/_(2g2d&g2**d*&=dW(CgCd=gC(RdQ&dg?2(d{2DgDcDg(dcdgrDgg2cd_WcCcD &_c_g*W2&22&*CW**WWW&CWC(=&Idr&+*{W{&rW{*d&(dDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg2d&r&(*c**{JW(WCCd=&rWH&3*EWrdDMd((g(dgg(*DdD&_dc( g d_g (2d2&Wg22Cd&2Eg4cGgCd{d=rPg=2{ddW{&{2r*c d&d2(*_ g&g*gWcd&ic= 2W *=*22W= 2*&U*&*2{?C(=g=dVg=*{d{&(d{hdgdd(gd(gdg& gg2_dD2&g&c&g_d*d2r&g22*dCW*&***WCdraC==2d&dCd*(drgD<r(d (d(r_ g2g_gC& c=2&&C&^W(*hW&= &*&_1h*=W2r {C{2=W( =*,H{&{2DUd((g(dgg(*DdD&_dD1 g d_g (2d2&Wg22Cd&2FgpcmgCd{d=rMg=2{ddW{C{Dr&dcdgDW(&(2g* WD*cWc& W (_&2d*&2 &W&&*W&*W&CdYWCr{&=rdWd=dW{&(&r2dWdr(&cggD(CDdD=DW2g d r_(*g2d2(2g&&L **WWW&CWC(=&pdr&S {W{&rW{*d&(dDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&d&r*(%eWdWrC(r<=d=r-((6{d{rr(Dmddd(dg(&_ g(g_DWccc(* cC**_W*W2*CN&&*W*(W&{(Cd=gC(Rdd=dg52(d{2DgDcDg(dcdgrDgg2cd_Wc* W &_W_(2&&dW&&**W*&WW**C&=d{W=rr&pr(W(=(Wr&g&d2(W(rg& gD(2 cd gc*_d**_&2W_*&&=cCW*r=&Wr{W{={W=&r&J2{W{rr&ggd((g(dgg(*DdD&_dD_ g d_g (2d2&Wg22Cd&2Qgsc3gCd{d=rag=2{ddW{*g8r&dWd((& (gdDgg(cd2=2gc2&d 2WgWcWg&dCd*rWg*2Cd?WC*=W=&#WA({&rd(&r*dWd&(Wd*g&Dd WDr_&cr&W&=&W_&*&22&W&r*&=g*DwdCd=gC(MdrWpWd&{*rW{Cd&d2d_dC_ g& &gC2W2=&* &_W_=2&2*2_=/*g=dWg{r{2C*=W=&;&dg{d{rr(ggd((g(dgg(*DdD&_dcg2g d r_(W82d2(2g&&1 *(*_WWCcC(d =2d*^g(*{Wg*{CD*d{c*(=cWg(g_DWccc(*  r&&*U*W__21&c&**&{ Wrj2rdrcd9:(,{g {crrD)r2DrD&c*_ (*g.D&D2&Oc= 2W *&**2r= 2*&x*&*2{EW=C2d =rr2d2g )*{xr&r2cPd2cd & C WD&D*DW d*O_(2g2c&dW&&{CW*&*2W*r C&C*CWod(B0={2D g&g&Ddd2 5((g DdDr& c=2& 2_W_g2&Wg&d&(&g*&{ W{X&WC=W=2HW#W{&rd(Wr&r2d*  (&(2g*2 D&D*DW d*f =_2C 2rW2Cd=D:J*(W CdCrd =c#r(7(c(((&rrc r*d#(&(2_JDrD{DD&s d&d*c*_W*WcC =.*(*{{ WcCrr?C2rrdD(4H({ rdrrc rCD&(*cWgCgDD&cccg2W & 2_**W2WW&2*CW*C*DW&CcCg{W=&=2o*dW{&{*{WddcE(gcd(( gDdDrc(&! d ( g_&C 2c&r=9&2&r=&{d{(rGC(= TdErg {2{_{Cc d*D&cW D_(_r_=& c*c_*7 =_2C 2rW2C^N &**sW&W2r4CWrd=*dg{DhCrdr=rWDg(d(rg( gDr_dcd2g DcC_d_=_WWg&d&r*(=gWdW(WgC&d =2r&J&dW{&{2r*c d&d2(*_ g&g2D*& cr2& r*W*=C 2&22&*i *&*2W*r C&C*CW1d(9:={2D rWg*DdcDcW_ (*g4D&D2&sc= 2W _W*&WdCDCCu &**HW&W2rXC*={hgI=6*g-{Dggdrd{dD ,gg d_ 2(2r&a ( {W _c2rCo&gCr=DnZ*(W CdCrd =c^r(M{g((gdDsr(d (d(r_ gcDr27cg2(&(*Q (_ 2d2r= &**W*&WWW(C&=d{&=*HWv&{WK*r&dddWd&(W(=g&Dd WDr_&cr&W&=&W_&*&22&W&r*&=gWdW(WgC&d =*pWU&{W{(r&ddg&d{(W(&gW(*D&cd_Wcr2& r*W*=*W2&W&&2*W*rW&7gCdCr=(dLSdO(Hg{&D rcdrcTccdrc&gW2 g*DXc&c2*K_r_{_DCu2DCd=c==,*B&{drB=(={( mc{rgHgdg(dgcNd(( gdgr2 D*cWc& W (_&2d*&2{&W&&*W&*W&CdTWCCCD=&KcPgdW{&{2r*gWd*(W(&gWg(D&cd_&c* W &_W *2&&d&W&&*W*=W&CdJWCr{&=rdWd=dW{&(&r2dWdr(&cggD(CDdD=DW2g d r_(*g2d2(2g&&Y **WWW&CWC(=&Ndr&L*{W{&rW{*d&(d(W(&gWg=D&cd_Wcr2& r*W*=*W2&W&&2*W*rW&sgCdCr=(dGpdOr{(gjrdr(rgd&  (cgr_8_ _r_&cW* c* L_&_2CY2DCd*dWg**CdC(=gCDJddE6*{WACgWg=d&ccd2cd(2_g_c_gcd2d r_g 22d*W2&2*2W*dUq*=W2{&{W{*=W( =*F:{&{2DRrDd&d (&gc(*2 Dccr&v g&r*cWk_(2 &d&rM **WWW&CWC(=&1dr&E{{W{&rW{*d&(dDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&D2C*d*=*W,gCdCr=(rg6({g{drg{*ddd&Ddd_gggdDgg(cdc&2gc2&d 2WgWcWg&dCd*rWg*2CdsWW&C2C*==X(g z*{D{&ddDg(d(((gg&2 D*cWc& W (_&2d*&2{&W&&*W&*W&Cd,WCr{&=rdWd=dW{&(&r2dWdr(&cggdgrD(21cdcr (*%_d_r2(C:&d&r*(NMWdW(WgC&d =cUr( {(rgrddgr*(d(&drc&g&DWD=c&&cc(  _d_rC 2rW&&r=W===WW&W*WW=ddp=2dd{drg{(ddgWd&d2(*cWg&g2D*& c&c*cW_dW1_=22= &WC2=dfD5Cr W*Ci=&=2(K{r{{{DD0rDDdcccC * __D2Zc(c{*  c_rWz2g_rW&CC=dkS*(W CdCrd =(=_NW{c{(D {CgWd2d_dC_ gW &_82*2W*  * _WJ_=22= C=C2=dWg{/W(C =d=r( Hc{rg6rg{rg&D=  d*(og&g22oc( g d_g *2d2&Wd&(*g*dWg*(CdC&{gC2rd=2(g(c(grdgddr(gd2gdcWg&g*gWcd&;cD&d_d2g_*&d&(*g&DWd=&W*CWWC=&d =W( {(g({DDgDcc((dgg((Dd_=2cD22dc2*g*c*g2dWd&r*g&2Wd=WW&W2C*d =&=*=W{dgP{=r2c D=D*cdgg_-g(D cdcr* cC_d A2d2=2(=w&=*2{ WW*2{drDdi=(L {d{rD rcdrc ((gggdDgg*cdc&Dr2& &_W_=2&Cc2(& *d*r{ WrN&CrrWr=rWH&T*?WrdDTr2Dd(dgg((Dd WD&D2c*2W C D_&2c2gWW&&&2**=WW*CWC&=W=(s&{dd&{*rWr&dWr*(&gdgWg&DWD=c& d2W r&&_rWWW=WW&&C&*2WWWrC&{gCd=r=(#c;*g}{({Crdd&DW(&(*(WDd2HD=c2&S *_W_&2W2(&&*d22=dWdCgCc=dr=C*=be&A2gM{2gdr2cgcccggdg(ggD&& cr2& &_W *2&Wg&d&r*(=gWdWrC(rs=d=r7((Z{d{rr(DmdDrC(d(=(W gDdDrc(2g r { DWK2dWd&d*g&*WdJ*W&CWW*=&=*=_(N{(rgrdddg&drd=((cWg&g2D*_WcCcD &_c_g*W2&22&*CW*&***WCdr8=r={=D(n{d(drddgr*(dc*(&gW(*D&D*D_&N (_g_d2d*&2r2=&(CW*&*2W*NWC&C2=*( U&?2{*D r&r2d*  (&(2g*2 D&D2c**  & * W2dC,2=&2x =W==zrCgrwC(= /dFrg {crrD%dgDrD&cW D_vg(D cdcr*  c_rWi2gWrCgC*L &**?W&W2rsC==2( dW({(((&rWc r*d%(&(2_8g=D2& cW2&&d*g*_C _*2X&&&2o.**W{CgC=C*dZ5r((P_g({DD(dcc((gcg(*g{DgD=D*&oc2&d* *g_{2 2=&(*do?*2:r{&{=d =*=_(BG={2D rrg2DC  d*(,g&g220D=c2*  r&**&C _*2Y&&&263*=W2r Cr{*r*( =*N^{&{2D9dcDd(rgg(DDd WD&D*DW d*3_g*d2r&g2_*dCW*&*2W*r C&C*CWId(kY={2D rr{2DdcD O((g DdDr& c2c_cCW _&*&WCCr=(=d=W{ W*W_rUC==2( %rd*(2D {*rxd&d2 8g(_ Dg2(cc&c2W C D_&2c2gWW&&&2**=WWrU&rdrDrg>D=C{d{={Wggdddr((cggdg(ggD&& c*&7 W**_=W=Wg&d&r*(NYWdWrC(r3=d=(=g}&g {crrDEr2DrD&c=_ (*g4D&D2&Zc= 2W *,**Wd22=P&(* WdWrr C2C_CC( B&d&(*gcD(gKD*  (*(__xg=D2& cr2*&CW  *_m2&22=o&_=d**ZgCDWC=d===Wdg{d{rr(ggrDDdd(cggD(CDdD=DW2g d r_(*g2d2(2g&&% &C=&**}WC&C2=*( q&O*3WrdDUdrDd(dcggdgrD(2Xcdcr (*6 2*d_2CgCc=t*d*rW({,CdC(Cg=&( Q(q_{Wrcr(c d2D&(&gWg(D&_gD*c{ g = *WO_*Wd_W2dCW*2*_*Cr C&{&r=d*(W{_gVr(r{c d(d_(Wgcg(2 D&_& { W &_&*g2r2{2D=)&2=d9 {(rgC&d =*=_(l5*{{rgr=r*cG(dcdgdDgg2cd_Wc(c_ W_c_(C _*W&&&*W==W&-gW*C{=g===*(R,2(drddgDD(dDW(cgr_Hg(_d_&c**  = 2_*C 2rW2Cd*rH:*(W CdCrd =(5W/r{&(d{(dgr2(dDW(&gW =D&_dD*2g d r_(*g2d2r&(Cg*d*rW(LgCdCr=(dh.d}(6g{&D rcdrcscgc2c& dDg2%D(c  d rW _*2W2&&W&(*&Wd=&{WC(=g=d;g=({d{&(grdr(rgd&  (((_gWDcD(& c&2& &_W_(2&Wg2*&{*g*=**{TW2{d=(:g:d{ddW{2{_{Cc d&D&(& W =_*gD& c*c_*- DWr&W**2{*=&_WDC*=W{KCrr*=*3Wn&{&gcrdrrd(Dg(d(rg(_)DdDrc(&> d ( g_&C 2c&r=0*g=r=&>W{grqC(= ldZrg {crrDHDgD*r2cdgg_sg(D cdcr*  r&&_&2W_*&&Cg*d*(*gW&r C(C_=Wfc!(g aWg*{CD*d c*({ *(D_*c{2*cW2W *_W_&2W2(&&*d*W*&WW**C&=d{&=&oW-={&(g{2gdr2cgcccggd dDrcgD2 d2W *_W_&2W2(&&*d*W*&WW**C&=d{&=&kWI={&(g{2gdr2cgcccggd dDrcgD2 d2WcW&&_&2W2(&&&**W&WW&{ WWr =(d(=g(g(cg(rddgr((dc= c(2 dg22g2c2g d&d_r2g_2&dWW&**W*&WWW(C&=d{&d Pd{g:(rdA2gdD ccDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&gCd= =g*{W W=C(=ddq!gdr(&(=D r*r_cod=(2_  C *DW& D*c5 & 2Wx_=22= &WC2=d+d{VW(C =d=r( Vc{rgvgrgrdgcqd(( gdgr2 D*2k {&*cD*=*g2d2(2g&&t *W=&{d{D{g=d=r4((/{d{({gr&c dc(r 4gg r_&_=& D*c7 & 2WZ_D2&2 &&*c&*{ WcCrrH=gCrr&d*g 5*{>r&r2cKrCcd(DDgg_cd_WcCcD &_c_g*W2&22&*CWW{=&*CCWC =&rg=d-rA({c{*DHr(rCdd(&cWg&g*gWcd&K _&d D2g_h&dWW&&&2**{ W&W2C*d =&=*=W{dg:{=r2c D=D2(W_ (*gHD&D2&9cD&d_d*g2d2(2g&&i *cWr{Q{ Wr{&=W( =*m#{&{2D#drd{dD #gd d_D_&2*2 2=*G_(_{C 2c&r=G=D&r=&WWr W*C/=&=2(F7m(d{*ggdDrC(d(=(W gDdDrc(2gc_&d (*g2D_C&d&=&W=gWdWrC({g=d=(=gI&g {{(&{*gWd&d2(*_ g&g2D*& c&c2 *W _W*&2WCWC=f *&*2W*r Cr{&=rdWd=dW{&(&r2dWdr(&cggg d_ _gD{c c= (_dWR2gWrC&C=4 ***_{9W=C2d rWr2BWg Y*{er&r2c?d=(2_ gW 2_K& D*c> & 2WT_=22C&C=22=dWg{4W(C =d=r( =C{d6lrdr=r(c8d=(2_  = *DW& D*cJ & 2WT__Wd2(Cg*D&CWdW=WW{g=d=r6(dg/7(d{*ggrddrd((c(*_Jg(gCDdc&2W & * W2dCe2_Cd&(=gWdWrC(rX=d=(=g/&g kC(&r&gWd&d2(*_ g&g*gWcd&qc= 2W _W*2WdCd=.&(* WdWrr Cc=rdndgd(d&{WD {*rEd&d2 %(Dg&g D&ccD**  c_rW,Wr_rW&&W: &**TW&W2r4=(d L_((=Cgc(WrCrDd&(c(gcWg&g2D*_WcW2&*d*D*g_d2r2(&c&*iL*(*CWdC&{W=&=*=W{dgErggdD&DCDW(&(2g*2 D&D*DW d*P =_2C 2WW2Cd=&=={ **WTC&C2dQarG{IDg.rdgdDgD_c*c2 {_/D(D{& cc r*+_g*rWgCF2(& *d*r{ C{I&WC=W= 3&dg{DxCrdr=rWDg(d(rg( g(C_dDD gc__d&W_C_D2&&c&gCW*&*2W*LWC&C*CWld(s{_(d{Ddgr<(dDW(&(2g*2 D&D2c**  & 2_*C 2WW&&W=W=={ W&W2C*d =rr&qr(W(=(Wr&g&d2(W(rg& gDg_d2 2gc{   =_(2dC?&gCr=&=={ W*W_riC==2( /Wd2(dggDKr(d (d(r_ gcDr2O2(2r2& WW  *_M2&22=f&=*2{ N*.2CWd C*=YP&32gZ#CgdrD(gd_gdcWg&g*gWcd&3 _&d D2g_1&dWW&&&2**{ W&W*WW=ddU==z2g {W(2g*c r*dS(&(2_lgDD&D c& cc*W _c2rCO&g2rC&=2{ **WeC&C2d}n(( {_g(fCDcgWdCdD(&gcgg WD&D2c*2W W&&WdWDWg2d&r&(*c**{hW(WCCd=&rW-&m*RWrdDbdgDdc&cCcWg&g2D*& c&c2 *W _&_*_W&d=V&=*2{ e=82CWd C*=mm&z2gH{DgdddDg(d(((gg&2 Dccr&, g&d&&*=C _*2<&&&2Z1*-KdW*{g=d=(=gE&g {{(&{*gWd&d2(*_ g&g2D*& c&c2 *W _W*&2WCWC=h *&*2W*r C&C2=*( !&.*GWrdD0r*d{(g(=(*_aDc2(DD&( _*( 4W(_WC(&gCg*r*{*D{}Cg{dr d(dc(A{({{D rcdrcZ(gcr & C2 g*DKc&c2*H D_&_ 2&&c2*s *cWr{m{ Wr{&=W( =*kp{&{2D-d((g(dgg(*DdD&_dD_ g d_g (2d2&Wg&D2C*d*=*W}gCdCr=(rgkgdd( (g{{r r=d((d Ogg r_&_=& c*c_*? =_2C 2WW2Cd=gb>*(W CdCrd =ckr(R(d(rrgDAr(d (d(r_ gcDr2ncgDr2&&CW  *_O2&22=n&D*&* W&CcW*d =c:r(o(gAr(&rWc r*dL(&(2_QgW_dcc gcD_d&W_C_D2&&c&gCW*&*2W*9WC {&==IW{{{&(g{drrr(dcd* a(((CgdD&_Wc&c*cW_dWl_WWd&c*g&DWd=WW&W2C*d =&=*=W{dgm{=r2c D2D&cdgg_qg(D cdcr*  W&&WdWDWg&d&(&g*&{ W*{zCgr*= d=dg{d{rr(D+dddr(( Tgdg(ggD&& cc r*m_g*rW C%2(& *d*r{ WcCrr+rDrdr&3Wg t*{Zr&r2cZ(_cd(( gDdD(Dgc&* cC&&_(*W2&22&*^ *&***WCdrq=crdHddg{d{rr(D4dddr(( Agg dDg2g2c&} d r_(W)_2Wd22=g=c=gWdZdCr=gC2wdrW=&s2>*{=r(c r*dDd&gd gDdD(Dgc&*  W&&*Y*W__2T&c&**&{ WWX2rdrcdE>(3{g {crrD-dgDrD&cW_ (*ghD&D2&Nc= 2W *&*22W= 2*&}*&*2{HW=C2d =WC2dd(DgE{(r dddr  dCgd(qDdD=D(&tc= 2W *W 2Wd&g=.&(* WdWrr Cg{&==#W=C{&(grD{Cddd=dWcggdgrD(_gDY2d c_g__2d*W_&222*&=*({ **WDW&=drgmdS(Gg{&D rgg&d=(WdCg& gDdDrc(&p d ( g_&C 2c&r=)=r=d=&WWr W*CB=&=2(e{g(dg&gCgWd&d*dWgd_7D(2 DW&(c4*c&W_&_22*= &&&2**{ W&W*WW=ddU==?2g {W(2gpc r*dA(&(2_Sg=D2& 2C2&&d_gW7_(2 &d&r7 W{=&**iWC&C*CW/d(a!D(d{*ggdddr(( ,gdg(ggD&& c=2& &&W_&_22*= &&&2**{ WW#&CWrWr=( ?&e2{*D rrg&drcWc=cWg& &D2cWcr &&g_d_r2(C-&d&r*(.!WdWrC(rt=d=rA((T{d{({gr&c dc(r ) D   *DW& D*cV & 2W:_=22= &WC2=dxglYr W*CX=&=2(ZF={2D rWg2DdcDc__ (*gMD&D2&O r { DWx_2WdC(C2=*=_-d{IC(C{d =c8r(5(g(=62gddgcpd(( gdgr2 D(D_cW c (W _&*&2&&W&(*&**WWW&C&{d=(Igzd{d(>{*rWr&DWD=(& cgD(CDdD=DW2g d r_(*g_*2{&g&=&*sHWd9dCd=gC*IdrW=Dd&{&gW{&D&D=DW(2(_(C2 Dr_&c&&*cDW _*__CI2*&{*g*=**{-Cd{dCgRg=2(d{drd(Wr*dWdr(&cdgd gDdDrc(2g DcC_d_=_WWg&d&r*(=gWdW(WgC&d =(=_xW{c{(D r&g&d&(W((g& g(C_dcd&gcd*d*c*g2r2{2D=#&2=dWd{(*Cr<=(={( :(n_{Wrcr(c d&D&dWgWgr_&D&c&2g (_g 22d*&2&WW&&&2**=WW&W2C*d =&=*=W{dgL{*r{dgd=d* F(g_((C2(Dd&(cD*( WW(2_C(2_=(*g=gWrW{WDr4=grdd ((((glr(r{c dc(r hgg ( &_=& D*cn & 2WK_=22= C=22=dWg{bW(C =d=r( U*{W{&rWr(d&(dD&( gWg&DWg*c& d2W r&&_rWWW=WW&&C&*2WWWrC&{g=d=(=gi&g {*rWr&dWd((&gdc&g*DWD&cWD* &_d*W_*2W2&&W&=*&Wd=WWrK&CrrWr=rWl&d&{2rWrrd&Dg(d(rg(_JDdD(Dgc&*  c_rW3WgWr&g=l&(* WdWrr C*=W=&4W^({&rd(&r*dWd&(Wd*g&Dd2dD&cWc= &&g 2*d_2CgCcCg*d=dWrCgW2=d{W=&=*=W{dg-{=r2c D=D*cdgg_Pg(D cdcr* cC_d S2d2=2(=f&=*2{ PW*2{d=gdI=(8 {d{rD rWg&D)DWd_(%gcg*D&& cW22*d*cWB2(2{= &c*rHpsgB(+&CWd C*=P.&h2g-{=r2c D*D2cdgg_4g(D cdcr*  c_rW^2gWrW&C?% &**<W&W2r,CD=&= n&{c9*D rcdrc1(gdrc& W2 g*D-c&c2*< _*d2(&g2W*dCW*2*_*Cr C&{&r=dWYg(*GCrW{&d&d*d_ n(_ dg_2r22c* W &_&*g2d2r&(Cg*D&CWdW=WW{g=d=rP(dg{_(d{Ddgrg(dDWd&(2(*g=D(& D*cDc&_d*g2d2(2g&&3 W{=&*CCWWW=&rgxdfr{(g7rdr(rgd&  (cgr_1Dggr_&2W* c* 8_&_2C.&r&{&DbRWdAd{D{&r*r2dr(,{({{D rcdrce(gcr d_ug(D cdcr*  W&&WdWDWg&D2C*d*=*WRgCdCr=(rg?({g{_rd(&r{gWdCdD(&gcgg WD&D2c*2W & * W2dCZ&gCd=&=C=WW&W2C*d =&=2F*g {&{*{WddcBd=(2_  x *DW& D*c; & 2W0_=22C&C=C*=dWg{7W(C =d=r( V2B_zCD rrg&D*Dw ( { =2 D*D_&nc= 2W _W**WC= 2*&6*&*2{;WD{d=drg#D=C{d{={Wggdddr((cg(W dgDcggC d2W C D_&2c2gWW&&&2**=WW&W*WW=ddo=Wdd;Drg+CddgWd&d2(*_ g&g*gWcd&?cg&d **g CWd2(Cg&d=dWcXgCdCr=(dQld)r{(gjrggddgcgcc MgdgrD(27cDDC d = W*g2d2r&(Cg*(WgWdCgW*=d=&rdn({g{drg{(ddd&(g((gggdDgDccdc& d2W r&&_rWWW=WW&&C&*2WWWrC&{gCd=r=(fcw*g,{({Crdd&DW(&(*(WDd2^c( g d_g *2d2&Wd&(*g*dWg*(CdC&=g=(igSd{g{crdr&ddgWdrD&(r W = WD&_&c2 W r_&*g2d2r&(=l*d*rW({tCdCr=(djMdkr{(gnrdrrd(cP(d(((gg&2 Dccr&<&D&_&2_WC _*2F&&&2KN**W{CgC=C*d-Xgdg{(rgrddgr*(d(&cd(-DgDdcgD( d &&g 2*d_2CgCcCg*d=dWrCgW2=d{W=*bWP&{W{(r&ddg&d (W(&gW(*D&cd_Wcr2& r*W*=*W2&W&&2*W*rW&QgC(=g=d:g=*{d{&(dr(dgdd(gd(gdg& gg2_dD2&g&c&g_d*d2r&g22*dCW*W=&W&CWC(=&=*aWnW{&(dr(dgdg(dcM(*gWgW_W_=c&&cc2&d 2WgWcWg&dCd*rWg*2CdsWC*=W=&QW!({&rdrWr*dWd&(Wd*g&DdD&_dc( g d_g_c2d2&Wg22Cd&2QgHc#gCd{d=rKg=2{ddW{*{_D!rDd&d(d&(Dgr2 D&D2c*2W & * W2dCL2=&2M *W=2Od{D{*d C*=<N&%2g^rrr{rDcGdDcd ( W_*__2c&R ( {W _c2rCV&g2rC&=C=b{oW(C =d=r( ?*{W{&rWr(d&(dD&({gWg&DWg*c& d2W C D_&2c2gWW&&&2**=WW(W_CW=c=(( =C(*{Wg*r gWd2d_dC_ gg &_!2*22*  * _WS_=22= CWC*=d*W{8W(C =d=r( nc{rg4gdgrrWcod(( gdgr2 Dccr&0cWcr&&**C _*2N&&&2X:W({ Cd=gC*Edd*!&{W#*r&DcgWdrD&(r W = WD&_&c2 W r_&*g2d2(2g&&< **WWW&CWC(=&Ndr&Y*{W{&rW{*d&(d(W(&gWg=D&cd_Wcr2& r*W*=*W2&W&&2*W*rW&fgCdCr=(dSUd,(qg{&D rcdrc6dWcrc& W2 g*D+c&c2*i_r_{_DC.2_Cd=(=_,*3&J=r<=(={( :c{rglgrgrrWc.d(( gdgr2 D*cWc& W (_&2d*&2*&W&&*W&*W&CdCWC&=W==u&{ddW{r(&rrDWD=DW(&c&g2DWDrc&2g DcC_d_=_WWg&d&r*(=g*D;dCd=gC(IdrW?Wd&{*rW{Cd&d2d_dC_ g& &gC2W2=&* &_W_=2&2*2_=A*g=dWg{r{2C*=W=&3&dg{d{rr(ggd((g(dgg(*DdD&_dcg2g DcC_d_=_WWg&d&r*(=gWdW(WgC&d CCr&P&{WA*r&ggdgDd((gg(DDdDrD{DD&L d&d DWgWcC(&d*g*cWdW(W{r CW{&=Wd2(r{(rgrdddgWd&d2(*cWg*DWD&cWc( &_d&&_W*W2&22&*4 *&*2W*r C&C*CW)d(?6={2D g=g*DddW q((g DdDr& cc r*d*c*(_WC/2(& *d*r{ W2W_WCd =Wr&d*({g(grgWc d*d_ #(=g22 _=g22dcW*5 (_ 2d2r= &**W*&WWW(C&=d{&={9Ww&{W5*r&ddgWdrD&(r W = WD&_&c2 W r_&*g2D_C&d&=&W=gWdWrC({gC-rdld{gG*rdr(dgrV(dc%(*gWg _W_=c&&cc2&d 2WgWcWg&dCd*rWg*2Cd#WCCCD=&Rc7gdW{&{2r*gWd&d*dWgd_tgn_dcd gc*_d_(2g_^&dCB&**W* VWU=C&rcC2rd=2(g(c(grdgddr(gd2gdcWg&g2D*& c&c*cW_dWJ_DWd&d*g&(Wd=WWW#&C*=WCCb&:2+_jCD r&g&rCcWc= *g&DWD=c&c*c_*7_g*d2gCrC2&**W*&W&%gCdCr=(rgb({g{drg{*ddd&Dd(gcg(2 dg22g2c2g d&d_r2g_2&dWW&&&2**{ W&W2C*d =&=27*g {C{Dr&dcdgDW(&(2g* WD&D*DW d*i *_{2g2=2*=4&D9(Wg{(W^{g=r={=D(8qW(dg D(DrcI((({_ gcDr2^2g2(2& gW  *_%2&22=u&=*2{ 5&.2Cgd C*=x^&<2g?{=r2c dgr2cd (_Pg(D cdcr*  **E_&2W2(&&=(*dWg*(Cd{={gC2rd=2(g(c(grdgddr(gd2gdcWg&g*gWcd&T (_g_d2g_*&d&&Cd*(WgWdCgW(=d=&wgpd{g{crdr&ggr2Ddd2 g c gDd_dcr gc2_d&W_&_22*= &&&*&WWd{qW=C2d =gr2dd(gg4{(r dddr  (2(_(C2 D{_&2*&{*(*d*cC 2*2_=P&=*2{ I2<2Cgd C*=Y6&f2g)r(dgdd(gd*gdg& dD(cgcd gc(_d_&2g2d&g&c*d*&=g*2,dW2rgrcrg3ddd{rrg{2ddgWdCdD(&gcgg WD&D2c*2WcC&&_&2W_*&&Cg*g=dW(CgWD=d=r={=D(/{d(d{DDgDcc((dgggcDdD(D{& cW2& W*2Wr2(&g&d*dCW*&*2W*IWC*=W=&UW!({&rd(&rWgWdCdD(&gcgg WD&D2c*2W & * W2dC?2DCd*dWg*(CdSWCW{&=*:W=C{&{2{_{Cc d&D&dC W =_*D&cWc= & * _W42gWd&g=r=2**WWW&C&{g=d=r}(dg{(rgrddgr*(d(&cdgg gDdDrc(&0 d r_(W}2d2(2g&&I *cWr{E{c{({&=g( =*SO{&{2DJr=d2c&c=c*gg2 g*D3c&c2*4_r_{_DCB&gCd=(=_F*z2{grl=(={( )c{rg5gc{rg&dg  d*(;g&g22Pc( g d_g *2d2&Wd2_*g*dWg*(CdC&{gC2rd=2(g(c(grdgddr(gd2gdcWgCgDD&cccg2W & 2_**W2 W&&&*W*(W&W*CWC =&d j({gtGgggcddD=drD&(r W = WD&_&c2 W r_&*g2D_C&d&=&W=gWdWrC({g=d=(=gE&g { (&r&dWd((&(*gWg D&2 c( gcY*g*c2dW=2rW&&r=W===WW&,&C2=W=ro&dg{d{rr(D1ddd(dg(&_ (C &D&cWD* &&g_g*d2(&g2D*d*r*{*D{7Cd{dCDdgdc(({drgrcddd(d{  (Wc&gW_22rc( g d_d&W_&_22*WW&**W*&WWW(C&=d{&=WrW%rd&{rgWg=gWd&D&(2gWgrD&_gcdcr (*h_d_r2(Cw&d&r*(;#WdWrC(rT=d=rQ((k{d{rr(Dpdddr(( lgdg(ggD&& cc r*U_g*(*&W*Cd=8&(* WdWrr Cc=rd-bgdrd&(*gDD#r(d (d(r_ gcDr242(2W22&d_gWk_(2 &d&rq *cWr{sCg{(r(rW( =*ZJ{&{2DSr*d{(g(=(*_Qg*_dcd gc*_d&W_(__2W&c&(! *2=&W*CWC(=&=(=_oW{c{(D rWg&d*(W(( W CD&_gD=c2&v W&2*^W=_*2m&&&2mY*=W2{<C2{2=*fWm((W(=r&Dcr(d (d(r_ gr &D&cWD* &&g_d_(_g2&= &**W*(PWXWC&{d=rrghd}r{(g4rdr(rgd&d=(2 +g2 *D*cWc(&W&=_&Wc_(2 &d&re *r=&W&CWW*=&rg#d:(Gg{&D r*dWd(cWcWg& dDr_gcdcr (*+_d_(_g2&= &(&_*WWcW(r W&r*CDd*R (*{gg*r{D*rWc*dC *gW_*c{_Wc2c_cCW _W*&WEC*CWb ***_{?W=C2d r=r*VWg n*{pr&r2c+d=(2_ gW(2_d2D&}c(  _d_rC &{W&&&*W*(W&W*CW={=&d s({g{_gggcddD=d&d*dWgd_TDg_d2 2gc{   =_(2dCt&gCr=&=={ W*W_r)C==2( zWd*(WD {*r?d&d2 U(=g22 _=_*2d g*A (_ 2d2r= &c*r1%WgBrf&rdrgdi=(Z {d{rD r2r_rC  (rc& C s2(_X22*  * _WH_=22= CCC2*W{ **WwC&C2di=Wdd{d(grD{Cddd=dWcggdgrD(_gD_2dcW_gcC2d*W2C2D&&*c*g=WW&W2C*{W=&=*=W{dgf{_gdrW(grCgdcWg&g2D*& c&c*cW_dWe_dWd2*Cg2C=d*(!gWG{d=crg3dHr{(gfrdr(rgd&  (cgr_M_d_rcg&;c(  _d_rC 2c&r=1=D&r=&WWr W*CX=&=2(1{r{{{DDkddDdcgc& * 2_r28c(c{*  c_rWm2gW(C(=7&(* WdWrr WW{&=g6W=&{&(grD{Cddd=dWcggdgrD(_gDD2d (_g _2d*W222_2CI *&=&Q={WC{r*=gOWj {&{*{_DfrDDddD r 2g*DWD&c&2g d r_(*g2D_C&d&=&W=gWdWrC({g=d=(=gT&g }C(&r*dWd{(&cggrg{gD2wcd2d&c*g _W(_W&g2#*d*(*{{ *CU&WCr2drk({g{drd(Wr&r2d*DW(&(2g*2 D&D*DW d*? =_2C 2WW&Cd=d66*(W CdCrd =*8W=W{&(d{Dggddd(dg(&_ gW &2d2D2g d r_(Wl2d2r&(=3*d*rW({YCg{d=gdgdc(V{d{rr(DOr2Ddd2 g c gDd_dcr gc2_d&W_&_22*= &&&*&WWd{)W=C2r&rCC2dd{ggq{(r dddr  dCgd(pDdD=D(&3c= 2W _W*2W0= 2*&I*&*2{FC(=g=dfg=*{d{&(dr(dgdd(gd(gdg&DgDdcgcc d &&g 2*d_2CgCcCg*d=dWrCgW2=d{W=C=D^&{c{g(Wr&r2d*DW(*gWg&DWD(c& d2& *_W_&2W_*&&*d*W*&WWW=C&=d{W=rr&Er(W(=(Wr&g&d2(W(rg& ggdDrD(ccc**u ( C_d2&WW&&&*&WWd{?C(=g=dKg=*{d{&(dr(dgdd(gd(gdg&DgDdcgcc d &&g 2*d_2CgCcCg*d=dWrCgW2=d{W=&=2p*g {&{2r*c d&d2(*_ g&g2D*& c&c*cW_dWt_=22= &WC2=*tc{JW(C =d=r( >20_ACD r2g&DWcc ( r *2 D*D_&}c= 2W _W 2WdC(C*R &**9W&W2r8=(4g;d{g#*rdr&dgd((g(dgg((DdD&cd_&c* W &_W_=2&&dWW&C&D*&WcWg.WC&C2=*rWJc{rgMr(dgdd(gd*gdg&(*gpD&D2&Hc2&d 2WgWcWg&d&(&g*&{ WrX&C&=WC*O&dg{d{rr(ggdDrC(d(=(W gDdDrc(2g d ( g_&C 2c&r=i*(WgWdCgW*=d=&C*=vu&U2gj{2gdr2cgcccggdg(ggD&& cr2& &_W *2&Wg&d&r*(=gWdWrC(r?=d=r%((L{d{({gr&c dc(r agg r &_*2 &Qc(  _d_rC 2c&r=f*g=rT(t%r W*C#=&=2(<{(rgrddgr*(d(&gggdDgg(cdc&2d d_g_c2d*W2&2*2W*dS8**W{CgC=C*dY3gdg{g(drddgr*(d((ggggDd_SD*cWcW&W&=_&Wc_2Wd22=g=c=gWdvdCr=gC21drW9*{W{&rWr(d&(dD&({gWg&DWg*c& d2W r&&_rWWW=WW&&C&*2WWWrC&{g=(d ;d{g0*rdg*r&dWr*(& ccWgr &Dr2W2=2W &&&_22W2r&&Cg*g=dWdCgW*=d=(HgXg{d(V{*rWrWDWD=(& c(2 dg22g2c2g d&d_r2g_2&dWW&**W*&WWW(C&=d{&={3Wo&{WK*r&ddgWdrD&(r W = WD&_&c2 W r_&*g2(C &d*g&*Wd6*W&CWW*=&dcrW3rd&{rgWg=gWd&D&(2gWgrD&_gc( g d_g *2d2&Wd&(*g*dWg*(CdC&=g=d3g^c{d{&(grdrrd(c:(d(((gg&2 D(D_cW c (W _WW*22C*&==*&C7*W{FWC(C_=Woc/(g {r(&gfgWr_d9(c(*g&2 Dr_2&d&c*Z_(_{C 2c&r=^&2=(Pg{+W(C =d=r( 6c{rg4gcgrr2cAd(( gdgr2 DW_&c&2W & * W2dC82=&2q *r&28d{&{Cd C*=S}&+2gx{Dr&r d&(cd*_ gcDr262cDr2& rW  *_U2&22=j*c=d*(wgCDWC=d===Wdg{d{rr(ggdrDdd*cg(dgrg(DcD*&qc(cC d_&*W2&2*2W*d)fWrodW*{g=d=rB((n{d{rr(Dqddd(dg(&_ gcDr2^D22r&(*8 (_ 2d2r= &c*r.PRr*rk&Crd C*=ua&l2gsr(D r_c(dD ccWg&g*gWcd&sc2&d*&*C*W2&22&*Q *&***WCdrtC==2( Ord*(*D {*rFd&d2 4(D dDgcgcc d2W & * W2dC>2_Cd*gWgWrCd7WC&C2=*( T&n2{*D r&r2d*  (rc&gr_W_=& c&c2 *W _&_22*= &&&2**{ W&W*WW=ddw==i2g {W(*gdD(D   d*(mg&g22}D=c2* &**r*r*&2W= 2*&L*&*2{xC(=g=d5g=*{d{&(d{Xdgdd(gd(gdg& gDdD(Dgc&*  c_rWE2gWrC(C_+ &**RW&W2r6=(qgAd{gj*rdr&gdd((g(dgg((DdD&2gc( g d_g_c2d2&Wg&d&(&g*&{ W(W_CW=c=(( =C(*{W(Wr*D.d&(W((g&_(DdcgD( d&=&g 2*d_2CgCcCg*d=dWrCgW2=d{W=*VWP&{W{(r&ddg&rgr&cg(2 dg22g2c2g d&d_r2g_2&dWW&**W*&WWW(C&=d=W=&SW=*{&rd(&r*dWd&(W(=g&Dd WDr_&cr&W&=&W_&*&22&W&r*&=gW({ Cd=gC*%dd*E&{WP*r&DcgWdrD&(r W = WD&_&c2 W r_&*g2(&g&d*g&*WdW&PdC(=g=d3g=({d{&rgrddgdc(d(&cg(2 dg22g2c2g d&d_r2g_2&dWW2CC&*&WW**C&{g=grdM({g6Drdrrr{rDc7(dcd(D_g_c2(cd g c_d_(_{C 2WW&&W=2HrW(CgCd=d{W=&=2Y*dW{*rWr&dWd((&gdc&gW WDr_&cr&W&=&W_&*&22&W&r*&=gW(CgCd=gC*^dv&{g{drg{(ddd&Dd((gggdDgDccdc&2g d r_(W92d2r&(=l*d*(*gW&r Cc=rd;;gdr(d(KD {*rAd&d2 4(=g22 DW_&2d&d&CW  *_:2&22=7&**{WgW=W*ri=drdYd{g-*rd(W{Dg&d&cWd& & = WD2D_DC*  r&&_&W*_D= &*&_Q)**W{CgC=C*dlhdddUgrg{2Dddd(dDW(*gWgrD&_dcd2g d r_(*g2d2(2g&&k *(*_WWCcC(d =(r&Z&{W{(r&ggr*d{(g(=(*_aDg_dc( gc**g*D2d*W2(2_&W*c*({ W2x&C*=W=(m&(g{g(gr(dgr*(dD&(2cWgcDr2 cg2r& *c (_ 2d2r= &c*rF Wr,(J&C*=W=(dWd={&gc{(r dddr  (rc&g&DWg*c&2g (_g *WgWg&dW&&2CW*&*2W*r C&C*CWFdbc{rg rrgrg&d*(W(( W =D&2cD(c  d rW _r*&2&&W2**&=gW(CgW*rgrgqdr&T2dW{&{2r*c d&d2(*_ g&g*gWcd&jc= 2W ***EW(&g=u&(* WdWrr WC=dCSQda=+(gw{=r2c D&c crgg_Zg(D cdcr*  *_W_&2W2(&&*dC&&g&&ZgCDWC=d===Wdg{d{rr(ggd((g(dgg(*DdD&_d2jc& Wc*_& r*&WSC=Cg&d*r*(WcW*rLC(CC=dP&dW{&{*{WddcG((gggdDgg*cdc&2d&, &_W *2&_rW&CA===gWdWrC(r9=d=re((Y{d{rr(D!dddr(( KgdgrD(2zcdcr (*^_d_(_g2&= &c*rR1X{Jc3*CWd C*=v.&k2g>{=r2c DccDcrc&gW2 g*DTc&c2*+ =_2C W CdC(*gMh*(W CdCrd =cor(;{g(((Igcc r*dm(&(2_wg=D2& 2 &r&r&&_WC _*2+&&&2LnW(CgCd=gC*Ad!&dd{(rgrddgr((d(& &gdDgDccd_Wc&c*cW_dW)_=22= &W22=d=10*r W*C<=&=2(U{r{{{DDpdcDdcgc2 * 2 G2Xc(c{*  c_rWX*7W_W*&Wb &**tW&W2rnC*={Fgo=8*gfrrD(dcc(dD ((W_(g_2(cg2gc* {_g_=_*CB22Cd= =g*{W W=C(=dd1=2dr(&(=D r*r_cNd=(2_  W 2_dD2&6c(  _d_rC 2c&r=B=c=(*2{-W(C =d=r( Sc{rgE{2grg&cdcc 9((g DdDr& c2c_cCW _&*&W=Cd=(=d=c{ W*W_rFC==2( dWd2{rD {*r6d&d2 F(D dg(_gcDDC d = W*g2d2r&(Cg&W=dW(MgCDWC=d===Wdg{d{rr(ggddd(dg(&_ (C &g*_Wc&c2 *W _&_*_W&d=?&=*2b&^*o*Crd C*=%K&12gErrr{rDcm((cd ( C_*_c2r&3 ( {W _c2rCjCcCr&2!9*(W CdCrd =2r&S&dW{C{Dr&dcdgDW(&(2g* WD=_&c(2W C D_&2c2gWW&&&2**=WW&W*WW=dd#3rdd{d(grdrrd(cL(d(rg(_}DdD(Dgc&*  c_rWuWrW(W&&r3 &**YW&W2r/C==2( d*=2(d{2Dbr(d (d(r_ (CDdg<cdc=c(*X =_2C W2W*&r9 &**wW&W2raC2rdd&dCdW{C{Dr&dcdgDW(&(2g* WD*cWcW &&d _*g_d2r2(&c&*Rv*(*CWdC&{W=&=*=W{dgKr(dgdg(dD&({cWg&g2D*& c&c*cW_dWP_=22= &rC2=5{ **W<C&C2ds0rv{uDg^rdgdDDDCc*c2 g_GD(D{& cc r*7*( r*&2r= 2*&/*&*2{hCg{d=r:gEc{ddW{C{Dr&dcdgDW(&(2g* WD{_&cg W 2_W C2&&dWW&C&D*&WcWghWC&C2=*rWH&o*MWrdDndgDd(rgggcDd WD&D2c**  & 2_*C 2&22&*O *r=&Wr{W{=d =&=2M*g {C{Dr&dcdgDW(&(2g* WD(D_cW c (W _W*W2WW&&&*W*(W&W*CWCW=&d =W( {(g(rgDgDcc((dgg((Dd_=2cD22dc2*g*c*g2dWd&r*g&2Wd=WW*CWC&=W=(-&{dd&g rddgr((dr2cd  _c WDr_&cr&W&=&W_&*&22&W&r*&=gW(W{r WC=dC*=d=CJ2glr(dgdd(gd*gdg&g&g2D*& cCcD &_c_g*W2&22&*CW*&***WCdr<C*={;g)=U*gVrgggdgDd(dgg(*DdD(cgcg d&Q g*Z_*W*2WCWC==**&WW**C&rcr==rr&:r(W(=(Wr&g&d2(W(rg& gD(cgcd gc*_d_&*dW42&&W2**&&r=&QV{={gC2rd=2(g(c(grdgddr(gd2gdcWg*g_2VDDc&c(c& D_rC 2*&W&&*W*(W&CdCdCr=(dusd}r{(gSrdrrd(cv(d(((gg&2 Dccr&6 g&(&=*=C _*2L&&&2.S*=W2r CW{&rdrOdcg n*{Rr&r2cndUgggdDgg(cdc&2d (_g_d2g_*&d&&Cg*d*(*gW&r C(C_=W>cK(g {&(&r&dWd((&(*gWg&D&2 c( g d*g*c2dW=2&22&*5 *&***WCdr/C==2( %Wd&(d(=g=c r*dA(&(2_Eg*D{cgc=c**A DW(__Wg&r&{&Db0WgUd{ r(rrdA7(u{g {crrDbDDDrD&(W_ (*g-D&D2&lc= 2W _W**WdC =O&(* WdWrr C*rN=&LWn({&g(rddgr((dc=cg(2 dg22g2c2g d&d_r2g_2&dWW&&&*&WWd{}W=C2r&rWr*)Wg N*{er&r2cA(r({(D_fgW_d2c22&*&2*(WS2(2{= &c*rJvKDbrCgr8C(= udUrg 7C(&r&dWd((&(*gW(CD&2 c( gcD*g*c2dW=2rW&&r=W===WW&>&C2=W=ri&dg{DHCrdr=rWDg(d(rg( ggD_dcd gc*_d&W_{*&2*&W&&*W&*W&Cd3WC*=WCCdWd={&(d{_ggd((gdDgdc&g{DWD&cWc= &_d&W_r*&2rCWC=CW*&=&W2CWCr=&rglD=C{d{={Wggdddr((cggdg(ggD&& DC2& &_W_(2&Wg2_Cd*(WgWdCgW(=d=&rgU({g>Dgggcddg&d{DW(*gW(CD&_dD_ g d_g_c2d2&Wg22Cd&2}gqcVgCd{d=r;g=2{ddW{&{2r*c d&d2(*_ g&g*gWcd&xc= 2W _W**W&= 2*&O*&*2{?W=C2d =WC2dd(Dgj{(r dddr  (2(_(C2 D=_&2C2)*(&=*&C 2*2_=B&=*2{ %**2{d=gd8=(3 {d{rD r*DVd&(W((g&_(DdcgD( d&=&g 2*d_2CgCcCg*d=dWrCgW2=d{W=C=Df&{c{g(Wr&r2d*DW(*gWg&DWD(c& d2&cgc&*g_2Wd22=g=c=gWdAdCr=gC2wdrWxC^D{&rcrggWd&d2(*cWg&g*gWcd&5 (_g_d2g_*&d&&Cd2W&d=WWr0&CrrWr=rWn&d&{2rWrrd&Dg(d(rg(_9DdD(Dgc&*  c_rWPWcW(W&&W} &**ZW&W2rfCD=&= ,&{c4*D rcdrc<crdrc&gW2 g*DXc&c2*f_(2g2d&g2**d*&WgWdCgW(=d=&rd}({g{drgrcddd&Dgd2cd(2_g_c_gcd2d r_g 22d*W2C2D&&*c*g=WW&W2C*{W=*,W,&{W{(r&dddWd&(Wd*g&Dd &D&cWc= &&g d_r_(2c2*=H&(&C*dW&QWC&C*CWAd(<{(rgrddgr*(d(&gggdDgg(cdc&2d d_g_c2d*W2&22&*9 *&*2W*r C&C2=*( %&82{*D r&r*rW(d V(*g{DgD=D*&ADC&d C2g2d&g2(*d*&=g**W{CgC=C*dj=Wdg7*{{rgr=r*cT(gcddW(d WDg_&DC&2 =&g&C_2_x&r*c&_J &W*d{*Wg=_I{==Er{({&AEgddrr&d2(W((gcg_Dr2Ecr&* &*=_(__2W&c&(> *&=&WWCWC&=&rg=DR&1(w&{Drrc d&(Wc=g&DgDdcg2D d &&g_d_r2(C(&_*{&2*&*{WcW2C*=dC r&82Zd{rrg{*r=d{d2  g(_(Dd2(D2&cc* {_g_=_*Cp&dCd*gWgWdCdCd=grc+doW<&{W(Cr&ddg&drDW(&(2g* Wgd2=2g r { DW3_*WdCc=(*dWgWcCdC(C{d =rr&Ur(W(=(Wr(r_dW(c((_ g& &D2cWcr &&g =_2C 2&&W&d*&=d=&i 5NrXC(= odRrg {WrWr(D&D=(&cddWg*_*D&cWD* &cd&W_&_*_W&d=m*gWg**{d{c=d{&Cg=Z(({drg{(dd{&Dg(d(rg( gD_cg&g {&W&=_&*d2gWg&d&r*(=gW(CgCd=gC*pd#&dd{{g ZCD(rWc(d_ ccWg&g2D*& c&c2 *W _&_22*= &&&*&WWd{EW=C2d r dgd(d&{WD {*rjd&d2 !(=g22 DW_22 &g*u (_ 2d2r= &c*r<z=IR1)*{d=gdQ=(4 {d{rD {CddrY(d(=((_Kg=D2& 2 &d&r_gWh_(2 &d&rL ***_{lWDC&C(C&=D}rg {&{2r*gWdCdD(&gcgg WD&D2c*2W ( __W2c2(= &WCW*W=&W&CWC(=&=*0W}W{&g {WD d(c((g g c_(DdcgD( d&=*c 2*d_2CgCcCg*d=dWrCgW2=d{W=*!WG&{W{(r&ddg&c (dgg((Dd(2_d2 &c2W r&&_rWWW=WW&&C&*2WWWrC&{g=(={( =C{dM*{d{Cr2c}((gggdDgg*cdc&c&c2 *W  &_2_*2=&(n &**D*&Cd{g=d=(=gH&g {({_rWdcd(  (WcWgW &D&cWc( & *_W_W2&C 2W= *(#(Wg{g{cr(=dhg=({d(=gc{2gdr2cgcccggd dDrcgD2 d2W *_W_&2W2(&&*dC&; WdCgW(=dW2rdd (cdW{r(&rrDWD=DW(&c&g2DWDrc&2g ( {W  C2d_*2d2C&2p?W(CgCd=gC*id1&!&L2{*D r&r2d*  (&(*(WDd2)crc{cD*f_g*dW C(Cc=T*(*{{ WcCrrdrgr(hg(RZ({ rdrrc rC(ddRgdg=g(20D=c2*  Wc2*dWcCS2(& *d*r{ W*CWC&=W=(?&{dd&{{rWr&dWr*(&gdcWgr &Dr2W2=2W &&&_22W2r&&Cg*D&CWdW=WW{g=d=r1(dgl={2D r*dWd&(W((g&Ddg(D cdcr*  r&&_rWWW=WW&&&*&WWd{8W2{d=d<g=({ddW{&{2r*gWr&d2d*(=g(2 g*DDD& d&g_d_(_g2&= &c*r#tW(CgCd=gC*^dp&=*1#{&{2D+r2Ddd2 g c gDdD(Dgc&*  r&&_&2W_*&&Cg*d*rW(IgCdCr=(d#!dfr{(gErdrrd(cp(d(((gg&2 Dccr&T2?&=&**d2gC62(& *d*r{ WcCrrp=gCrr&d_d3gX{(r dddr  dCgd(1DdD=D(&mc= 2W _W*2W Cc=l&(* WdWrr C*=W=&MWK({&rd(&r*dWd&(Wd*g&DdDWD*cWc& W =_&2d2&Wg&D2C*d*=*WOgCdCr=(rgu({g{drg{*ddd&DdrWddcW(&g2g*D=c(* c* D &2dWg&d&(&g*&{ W*CWC&=W=(f&{dd&Gg8&ggdddr(( 8gdg(ggD&& c(c_ W_c_(C 2WC*2CCW*W=&W&CWC(=&rg=Ddd{(rgrddgr((d(&cgg(DgDg2g2c d2&cC&W_*2W2W&&Cd&DWgWdCgCc=d=&rg=2ddb2gggcggddDd(rgg(2Dd WD*2zc& W (_&W(2d&g2(*d===g*2!dW2rgrcrgzddd{rrg{2ddgWd*(W(&gWg(D&cd_&c* W &_W *2&&dWW&rC&*r6W5=:WC&{&=2,W0r{&(gr(D dd(gd*gd *g&DWg*c&&c2W r&&_rWWW=WW&&C&*2WWWrC&{g=(-gNd{ga*rdr&gdd((g(dgg((DdD&_gD22dc2*g*c*g2dWd&r*g&2Wd=WW*{nC&=W=(X&(({drg{(ddD=Dgd2cd(2_g_c_gcd2d r_g 22d*W2*&W&&*W*(W&Cd;&C*=W=&0W=*{&rd(Wr&r2d*  (&(2g*2 D&D2c**  & * W2dCE2=&2; *W=*odL={cd C*=O:&P2g7{=r2c Dccdcrc&gW2 g*DYc&c2*F =_2C WcC(C(C&*W{ **WnC&C2di==X2g {W+2gdg=DW  d*(Kg&g22tcrc{cD*m 2*dW(WWC*C_=r!vW(W{r Cc=rd.r=d&d2{WD {*rSd&d2 -(*g{DgD=D*&b d&d_d2g_*&d&(*g*dWdV8W*CWC&rWr=k&(c{D3Crdr=rWDg(d(rg( gD(cgcd gc*_d_&2g2(&g&d*g&(WdW&Cd+&C*=W=&kW7={&rd(WrCrDd&(c(gcWg&g2D*_Wc&c*cW_dW/2(&g&d*g&*WdW&CgC(=g=d5g=({d{&rd(&r*dWd&(W(=g&Dd WD&D2c**  & * W2dCJ&(*g*dWg**CdC&{d=(IgBd{gs(rdr&Dgd((g(dgggcDdD&_gcdcr (*b_d_(_g2&= &c*rIL==n ^2CWd C*=X)&Q2gF{=r2c Dccrdrc&gW2 g*DMc&c2*k_(2g2d&g2**d*&=dW(CgCd=gC(tdh&{g{(rgrddgdc(d(&gdcWg&g*gWcd&Lc* {_g_=_*C>2g=(2CH(*d{(W_r(Cfd(3D(({_g(rgD(rDDg(r({(D_zDg_d2 &(&D*L_(_{C 2c&r=K=c=(=&WWr W*CU=&=2(Rj={2g&gWg*Dd(g .((g DdDr& c2c_cCW _{*&WWCc=(={=_{ W*W_rBC==2( +Wd2(=D {*rbd&d2 !(=g2_zD*cWc& W (_&2d 2Wd&d*g*cWdH=**WeC&C2d7=2ddl2gggcggddd(dg(&_ gr &D&cWD* &&g_d_r2(Wg&D2C*d*=*W!gCdCr=(rg=Ddd{drg{*ddd((gdDgdc&g*DWgCc&& cW* _(W(_DCgCc=(*dWg*(Cd{=rcC2rd=2(g(c(grdgddr(gd2gdcWgCgDD&cccg2W & 2_**W2&2*2W*d}o*D:dCd=gC*qd,({g1Drd(&r*dWrC(&  (W_ D(2(DD&g&c*(_d2g_(&dC==c&2=d*2{g{c{g=drd.r{g52rd(Wr&r2d*  (&(*(WDd2acg2d& &g {_ _=2(&d=;*g=r)&I=r C*C_dX==t2g {W(2gdDgcod(( gdgr2 Dccr&N g&(*dWP_(2 &d&rt *cWr{wCgWr{&rW( =*B}{&{2D4d_Dd((gg(hDd WD2D_DC*  &&&*=WW2 C*&{*W&&W&W*W_rR=_rd6_(r(2{*rWr&d&Dg(d(rg( gDdD(Dgc&*  C&&_{2W_W&&Cg*d*rW({}CdC(Cg=&( Ec{rgFgd{rg&dW  d*(hg&g22wcg2d&&&C&W_&_*_W&d=8*(WgWDCd6&={{W=&=23*g {&{2r*c d&d*dWgd_?g=D2& 212* WW  *_b2&22=a&=*2{ }bP*CWd C*=FQ&q2gjrrr{rDc7d2cd g 2_*_ _=&u ( {W _c2rC8Cc2rC&*W{ **WoC&C2dP=Jdd4_rg;CddgWdCdD(&gcgg WD&D2c*2W {&&_&*W2C2D&&*c*g=WW&W2C*{W=&=*=W{dg<{Igdr_(grCgdcWg&g2D*& c&c*cW_dW}_gWd2*Cg2C=d*(/gWd{d=crg>dYr{(g5rdrrd(c5(gcdgg_g_c2Pcdcr (*h 2*d_2CgCcCg*d=dWrCgW2=d{W=&=2?*g {&{2r*c d&d2(*_ g&g*gWcd&uc= 2W _W*2WdW=C&- &**?W&W2rTCD=&= >&{cw*D rcdrc%D=ccd2 dDg2nD(c  d rW _(__2W&c&(A &*!*W{{*CW{W=2=_=Cg {=(&gJD*D=  (*(__7g=D22&2WD2&d_cWQ_(2 &d&r> *2*_*Cr Cg{&rCr0(((r(WD r*r_cvd=(2_  =(2_dcc&-c(  _d_rC _*W&&&*W*(W&?g*C{dC(dg=d(d(c(grrr{rDco(dcd((_((C26c(c{*  {&& W2W2&C&2**&=gW(CgCd=d{&={rWZ&72{*(Wrrg&drcWc=cWg& &D2cWcr &&g_D C2d2=2WCg*d*rW(9gW({d=dwg=*{ddW{W(&r*dWr*(&cggrg{gD2Ucd2dc(*g*cW( CC-&(&{t &CR2=g%(W_%c={sCr(dgg rgD(d((g(dgd =g&g2D*_WcCcD &_c_g*W2&22&*CW*&***WCdr0C(rdad{gA*rd(WrWg&d*(Wd*g& gDrD{DD&< d&d (WgWcC(_C=b*(*{{ *C{2fg{(C_{cX{{Cd((gD dgc(((gggdDd_=D&D2c*2W & 2_*C 2&22&*u *C*DW&CcCg{W=&=26*dW{*rWr&dWd((&gdc&_WD(cgcd gc(_d_&*g_d2r2(&c&*Bt*(*CWdC&{W=&=*=W{dgvr(dgdd(gd*gdg& d2gD*cWc& Wc*_&2d*W2&22&*i *&*2W*r C&C2=*( a&m*EWrdD>r=d2  (Wc2 =_ _C& D*c# & 2W9_=22= &WC2==t h*r W*Cs=&=2(o6={2D rWg&Ddccc7 r_Mg(D cdcr*  ( __W2c2(= &W=*&C=WW*CWC&=W=(H&{dd&{{rWr&dWr*(&gdcWgr &Dr2W2=2W &&&_22W2r&&Cg*g=dWdCgW*=d{WCCr&:*{W{&rW{*d&(dDW(*gWgW_W_=c&2dcD&g_(2g2g&dW&2C*W*&WWW=C&=d{W=rr&3r(W(=(Wr&g&d2(W(rg& gD(2 cd gc*_d**_&2W_*&&=cCW*r=&Wr{W{={W=&r&:2{W{rr&ggd((g(dgg(*DdD&_dc( g d_g (2d2&Wg22Cd&2zgLc/gCd{d=rEg=2{ddW{*gKr&dWd((& (gdDgg(cd2=2gc2&d 2WgWcWg&dCd*rWg*2CdNWC*=W=&MW;({&rd(&r*dWd&(Wd*g&Dd WDr_&cr&W&=&W_&*&22&W&r*&=gW({ Cd=gC*Jdd*5&{We*r&DcgWd&d*dWgd_Kg*D{cgc=c**w 2*d2d&g2**dCW*(*_WWCcC(d =(r&z*{W{&rW{*d&(dDW(*gWgr_W_=c&2dc*&g_(2g_2&dW&&(*W*&WWW=C&=d{W=&=2U*g {&{*{WddcXd=(2_ gW(2_d2c2>&(*+ (_ 2d2r= &(&_*WWcW(r C&{&=&6Wm({&{*rWr&d&Dd((gggdDd_kD*cWc&&W&=_&Wc2d2(2g&&L *(*_WWCcC(d =(r&V&{W{(r&ggr*d{(g(=(*_FDr_dc( gc*_d *_{2g2=2*=1*g=dW(CgW*rgrDAdrW9c{rg rggrD ccd(( gdgr2 Dccr&  r&r_(2g_*CgCc*d==&**JW&W2r%C2rdFd{gX(rd(Wr&r*rW(d Bg(Dgg*2g2g d2& 2&W_&_22*= &&&*&WWdWcCrr =rr(w({g8*gggcddD=r*dx(&(2_Jg2_dcd gc(_d&W_&_*_W&d=O*(Wg**{g{g=d{&=2rWN&N2{*D r&r2d*  (&(2g*2 D&D*DW d*Z =_2C W=C C=C2*W{ **WZC&C2d<f({g{drg{*ddd&Ddc5(&gW(*D&gr_&20&=&g_d_(_g2&= &c*rXe)cLb{ {({&=W( =*/^{&{2D#drd{dD H(D d_(_=2*2_&g*X_(_{C 2c&r=!=c=)uc*rQ&CWd C*=#G&e2gw{*r{dgd=d* ,(D_(g__gcrc{cD*x_g*dW C(Cr=Q*(*{{ WcCrrQrDrrr&4Wg :*{#r&r2ced=(2_  = *_dcg&tc(  _d_rC 2c&r=6*g=rbc{BW(C =d=r( =Cd&{&rWr(d&Dgd_cdg(DgDdcgD( d &&g_(2g_DCgCc*dC&*{=WW*CWWC=&rd=_{g{drgrcddd&Dgd2cd(2_g_c_gcd2d r_g 22d*W2&2*2W*dak*DSdCd=gC*Gdf({gUDrdglr*dWrCcWc=g&_cg2_dD2&g&c&g_d*d2r&g22*dCW*&*2W*r C&C*CW1d(Q{(g rddgr*(dc*(&gW(*D&2c_Wcr2& r*W*=*W2&W&&2*W*rW&!gCdCr=(d}+dI(bg{&D rcdrcK(gcr (_Ng(D cdcr*  c_rWa2g_rW&CCf &**%W&W2r5CD=&= I&{c?*D rcdrcacrdrc&gW2 g*DZc&c2*P_(2g2d&g2**d*&WgWdCgW(=d=&rdk({g{drgrcddd&Dgd2cd(2_g_c_gcd2d r_g 22d*W2C2D&&*c*g=WW&W2C*{W=*8W}&{W{(r&dddWd&(Wd*g&Dd &D&cWc= &&g d_r_(2c2*=A&(&C*dW&oWC&C*CWAd(B{(rgrddgr*(d(&gggdDgg(cdc&2d (_g_d2g2c&d&&Cg&2=d*2{g{c{g=drdUr{g}2rd(Wr&r2d*  (&(*(WDd2xD=c2&&&=&*_WC _*2I&&&2iPWrW{WDr9=crddcd&(*(2g{Dbd(d{  (cgr_x_(gr_&cW* c* w_&_2CX&(= *dWg**Cd{*C&=WC*e&(cdW{r(&rrDWD=DW(&c&g2DWDrc&2g DcC_d_=_WWg&d&r*(=gW(CgCd=gC*RdH&dd=W#d(Wrrg&drcWc=cWg& &D2cWcr &&g_D C2d2=2WCg*d*rW(SgCdC(Cg=&( v*{W{&rWr(d&(dD&dgd& gg2_dD2&g&c&g_d*d2r&g22*dCW*&*2W*r C&C2=*( w&+2{*D r&r2d*  (C(Dg&DcDg_Wc&c2 *&W_ 2W2&&W2**&Wd=&W*CWC&=W=(-&{ddW{C{Dr&dcdgDW(&(2g* WD&D*DW d*p a2g2d&g2(*d*&=dW(CgCd=gC*udP&dg{d{rr(D>dddr(( ,gdgrD(26cdcr (*4_d_r2(Cb&d&(&g*&{ WcCrrx=grrdrd&g z*{ir&r2c9d=(2_  __D_(cg&ec(  _d_rC 2c&r=f*g=rF{1&r W*C5=&=2(O!={2D g_D{DrD&(W_ (*gtD&D2&mc= 2W _W*2W_CD=Z&(* WdWrr WC=dCv5dt=o(g<{=r2c dWD*c_ {_xg(D cdcr*  * _WE_D2&2(2&&D*r{ W*CWC&=W=(Y&{d{d{rr(DUdDrC(d(=(W gDdDrc(2gc* {_g_=_*Cn2D=(*g^(*WTgC(=g=deg=*{d{&(d{_dgdd(gd(gdg& gg2_dD2&g&c&g_d*d2r&g22*dCW**Z+W&CWC(=&d(Jd{gp(rdg=ggr2Ddd2 g c gDd_dcr gc2_d&W_*2W2&&W&(*&Wd=&W*CWC&=WC*T&{d{W{&rWr=d&(dDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&(*g*dWg**CdC&{d=(5g;d{g;(rdr&dgdd(g(cgdg& gg2_dD2&g&c&g_d*d2r&g22*dCW&C=&W&CWW*=&rg!gdd{(rg{Ddddrd{dD Ygd dgD2g2c&( d_g_c2d2(2{= &WC&*W32{rC(=g=dfdrWh&k2{*(Wr*dWd&(W((g&Dd &DW_Wcr2& r*W*=*W2&W&&2*W*rW&FgWW{d=dsg=*{d{(rg{WddDHd*(W(g W =D&2cD22dc2*g*c*g2dWd&r*g&2Wd=WW*CWC&=W=(3&{dd&{{rWr&dWr*(&gdcW(&g2g*D=c(* c* D &2dWg&d&(&g*&{ W(W_CW=c=(( =C(*{Wg*rggWd*(W(&gWg(D&cd_&c{ W &_W *2&&dWW&rC&*rZW^=FWC&{&=2+WTr{&(gr(D dd(gd*gd *g&DWg*c&&c2W r&&_rWWW=WW&&C&*2WWWrC&{g=(NgBd{gq*rdr&gdd((g(dgg((DdD&cgcd g c_d_&*g_2Wd22=g=c=gWdAdCr=gC2.drW-*{W{&rWr(d&(dD&(*gWg&DWg*c& d W &_W_=2&&dWW&rC&*r%W^=sWC&{&=2AWqr{&(g{Dgddd(gd(gdcWgW &D*cWDC & 2 _ CC 2&W&2C=W==.*W&CWC==&=*=_(u{g(drgDrD2d*(W(&g& gDdDrc(2g (_g_d2g_*&d&&Cd*g=g*2RdW2rgrcrghddd{rrg{2ddgWdgD&(&gWg(D&D*cWcg &* _(2g_WCgCc*d==*r=&Wr{W{={W=&r&h2{W{rr&ggd((g(dgg(*DdD&_dD_ g d_g (2d2&Wg&d&r*(9mWdW(WgC&d =cXr(K{g(rg{g*c r*dL(&(2_qgDD&D c& cc*W _c2rC>C{C 22=dWg{GW(C =d=r( 8(^_{Wrcr(c d{c*(g *g _*D22*DC&*_{**_W*W2(2_&W*c*({ Wrt&{#{WC_=v9cZ*{&D rrg2cdcc Ig(g{2 Dccr&)&D&( 2Wa_(2 &d&r) *cWr{YW2{({&r*( =*zv{&{2D4r=d2  c*c2gr2 g*D9c&c2*.__*d2r&g2_*dCW*&***WCdrX=grdV({gGDrd(Wr2r_rC  (&c& =_WgC2*c2 W  _&_*__Ce&gCd*gfrQ2W*CWC&=&rg)dfr{((grdrrd(cB(d(((gg&2 Dccr&P&d&d&&_rC _*2x&&&2.pW(CgC_=d{&=WrW#&J*+WrdDYr2Ddc&cCcWg&g2D*& c&c2 *W _&_*_W&d=L&=*2{ qX<*Crd C*=ni&;2gH{=r2c DCD2(r_ (*g7D&D2&) r&d_d*g2d2(2g&&J &C=&W2CWCg=&rg^d.r{(gBrdr(rgd&  ({c&g( WDg_&D*2W  &&_=*W2&22&*v *&*2W*r Cr{&=rdWd=g {&{2r*c dCdD(&gcgg WD&D2c*2W *_W_&2W2(&&*dC&**WWW&CWW*=&LdGW-&{W{=r&ddgWr&d2d*(=g(2 g*DDD& d&g_d_(_g2&= &**W*&WWW(C&=d{&=*nWj&{WR*r&dddWd&(W(=g&Dd WD&D2c**  & 2_*C 2&2*2W*d!x*=W2r {_r(r(r&sWg K*{Fr&r2cPd=(2_ gW &_d2{2&* c* f_&_2CK2*&{*g*=**{GWD{g=r={=D(m{g(dg D(Drcl((({_ gcDr2Z2g2r g*) (_ 2d2r= &c*r+#mc1rCgrjC(= UdFrg {*gOr&dWd((& (gdDgg(cd2=2gc2&d 2WgWcWg&dCd*rWg*2CdiWC&C*CWLd(lU={2D rWg2Ddc&c=_ (*g!D&D2&%cD &  _&2c_*= &c*r;xJD*r3&CWd C*=tI&12g?r(dgdd(gd*gdg& d(Wgd_Wcr2& r*W*=*W2&W&&2*W*rW&?gCDWC=d===Wdg{d{rr(ggd((g(dgg(*DdD&cgcd gc(_d_&*d2(&g&d*g*cWdW&xgW2{dC2dgdcdg{d(drrdgr2(dDWd&(2(*g=D(& D*cDc&_d*g2d2(2g&&a **WWW&CWC(=&Mdr&=g=&(g{2gdr2cgcccggd dDrcgD2 d2W & 2_*C 2&22&*F *&***WCdrZC==2( d&d2{WD {*r3d&d2 E(=g22 _C_*cW* c* m_&_2Cz2D&&& *&Wc**r Cc=rd9d(dr{gg6{(r dddr  (*gWg&DWD(c& d W &_W *2&&dW&&&*W*=W&>gW2{dC2dgdcdg{d(drrdgr2(dDW(C(Dg&DcDg_Wc&c2 *&W_*2W2&&W&(*&WdWWW&CWW*=&Rdr&w&{W{=r&ggr2Ddd2 g c gDd_dcr gc2_d&W &_2_*2=&(H &**D*&Cd{g=d=(=gJ&g {*rWr&dWd((&gdgWg&DWg*c& d2& &_W_=2&Wg22Cd&2#gFc<gCd{d=rLg=2{ddW{&{2r*c d&d*dWgd_!g=D2& 2=2* WW  *_52&22=6*r*{*D{)Cc{dr(r2d*d&(DgVr(r{c dc(r fgg r_d2iD(c  d rW _*2W2&&W&(*&Wd=&W{CWC&=WC*3&{ddW{C{Dr&dcdgDW(&(2g* WgC_&c& W (_&_*2W_C&&= &Wb W({(WDrgrcd(5d{gw(rdg=Dcr2Ddd2 g c gDd_dcr gc2_d&W_C_D2&&c&gCW*&*2W*/WC&C*CW3d(q4D(drddgr*(d((gg(DDd_ADg2Uc*&*cC*W*=W*2&&W2**&)c.=WrU&CrrWr=rWM&d&{2rWrrd&Dg(d(rg(_wDdDrc(&# d r_(Wb2d2r&(=X*d*(*gW&r C(C_=W>cU(g {=g*r{D*d c*(g *(W_*gC2*cW&*cD**_dW*_oC*2&=**_:*WCmWCW{&rjrW=_-6{c{*r&c dWD2 d c_uD(D{& cc r*:*g*r*&2W= 2*&f*&*2{kW=C2d =Wr2d=g #*{<r&r2cxd=(2_ gW &_d2g&%c(  _d_rC 2gW&&*CW*&***WCdrmC3rd=(dg{d{rr(Djddd(dg(&_ gcDr2d2gDr2& WW  *_,2&22=p&D*&* W&CcW*d =c-r(s(c7r(&rWc r*d.(&(2_7Dc_dcd2g DcC_d_=_WWg&d&r*(=g*_4dW*{gCd=r=(Zcn*g+{({Crdd&DW(&(*(WDd2Fcc2d d&g_d_r2(Ce&d&r*(ZeWdW(WgC&d =c!r(^(r(((&rWc r*d:(&(2_4g=D2& cWD2&d*dW:_(2 &d&r! *2*_*Cr C&{&rCdr((dj( D r*r_cMd=(2_  _(2_dcg&%c(  _d_rC 2*&W2C*&=d*gegCDWC=d===Wdg{d{rr(ggdgDdc&cCcWgCgDD&cccg2W & 2_**W2&2*2W*dBbWgHd{&{C{W=&=2<*g {&{*{WddcKd=(2_ gW 2_d2g&Zc(  _d_rC _C&d2a*d*=*({8W=C2d =WC2dd(dgH{(r dddr  dWc&ggDWD=cWc  &_d&W_C_D2&&c&gCW*&*2W*QWWC{&==EW4{{&(g{drrr(dcd* t(((CgdD&_Wc&c*cW_dW9_DWd&c*g&_Wd=WW&W2C*d =&=23*g {&{2r*c dWD&(W W =2 D&D2c**  r&&_rWWW=WW&&C&*2WWWrC&{g=grdd dga{{ {=r(ddcp(gcr & =2 D*D_&tc= 2W ***22W= 2*&A*&*2{vW=C2d =Wr2d=g s*{qr&r2cLd=(2_ gW 22d2c&Bc(  _d_rC 222_2Cq *&=&LW{cr({/r*( x*5_gY{=r2c dWr2cd g_Ag(D cdcr*   && **W2C2D&&*c*g=WW&W2C*{W=gr&T*dW{C{Dr&dcdgDW(&(2g* WD&D*DW d*4 W*d2(Wg&d&r*(ezWdW(WgC&d =cOr(R{g8r(&DdDDc8d(( gdgr2 D2D_DC*  r&&*WWcC(WBC_T ***_{IW=C2d =Wr2dPg l*{Vr&r2cNd_cd(* gDDgCcdc=cW&g_d_r2(Wg&cCd*d=gWD*CCdC=CWrgHd)r{((grdr(rgd&  (=c&g& WD&D2c**  & 2_*C 2&2*2W*d1G*=W2r CW{2rddr(O7({ rdrrc dc(r 7 r(r &DW& D*cE & 2W%2gWdC&CCCW*&***WCdrJ=(%g=D{dd&-W(Wr&r2d*  (&(*(WDd2!D=c2* &*&*_WC _*21&&&2%,*D4dCc=gC_8drWM&,*;WrdD1rgDddWgggcDggMcdc&2g d r_(WT2d2r&(=)*d*rW({9Cg{d=gdgdc(6{d{rr(D<r2Ddd2 g c gDd_dcr gc2_d&W D*&2&&W&(*&**WW*DC&{d=(}gCC{d(!{*rW{DDWD=(& c(2 dg22g2c2g d&d_r2g_2&dWW&WC&=K=W*_WsCcC*=&( 1Wd2gdgcDbd(d{  (cgr_._(_(_&cW* c* ;_&_2Cz2=&2m =&=*WWr W*C.=&=2(Kb={2D gCg*dW  d*(Jg&g22scrc{cD*M_d*dWcW*C*C&=(VJW(W{r Cc=rdsdr=rd&{WD {*r6d&d2 }gg d_&_C_WcCcD &_c_g*W2&22&*CW**WW*CC&{dCgrgID=C{d{={Wggdddr((cggdg(ggD&& cW2&*d*D*g2d2r&(=R*d*(*gW&r Cc=rdQdDd({ggY{(r dddr  (2(_(C2 D&_&2W&d*(&=*&C 2*2_=N&=*2{ N**2{d=gdJ=(7 {d{rD {Cg&d=(W({g& gDDgCcdc=cW&g_d_r2(Wg2gCd&WWgWcCgWI=d=&rgMD=C{d{={Wggdddr((cggdg(ggD&& DC2& =_W_{2&Wg&d&r*(m1WdWrC(rw=d=(=gP&g {crrD3dgDrD&cC_ (*g0D&D2&Yc= 2W *) 2Wd&g=b&(* WdWrr WC=dC6/dJ=G(gw{=r2c dWr2cd D_tg(D cdcr*  g&&_**W2C2D&&*c*g=WW&W2C*{W= r&=*dWP&{2{*r=d(  d*(D(&Dd_gcdc(cg &W _ *&_*WW&&&2**{ W&W*WW=ddb==Z2g (;?2gddgckd(( gdgr2 D{_&c(2W & * W2dC!&cCd*d=gWdWrC(r;=d=r3((x{d{rr(DsdgDd(g g c_wDdDrc(&%c2&d 2WgWcWg&dCd*rWg*2CdkWC*C_dF=Dz&#(%&{Drrc d*(W(&gWg(D&cdcdcr (*S 2*d_2CgCcCg*d=dWrCgW2=d{WCDr&I&{W{(r&ggr&DdrWddcWg2g_gC& c&2&&=**WW2_CP&(&{l &3=&C{CWC&=&rgjrM{iDgBrdgdD c( gd<_ g*g_20Dd2dc _g_d2d*W2_W&2&*W==W&4gCD{dCd>gdD{ddW{crrD/d{DdD&(*_ g=g2D*& cC22&dcCWj_(2 &d&rs *dWWWCC&{d={tgzD{ddW#&rWg=d&Ddd&cggdgrD(_gcdcr (&g_d_r2(Wg22Cd&27gNcYgCd{d=rGg=2{ddW{r(&r&dWr*(&cggdgrD(23cdc(cg &W _c2rC &(*g*dWg**CdC&{d{&=&9Wt={&gc{(r dddr  (rc&gr_W_=_Wc&c*cW_dWV_2Wd&d*g&(Wd=WW&W2C*{W=&=2)*g {&{2r*c d&d*dWgd_Ag=D2& cW2*&d*r* C _*2J&&&2MV*=W2r CW{2r2dr(.M({ rdrrc dc(r ,gg r &_22(&Hc(  _d_rC 222_2CH *r=&fW{dr({zrW( b*p_gL{=r2c D2c{c(gg_Ig(D cdcr*  ( __W2c2(= *{=** )*W{{*CWr*CCd*:g(*{2(Wr(r_dW(c((_ gr &_:_WD_cQ c *_&C 2rW2=d=cR)W(W{r Cc=rdYdgd(d&{rD {*r6d&d2 j(=g22 _*_*cr* c* Q_&_2C^2=&27 ==&2wdW2r#C(= Id9rg {2{_{Cc d&D&cC r_(_d__& c*c_*) =_2C W2_2Cd&2L#*(W CdCrd =*IWqg{&(drrggdDrC(d(=(W gDdDrc(2gc2&d*&*C*W2C2D&&*c*g=WW&W2C*{W=&=*=W{dgt{2gdD&DCDW(&(2g*2 D&D*DW d*j =_2C W=W*Cd&28e*(W CdCrd =2=_=Cg {&(&gWDdc(D=c2_ g*g_2-D=c2*  r&2*WC _*2A&&&2X-Wr;dC(=gCDYdrW/2t_:CD r&g&D=cWdC *gWDWD{c&c*c_*M_r*d2rCrC2&**W*&W&4gCdCr=(rgqD=C{d{={Wggdddr((cg(W dDgcgc_ d2W C D_&2c2gWW&&&2**=WW&W*WW=ddBprdd{(rg{DddgWd2d_dC_ g& &_=2WDC&* W_W_{2&2*2_=;*r=dWr{r{2C*=W=&e&dg{d{rr(ggdddr(( UgdgrD(2Rcdc(cg &W _c2rCjC C(&2qA*(W CdCrd =c+r(V72(rg Dtr(d (d(r_ g2g_gC& c*2&&*&YW(W{W2= &*&_%s*=W2r CrW2rddD(3v({ rdrrc dWD&(&cWgCgDD&cccg2W & 2_**W_CW&&W*W* W&ZgCDWC=d===Wdg{d{rr(ggddd(dg(&_ gW &D&_Wc&c2 *W _&_*_W&d=X*_=d**-gWj{dC(rg=_dd{c(grdrrd(cJ(d(rg(_ug2_dD2&g&c*^_d_r2(Ci&D2C*d*=*WhgCdCr=(rg=*<{{g{={*D.r2Dd(dgg(*DdD(cgD2 d2& *_W_r2&C 2W= *(#(*2{g{cr(=dtg=({d(=gcrD{Cddd=dWcggdgrD(_gcdc(cg &W _(__2W&c&(q W{T*W {*C{r*=Wd*=C(*{gg*r2gWd(d_(Wgcg(2 Dr_&2;2Wc_ 9_c_*2&= &rC2sd#c{zC(C{d =cGr(V(g(((&rrc r*d0(&(2_:g=D2& 2*2* rW  *_T2&22=5&=*2{ .=*2{dC2dH=(Z {d{rD r2r_rC  (&c& C_r2(2d2_*  * _WY_=22= C222=d*2{AW(C =d=r( I*{W{gr&gddrDg(DdCgdg=gW_gcdcr (&g 2*dW&WCWW&C&D*&WcWgqWC&C2=*rWK&6*aWrdDkr2Ddc&cCcWg&g2D*& c&c*cW_dWQ_=22= C=C*=d*2{FW(C =d=r( ^2x_fCD r&g&DWcd (c= 22 D*D_&ec= 2W _r*2WW= 2*&a*&*2{tCr{d=(Mg=D{ddW{2{_{Cc d&D&c= W(C_*DWcWc{ & * _WG2rWd&r=r=2**WWW&C&{g=d=rK(dg{DJCrdr=rWDg(d(rg( ggW_dcg g __d&W_C_D2&&c&gCW*&*2W*uWC&C*CWxd(U{r(dr(dgrD(dDW(2(_(C2 D&_&2=&WcC**_W2W2{&&&*&_nAWrMdCrrrr2=*:WX&{&(grdrrd(Dg(d(rg(_}DdDrc(&^ d ( g_&C 2c&r=I= =(*2{pW(C =d=r( tc{rgI{2grD c!d(( gdgr2 D2D_DC*  *&&***kC(C{C2m ***_{MW=C2d =rC2dd(DgJ{(r dddr  (Wc&g& WDCDDc& c g&W_&_22*WW2CC&*WWWW C&{g=DCC5dq=VW(grdrrd(Dg(d(((gg&2 DW_&c&2W & 2_*C 2&2*2W*dAAW_8dW*{gC;rd=(dgs_(drcggdddr(( OgdgrD(2SD22dc2*g*cW!2d2r&(=V*d*rW({QCdC(Cg=&( x(0_{Wrcr(c dWDW(Wc&g&DWD(c&c* W W_&W _WC &(=(*gTg9c{(Cd=gC(edd=(c82(d{2DgDcDg(dcdgrDgg2cd_Wc* W &_W_(2&&dW&= *dWg*(Cd*2{dr dcrWRrd&{rgWg=gWd&D&(2gWgrD&_gc(c{* cC_d *_d_C22=+*(WgWdCgW*=d=&=&=28*g {r(&rrDWD=DW(&c&g2DWDrc&2gc2&d_d2g_(&dWW&&&2**{ W&W*WW=ddF==x2g (_gcg(g&dW  d*(Fg&g228D=c2* &2&=*(*&2W= 2*&P*&*2{uWDC&C =&!c=*g {crrDvD{D=D*(W_ (*g6D&D2&Nc__g_d2g_(&d&&Cd*(WgWdCgW*=d=&rg;D=C{d{={Wggdddr((cg(=g2_3D*cWc& W (_&2d 2Wd&d*g*cWdU=**WRC&C2dR=2ddZ2gggcggddd(dg(&_ gr &D&cWD* &&g_d_r2(Wg2d&r&(*c**{%W(WCCd=&rWf&Z*QWrdDQr_(g(dgg((DdD&_dc( g d_g *2d2&Wg&d&r*(37WdW(WgC&d =c6r(7(r(c-2gddgced(( gdgr2 D*cWc& W (_&2d*&2{&W&&*W&*W&Cd3WC&C*CWSd(7s*{{rgr=r*chd2cdgdDgg*cdc( gc2_d&&_*2W2r&&= &W? W({(W2rgrcd(,d{gT(rdg=Dcdddr(( zgdgrD(23cdcr (*L_d_r2(CP&d&(&g*&{ WcCrr!rdr r2dd{ggO{(r dddr  (cgr_w_d_&_22d g*L (_ 2d2r= &c*r4VWgn({d{*d C*=/O&02gQ{=r2Dad*(W(&gWg(D&cd_&2d d_g_c2dW=_*2!&&&2?v*2SdW2rgrcrgJdk(Pg{&D rrg&d&(Wd*g& gDdDrc(2g d ( g_&C 2c&r=1=d=&=&AdCgr1C(= NdVrg {({_rWdcd(  ({ *gW_*gC_Wc*&: &_W_(2&C(&d*g&(Wdn=XgW2{dC2dgdcdg{d(drrdgr2(dDW(*gWg&DWD(c& d2& *_W_&2W_*&&*d*W*&WWW=C&=d{W=rr&lr(W(=(Wr&g&d2(W(rg& gg__dcd gc(_d&W_W*&2*&W&{*&*2*_*Cr C&{&={dWd=(*{&rWr=d&d*d_ Pgg dDg2r22c* W &_&*g2d2r&(Cg*(WgWdCgW*=d=&rd:gdg92(d{2DgDcDg(dcdgrDgg2cd_WDC2& &_W_(2&2*&W2C*&F W(CgWDrgrckdd=Mrd&{rgWg=gWd&D&(2gWgrD&_gc( g d_g *2d2&WdC}&&*W&*W&*r#&{jr=rg=2ddR2gggcggddDd(rgg(2Dd WD*D_&4cD & ( &_D2r= &**W*&WWW(C&=d=d=rx((Z{d{({gr&c d(d_(Wgcg(2 D(_&c& W (_&*g_*2{&g&=&*3GWg1dC(=gC*dgdD{ddW{({_rWdcd(  (2c&g*DWD(c&&g g&g_(2g_*&dW&&2CW*cWr{ Cg{rr dc=(o {d{rD rcdrc (rc(c&g*DWD(2W2= &*c (_ 2d2r= &rC&*&WW**C&{g=(Mg=*(g(grd(&r2gWd&d2(*_ g&g*gWcdcc r* _r*r*&2*&W&(=W==W&{cW(C =d=r( Ord&{&rW{*d&Dg((gg(*_g_gcd_&c22W & 2_*C 2&22&*I *&*2W*r C&C*CWvd(h}={2D g&DrDrD&(W_ (*g6D&D2&Tc2&d_d2g_(&dWW&&&*&WWd{PW=C2d =Wr2d&(gg-{(r dddr  (2(_(C2 Dr_&2=&D*(*d**C 2*2_=?&=*2{ !&{{{(=gdQ=(K {d{rD r(r_dW(c((_ g2 &D&cWc( &&g *_{2g2=2*=G&*=d&W*d1WC2C_CC( w&d&(=g*DWd_cj((({_ g(g_DWccc(*  &&&2{2W2&&&Cg*r*{*D{LW2{dr d((g}&g {*{_D!r*d{(g(=(*_6Dd_dcd gc2_d&W_(__2W&c&(3 &*=&W&CW{==&rg=*-{{g{={*DTr2Dd(dgg DDd WDccr&vc(&d&&_*C 2=22&*q *r=2odCrruC(= sdFrg {(rWrrd&Ddd(gg(2Dd WD&cW2= &&d **g2d2r&(Cg*d*rW(vgCdCr=(rgBD=C{d{={Wggdddr((cgg(DgDdcgD* d &_g_d2g_(&d&&Cd*dWgWcCdYWCCCD=&oc-gdW{&{2r*gWd&d*dWgd_eg*D{cgc=c**)_r*d2d&g2**dCW*(*_WWCcC(d C*r&=g=&(grrr{rDck(dcd c_(2gc{& c*c_*6 *_{2g2=2*=3*d=dW_CgCd=d{W=2=_=Cg {r(&geD*cW(d Vg(g{2 D(D_cW c (W _r*&2&&W&r*&=g**W{CgC=C*d}=*dd92rggcddgWd(d_(Wgcg(2 D&_&cr W&C_&*g_=22= &(C&=dW({8CcCr=(d%-ddrd&{2D {*rmd&d2 a((DgDdcd_&c( W &_&*g_2&gCc*dC&&*=WW&W2C*{W=&=2O*dW{&{2r*gWd&d2(*_ g&g2D*& c&c2 *W _&_*_W&d=N&=*2{ WW52{2rcdq=(m {d{rD rcdrcZ(gc( r *2 g*DYc&c2*F =_2C W2CD2rC&*W{ **W#C&C2d#=*N{{g{={*D)r_c(dd ((D_(gj2(c_&(cg*(cCW(2gWg2_Cd*dWg**CdoWW&{&=*oWv&{W5*r&ddgWd*(W({ W =D&_dDd2g (_g _2d*&_&&W&&*W*=W&Cd.WCr{&=rdWd=dW{&(&r2dWdr(&cggg d_ _gD{c c= (_dWx2gWrC&C=N ***_{/W=C2d =Wr2dd(ggj{(r dddr  (cgr_1_d_rcg&Tc(  _d_rC 2c&r=/= &r=&WWr W*CH=&=2(x{r{{{DDqddDdcgc  * 2_ 2Mc(c{*  c_rWxW(_rW&&WO &**kW&W2r!Cgrd=D{g{_rd(WrCrDd&(c(gcWg&g2D*_WDD2&cC_W_ 2&Wg&D2C*d*=*W)gCdCr=(rg!d}(sg{&D {Wg&rC(Wg{g& gDdDrc(&J d ( g_&C 2c&r=5=d=d=&WWr W*CI=&=2(x{(g ICD(rgccDW(&(*(WDd2,cg2d&&&C&W_&_22*= &&&2**{ W&W*WW=ddz==a2g {W(*g=c r*dt(&(2_}gD_dcd2g d ( g_&C 2c&r=T*g=rS&BCr W*C4=&=2(}{r{{{DDYddDdc(cW * & A2Tc(c{*  c_rWlWDWr&g=B&(* WdWrr C {&=(rWLCjD{&rcrggWd&d2(*cWD{ &g*_WcCcD &_c_g*W2&22&*CW*&***WCdr+Csrd=*dg{d{rr(Dxdddr(( -gdgrD(2Icg2d g*g*cWx2d2r&(=T&2=d*2{g{c{g=drd5r{gm2rd(Wr{g&d&(W((g&g*DWD{c&2d (_g _2dWQ2gCa&*=**{5WR={*C&=WC*}&(c(={r(&rrDWD=DW(&c&g2DWDrc&2g g&d* *g_{2 2=&(*d%xWgfr{&{=d =*=_(fA={2D rWg2DC  d*(wg&g22SD=c2*  W&**dW(CB2(& *d*r{ WcCrr-r Crr&TWg 3*{sr&r2cS(r({(D_MDd_d2g2&&*&c*(W92(2{= &c*rxIWger{grNC(= fdprg iD(&{CdWd (&cggD(CDdD=DW2g d r_(*g_gWd2D*g*_Wd=WWCWDC&=c=grW0&S2{*(Wr&r*rW(d mdC dgDcgD; d2W & 2_*C 2&2*2W*d/9*=W2r CWW2rddr(E4({ rdrrc d*csdD *(W_=_gcdc(cg &W _W*&CdCDCg*d*rW({ACdCr=(dL0dA(fg{&D rcdrce(gc(c& <2 g*D5c&c2*m D*d2dWg&d&(&g*&{ WcCrrH=gCrr&d6g Q*{-r&r2c/dD(&( g&Dcg*& cc r*i*D*r2gCX2(& *d*r{ W B&C({W=C=D.&{c{g(Wr&r2d*DWg{c&(* Wg&D2D*c= (W  *_D_&&dCg*d*(*gW&r ={{&C*rW4&>2{*D r&r2d*  (&(2g*2 DW_&cW&W&=W _&_22*= &rC&*reWf=eWC&{&=2FWGr{&(g{_gddd(gd*gdcW(& &D*cWc& Wc*_&2d*W2*&W&{=W==W&zdWd{g=(Sg=_{dd&}&rWr&dWd=(&gdcWgr &Dr2W2=2W &&&_22W2r&&Cg*g=dA hgW{C C==(Od(k{g(rg&g=c d*d_ %(=g22 DW_*2d&D*e (_ 2d2r= &c*rxNWgFr{ r6C(= +durg {crrDKdgDdD&c=_ (*g8D&D2&scZ&d **g2d2(2g&&w W{=&**MWC&C2=*( q&+*oWrdDjrDDd(dcggdgrD(29cdc(cg &W _c2rCtC(CrC&*W{ **WbC&C2d9==w2g (=x2gddgcnd(( gdgr2 gCcdDx d = (W3_=22= C*22=dWg{.W(C =d=r( =Wd&YCrWd{d&Dg(DdCgdg=gW_gcdcr (&gcC*d_D&g24*dCW&&*2**W=C(d C*=D=&{d(grdr(rgd&  dDc&(CDWD c&2g d r_(Wv2d2(2g&&q *cWr{6Cg{rr(d+=(H {d{rD {CddrV(d(=((_Rg=D2& cW22&&W  *_E2&22=5*g=dF&9C)WCCCD=&sc5gdW{&{2r*gWd*c:dD *(W_=_gDdcrc( c *WR_(_C2d&&CW*&***WCdrT=grdd&dCdW{&{2r*c d&d2(*_ g&g2D*& cW2& W*W*=C 2&22&*) *r=&Wr{W{={W=&r&o2{W{rr&ggd((g(dgg(*DdD&_dgWDd2W & * W2dC/&(*g*dWg**CdC&{d=(Sgbd{ge(rdr&D&dd(g(cgdcWg&g2D*& c&c*cW_dWx_=22= &WC2=2)g{XW(C =d=r( 120_sCD {Cg&DCD= ( { W2 D*D_&jc= 2W *2Wd_rW&&W4 &**)W&W2rZC==2dIV&{W{(r&g(d((g(dgggcDdD&2cD(c  d rW _r*&2rCWC=CW*&***WCdrtC2rdHd{ga(rd(Wr&r2d*DW(C(Dg&DcDg_Wc&c2 *&W_(__2W&c&(w *Wm**CaWC*rM=&oWT({&g(rddgr((dc=cg(2 dg22g2c2g d&d_r2g_2&dWW&WC&*&WWW(C&C*=W=W4&( {(rgrgDgDc(dc=(rc&gr_W_=_Wc&2& 2_W_r2&Wg&(*g*dWg**CdC&{dC_Og^d{g6(rdr&ggr2Ddd2 g c gDd_dcr gc2_d&W_W*&2&&W&(*&=g*DvdC(=g=d.g=({d{&(gr(dgdgcgccgdc&(C WD*cWcW &&d D2g2d&g&c*d*&=g*2-dW2rgrcrgeddd{rrg{2ddgWd*cB(&gWg(D&2(cd gc(_d*=*g_2Wd22=g=c=gWdSdCr=gC2bdrW;*{W{&rWr(d&(dD&({gWg&DWg*c& d2W r&&_rWWW=WW&&C&*2WWWrC&{g=(d ,d{gX*rdg*r&dWr*(& ccWgCgDD&cccg2W & 2_**W2&2*2W*d.#*=W2{ZC&=W=(R&d({(rgrddgdc(d(& c((g DdDr& cr2& r*W*=*W2&2*2W*d9?*2JdCd=gC(kdrWe&^2{*(Wr&r2d*  (&(2g*2 D&D*DW d*a =_2C W&W=C(*g!/*(W CdCrd =cqr(V(d(2(*gddgc^d(( gdgr2 gCcdDU d = (W}_=22= &WC2=2t {ZW(C =d=r( s*f_g#{Dr&r(r&dD(r_ g&g2D*_WcCcD &_c_g*W2&22&*CW*(*_WWCcC(d =gd*<{(*{ g*{DD*rWc*g{ *gW_*gC_Wc2c_cCW _W*&WGC*CWv ***_{bW=C2d =Wr*dd(cg-{(r dddr  (cgr_d_(_(cg&qc(  _d_rC 222_2C3 *==&q={dr({Br&( o*#_gv{=r2c DpD*(W_ (*gBD&D2&)cD&d_d2g_*&d&(*g&DWd=&W*CWWC=&d F({gQDgggcddD=drD&(r W = WD&_&c2 W r_&*g2D_C&d&=&W=gWdWrC({g=grdd dg-{{ {=r(ddc?(gcr & =2 D*D_&vc= 2W ****Wd&g=0&(* WdWrr Cc=rdNKgd((rg7{(r dddr  (cgr_N_g_(cg&Ec(  _d_rC _C&d2<*d*=*({qW=C2d =WC2dd(dgY{(r dddr  dWc&(DDWDgcWc  &_d&W_C_D2&&c&gCW*&*2W*^W={{&=gkWv{{&(g{drrr(dcd* G(((CgdD&_Wc&c*cW_dW02_Wd2W*g&_Wd=WW&W2C*d =&=*=W{dgM{=r2c dWD2c2_ (*g/D&D2&N g&d*&*C*W2&2*2W*dxBW(CgC_=d{&CWrW9&92{*D r&r2d*  (&(*(WDd2AD=c2*  W&**dWcCJ2(& *d*r{ WcCrrL=gCrr&(d((g.{(r dddr  dCgd(NDdD=D(&Tc= 2W _W*2W5= 2*&F*&*2{lW_{dC*rgBD=C{d{={Wggdddr((cg(W dDd_gDdcrc( c *W+_(_C2d&&CW*&***WCdrOC_rd=*dg{d{rr(D<ddd(dg(&_ gcDr2d2D2(2& WW  *_#2&22=t&D*&* W&CcW*d =c3r(h{g((ggDSr(d (d(r_ g  &g*_WcCcD &_c_g*W2&22&*CW&D=&W*mWW&C2C*==i(g }*{D{&ddDg(d(((gg&2 D _&D*2W & 2_*C 2&22&*G *&*2W*r CW{&=WdWd=g {&{2r*c drD&(r W = WD&_&c2 W r_&*g2D_C&d&=&W=gWdWrC({g=d=(=g>&g ,C(&r&dWd((&(*gW(CD&_dc( gcD_d*I_*2W_CCWC=*&Nc*2pdW2rgrcrg,ddd{rrg{2ddgWd&d2(*_ g&g*gWcd&1c= 2W *# 2Wd&g=6&(* WdWrr C2C_CC( =Cd&(*g D(gwDc  (*(__Sg=D2& cW2*&WW  *_k2&22=s*(WgWdCgW*=d=&qg0({g{drg{(ddd&(dD&(*gWg&DWD=c& d2W r&&_rWWW=WW&&C&*2WWWrC&{g=DCCwd;=,W(grdrrd(Dg((gggdDgg*cdc& g (_g_d2g_(&d&&*dC&**WWW&CWC==&)drWYClD{&rcrggWd&d2(*cWg&g*gWcd&6 (_g_d2g_*&d&&*g*(WgWdCgW(=d=&Edr&/*{W{&rWr=d&(dDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&d&r*(X7WdWrC(rL=d=r^((EXd{r{(rcr*cfd(dC(dg& WD&D*DW d*# *_{2g2=2*=o&_3(*W{(C_r(WCd(=g((ZHg(rgD(rDDg(r({(D_nDg_d2 &(&g*;_(_{C 2c&r=l*g=(=&7=r W*CH=&=2(zF={2g&g*g*dW  d*(Sg&g22-crc{cD*A_c*dWcW&C*C =dL4W(W{r Cc=rd1d d({ggq{(r dddr  dCc&g&DWD(c&c* WcC_&*d2(&g2D*d=A**WW*C{W{==&dc=2ddE2gggcggddDd(rgg(2Dd WDCDDc& c g&W_&_22*WW&WC&=z=W*_WbCcC*=&( vWd2gdgcD/d(d{  (cgr_U_(_(_&cW* c* A_&_2C42=&2q *W=*v2r W*Ci=&=2(Qv={2D gWg*dW  d*(/g&g22NDDc&c  &_c *C 2c&r=3*g&r=&j&r W*CE=&=2(bBg(d;Cdgr_(g(_gdg& gDDgCcdc=cW&g_d_r2(Wg2VCd&_Wg*WCdMWW&C2C*==-(g }*{D{&ddDg(d(((gg&2 D _&c{ W g_&*g2d2r&(=m*d*(*gW&r Cc=rd!,gdr(rg3{(r dddr  (Wc&_d_D_gcdc(cg &W _*2W2 &&Cd&g=gWdWrC(rI=d=rI((?{d{({gr&c dc(r fgg ( &_=& D*c3 & 2W/_=22= &W22=dP&%*r W*CS=&=2(%7D{&{ r&dcr*  (cgr_NDg_r2 &.c(  _d_rC 2gW&&(CW*C*DW&CcCg{W=&=28*dW{{(&r&gWr&d2d*(=g(2 g*DDD& d&g_d_(_g2&= &gC&*(=WW&W2C*d =&=*=W{dgX{=r2D&DCD*cdgg_bg(D cdcr* cC_d #2d2=2(=k&=*2{ WW+*{Wd C*=qG&j2gJr_gdr(Dg(DdCgdg=gW_gcdcr (&gcC*d2(Wg2d&r&(*c**{HW(WCCd=&rWn&A*BWrdDKd_Ddd(cggdgrD(2Ucdcr (*T_d_r2(Cn&gCd*gBgVc{1CdCr=(dH=2dd)2gggcggddDd(rgg(2Dd WDCDDc& c g&W_&_22*WW&&&*&WWd{QWD{d=dqg=*{d{(rg{Dddg&d*(WdCg&_ D(cgDD&g&c_d*=_r*&2rCWC=CW*&=&W2CWCr=&rgad;r{(gtrdr(rgd&  (cgr_u_ gr_&cW* c* G_&_2CH&r&{&Df;*D3d{({Hr*r r=(4{({{D rcdrcT(gc( g_:g(D cdcr*  *_W_&2W2(&&*d*W**WWW&CWW*=&ed,&dd{(rgrddgdc(d(&cg(2 dg22g2c2g d&d_r2g_2&dWW&C&D*&WcWg+WC&C2=*rWb*{W{&rWr(d&(d(W(*gWg&DWg*c& d &&d_(2g2d&g&c*d*&=gWD*CCdC=CWrgpd<r{((grdr(rgd&  (*gWg&DWD(c& d W *_W_&2W_*&&*d*&=dW(CgCd=g=cwd}&dgz2(d{2DgDcDg(dcdgrDgg2cd_Wc&c2 *W _&_22*= &&&2**{ W&W2C*d =&=*=W{dg9{*r{dgd=d* :gg_(gD2(DW2g (_g_d2g_*&d&&Cd&_WgWdCgW(=d=&rg=2dds2gggcggddDd(rgg(2Dd WD*cWc& W (_&2d*&2*&W&&*W&*W&CdCWC&=W==e&{ddW{r(&rrDWD=DW(&c&g2DWDrc&2g (_g_d2g_*&d&&Cd2W&d=WWrm&CrrWr=rWx&d&{2rWrrd&Dg((  gdDgg*cd2*c& Wc*_&Wc*W2rW&&r=W===WW&1&C2=W=r<&dg{(g rddgr*(dc*(&gW(*D&2c_Wcr2& r*W*=*W2&W&&2*W*rW&YgC(r =d/g=*{d(*{&rW{*d&ccDW(rc&gr_W_=_Wc&2& 2_W_r2&Wg&gCd*dWg**Cd,WWC{&=*?W>W{&{g(&r*dWdWcWcCg& gg=D22%cg22&.*= *_Q2&22=S&=*2:f*Cm2C*=W=WdWd={&gc{(r dddr  (rc&g&DWg*c&2g d ( g_&C 2*&W&W=W=WW&GdWD{g=d=r9((I{d{({gr&r=d2c3dCc*g*DWDW2W2= &*c (_ 2d2r= &rC&*&WW**C&{g=d=(=gY&g {*rWrWDWDW(&cd(D gDdDrc(&p d r_(WM2d2r&(=}*d*rW({HCdCr=(dx<djr{(gprdrrd(c;d2cd c_gg2_gcdcr (&g_d_r2(Wg2D&&&(&&*DWrr C*=dd)id-r{((g{*r{dgd=d* E(( d_ g crc22W ( __W2c2(= &WC&&g&&tgW*C{=g===*(<{r(dg,g=D=Dgd*({ggg=g*28D*2d*{*_&WW 2r_&22&W&(*c*_Wr{8Crr==(=_iW{c{(D r*g&dr  (((_gWDcD(& c=2&&Uci*pW Cq2*&{*g*=**{)Cd{dr C d d,g {*(&{gDKd2dd(rgg(*g=D{D2& c**c =_2C 2=W2C.2%==Wr{RW(C =d=r( =C{dV*{d{Cr2c0d* QgdgrD(2hcc2d c*g*cWS2dWdCt&&=W=H&9WWCrCCr&=(d=(&( f gcg*c rC(dd*(d(Cg22 cd&&& c * *W*&WdC 2 =cq#WcWrC(r =rC&=2ZWI({c{_rrD<d*c=(cgr_,g2D{D(&Nc2_g_(2d_(2 &d&rP *&=&W&{W{uW^rvdc(EI2rgr(ddg&c c d c=g=_=_gcg g r_d&& *2dC C=Cg*r=dWr{gW({g=d=r0((sUD{&{({&rDdr  d*(D(&Dd2hcdcr (*cW{ 0__&_2C22H{*=*2W*r C*=Wr1CSdC{&g g { drdCcW(( =_cg_gC2?c&*d&;cQ*MWgWdW&Cj2)=?{ W=W2C*rK=2=d!r{g;*{=r{r2c (( c(=g22 DrD_D**  r_W_*2&_*2f&&&2/!Wd:dCdrgr C d d=g {rrWr*d&Ddchc+dZ __(2c_Wc&c2 *W  C2d_*2d2C&2ft*(*CWdC&d =&=29*(=g_ddrW(Dd2(C _gcgrD(2bc( g& c *c2dWv2(CWCq2E=C1gt {=rcC_CCd;8&gd(?xtg;DgDdD&c7dS C2 D=D2c*&z 2 d_r2g_*2=&{&2> W({cW=C2d =r=_=*g {rrWr*d&r*dl(&(2_MDd_dcd&g& c * *=C 2r&W&**&=dF7,:*nCW=rdcrW^&62{*D {Cddr*dddC(2_Jg(gCDdc&*  & 2_*W=C_*D&W&&&CCc{_CcCr=(dB3({g( 1 ggddDZd(cWcJdZgCDD2c2=c{cD*Q *W#2d2r&(=c=*k Wr*&W2CWC(=c=_br(/{2g=rcdrc;(ccr  ( _cD&& D*cN & 2W7_D2&2(2&&D*r{ W2r C&C2=*( -=d&{=gWg=c d&D&  gd_g_ g 2c2= r&**&_2W=C&C 2 =g=_{ *CCdW*CdCC=2( {dg&g { D DWD&cd  ( _ 2Scccr (* _r &_22W2(&c&_*r^nW*{=Cc=rd+=2f{M(gq{2dgd((dd(( gdgr2 D&_&c&&W&Hcv*LWcC<22*g*(Wd=&{ { W rd=&d=dgS*(dD{d(DgD_ {cg(( d(WD2Ddcr gc* =_{_2C C=2*=6ecWdWrC(Wd{W=(r&n((2grD{d(DcD:c g( ( W2{_gcdcr (*s D_&_(_&2D&rv &**D*&Cdrn=d=rQ((cg{.7rc(*rDdW {(=(2g*2 D*cW26D?&W_&W W _ CcC*C=TgWr{c{=C{CDd Pd(&( u g gWg&Ddc d  c_bDcDrc(&  rc& 2_W_(2c2_&r=.**5=WcCrrkC2={=((1O2rgr(ddr(d (d(r_ g& &D&2W2oDh&t*cW;_2&g&(*dC&; M * {({*r=rg/dJr{(gm{Dr&r(r&dD(r_ (*gDg&cd&G d r_(WcC{*D&{*2*DW2{{W=W2C*d =*9WdA=3(Cr&D drcgc d  c CDd2c2=c{cD* _dW&W _ C CWC&=dx * {DrB=c=r/(( {rm&{2rWr(dcd_(r Ug*_=Dccr&Jc2 { (Ws_2&g&(*d&(* WdWrr C&{&=&dWdF=>(LgcDVr2(g((gdc&_ _ g 2d2=&=&g_d_r2(CF2D&&&(&&*DWrr W*CDC&sd(M{d{rr(Dcc{rWg&d2gPg&2{D=D2c**  *_W*N SW=&&= *rfgf * {c{2rDdcd=#{9Dg)rrD)dddr(( c *_ Drg&D2cWc( c __rWp2{C=&c*r:aWcGr{ W rDr_( =*L/{&{2DIrDd&d(d&(Dgr2 D{& c&c2 *W _=*&2=CWC=E *&=&{ Cdrgr C dr,2{cgd{_DccdD7rEcWgd_tgDD&D(D&cD r*E_&CdWO_ICP=g=d=&SZ*}{=d ===2h*(V{2{drrdgr*d=({(2_ D(2cD=c2*  r _ *C 2r&W&**&&**EW&W2rz=drdAd(g( ; g g=c dr(W(*g& d_j_)gM2c d*c&W_(*&_g2*=r=2s_W*^&M>rU=cd_d*)(=&(grgdgdr(dD&(&gd_ _=_gcr2d r*g*HW _22{2(=Q&Dtr*CWD:rWcC2=(=CM_(={={2r*c D=  ({(D_^_ 2c_Wc( W&=_&*dC{&(CdC b{9rM2W(CW{==&rg=({g(Drd(&gO{-d2(rcggdgrD(2KDDc&c(c& D_rC _*2D2&*d8iWdWrC(rcd{CW={rWq(dgD{r=r2d*  (*gW M(S_Wc&& & c _(_=WW2{C==c&_&CioW&rd{PWwr?dgddd&(GSGgCc d=d2(* jg2gdDrcgD*c= { 2W 2(Cc2=&2; *r*_**r Cr=W=*?&=*qw{&{2DaddDd(d g  ( _ _=& cr W *_&*dWOWA_KCW= >c=W**CW{C=&rdd6=*{W(Cr&DDDxd*(d  gr(&g2DWD(ccc_ r*AWc2gC C=&&&2**<*Wg{7C(r=dcd&}*{dg {(dgDc(dc*(g Jg(_=2c2=&c&W&=&W_W2W22&&Cd2W&d=W**Z&W*=WrC^&dg{r(drrDgr(Dg(d(rg(_^gDD&D(D&cD rW  *_D_&&d=b*d*rW({cr{WctS=W{({_g{{={2r*c d*(WcHdP =D&2 D_&g& c *g_*2rCcC=&{&Dw Wd{&{ W r rWr&dd( O g DZdcdr((  gr(&g2DWD(ccc_ r*._*W=2c&r=V&2*{*({/W2=g=(+d=(U {d{rD r&g&d&cWcadR +_c2GD2 g (_d&&W W _ Cc&W===gWdWrC(r;CD=&=(=&HD{rD {*rDr&(d igdgrD(2c&{ W_sc#&g&DC{2=22&*U **WWj4*b{C=&d =_(g( : gcr=D(ccc=({(D_kg_29cdcr (*cc&_*2WWS_PCC*&7 + * {D{ r dc)dpr{(gc7W{dgWd(d_(Wgcg(2 D&_&c_&a g*w_WW=CcWW&W*W=CW&Ld*WWd{W=W;Wd={&(drdD dg(gccgd =gcD_ C !_2 D2* c &_d2**_WgW=WC=&WrW=C({W=&r&/_(B{gg-rWD=ccdD(&(((&gDDr& c&&6*r*2WrW=Wg&d&r*(k)*DW&W(W&CD=r( s({dg gRr2rddr(gd*(=g{g22 2=c(c_ W_c_(C 2rW&2g2&*(*_WWCcC(d =&r&dk=k(Jgcggr*d{(g(=(*_6D(_gD=c2* cC*2_D_C*2_=&r&**DW{{KW(C =d=r( R*d&YCg2rDrCg2r=(r(*gDD{2 D*c&&= & * W2dCA&(Cdx{P_WdWrC(rwC==2( =C(2e_dc(Drdd*(cd*(r_ D(2(DD&r D C_{ C_&2d_=&g==&**kW&W2rP=drdjd(g( (grdr(rgd&  (&c&g&_W_=_Wc&c2 *W _r2W2&&&Cd= & e NC;WCr=W=rFW8&{&ggg { D D=(&cd  ( _ _W_WDC dc* d C_2Cv22Cg*d*rW({c{Trcr*drd2(r(={&{2r*D=c cT(2(dgrDgg*D=c{c2*  2W(2dC(&(=(&*n(*({(CrrcC*={Hgm=T*gtrrggr=d2  cWc*gr2 g*DGc&c2*i =_2C W&W2Cd&2!O*(W CdCrd =cSr(^)2(d(&g&c r*db(&(2_.g*D{cgc=c**0 2*d_*Wg&(&{o &CWd**WdWCC2dbBr=&n2{W{(rcr_drc, c(*g{DgD=D*&K d&d_dW 2(C(22= &2m(*2{c{*Crr+=rd*Ur(=gc(WrrDjD=c=cg(Dg&g(g&DDcr*  &&W_&_22*WW&&&2**=WW&W*WW=ddQ=*V{{g{={*Dsr2Ddd*cg(*g{DgD=D*&k g*( *W(_(Wd2(= =Dic=WW*W_riCD=&=(=&7D{rD r2rddr(gd*(=g{g22 2=c(c_ W_c_(C 2&C*&*=**2!*W=?&C&rt=*d*Er(e{rg*rrD=c(d2  (2_(g22c2W2W&=&g 2W W(CcWW2C*d&**d*CW2r =cdD;g(c(Wg rrDDr*cccW  g(_Dg(2c2Wc&2W & 2_**W2&22&*CW*&*2W*r C&C*CWfd(4w={2D g_g2dr  d*(?g&g22Hc(c{* cC_d *_d_C22=U&(WgW(CdCdCr=(rgRdX(-g{&D rcdrcicrdrc&gr2 g*DNc&c2*M D_&_ 2&&c2*l *cWr{vW2{rr{d,=(U {d{rD r*r_c#dD(&(((&gDDr& c*&; r**_r_=2(C*&*===gWdWrC(r!=DCC#du=BW(grdrrd(Dg((({_ (CDdg*DdDCc2*> g_&_(2d&d2**c&*WcWCW*C&r}CgC&((=WrgD{d{d_((D=ccg* c_{c(2c2I2s_(*c*Q*VC_&&Cd*r&&*2WWW(CcC_=rd5G&(*{(g*{*D*d*c*(r =gcDr2MD2&Pc(  _d_rC _C&d2*&d&C*2{5Cd=gC2bdmdx(+g{&{=r2c d*  d*(+g&g22^DDc&c(c& D_rC 2&= &&&*&WWd{fCd=gC*4dr&=*g {&{2r*c d&d2(*d&_cDdDrc(&Lcd r (_c_*CL2(2C&d*&=WW&W*WW=ddYK(U{g .Crd{*rdrCd2 %g(_ g22(D2ccc**(_(Wc*W2&22&*9 *&*2W*r C&C2=*( k&-2{*D r&r*rW(d u(=g22 Dr_22d&D*S (_ 2d2r= &c*rk!L 9(W2rlC(= ldhrg 5Crd{Nddd=d( G(=g22 Dr_22C* c* l_&_2CQ&(&{t &CWd**WdWCC2dX/d( (cgcg*r&D.D*c*d* *g(_*D*2*c&&=*(_dW WdC(2(=(&*K(W({cCdCr=(rgZD=C{d{={Wggdddr((cgg(g{2 gCcdD*cdcC 2W7WcW2C{C_={=CucT2{*{2rdr&dgd2(*(Cgdg2c d&d2(*cW(&g2g*D=c(* c* D &2dWg&d&(&g*&{ W*W_r/CD=&=(=&HD{rD r&DeD=c= (gd_ _(2(D(&(c**(_(W(2dCcC*&&=n=&f***{*C(r*=*d=1&x2{*(Wr&r2d*  (&(*(WDd2HD=c2*  rc2*dW&WW= 2*&K*&*2{^WDC&C =&Nc=*g {crrDLDcrrD&(r_ (*g}D&D2&! ( {W  C2d_*2d2C&2J/Wd{ {crcr*=&dld*(*P*g*r(D*d*c*(& =_(Dd2 2d&(c(*( *W(2(Cc&d&r*(=gWD*CCdC=CWrgPdUr{((gr(r{c rC(dd*(d(Cg22pcrD&c2 W (_c__2rCf&r=**&.*W*{=Cc=rdf5((b^({ rdrrc d(d_(Wgcg(2 D&_&& c2*{*D2rW72&C&C===-c{dOCC2r rL=*d&d=(=gdg!r&D&D=c= g c_c WgCcdD*cdcC 2W02dCd&d=&=c=gWdW(WgC&d =(=_eW{c{(D r&g&DC(2  gd_d_c2c_WDC dc* d C_2C 22=&=n*&tWW&{={r{&=&d=n=V2{*D g=c d{dD .   gDdDrc(2g d r_(*g2d2r&(Cg&d*r*(WcW*rpC(CC=d>&dW{&{*{WddcE((({_ (CDdg*DdDCc2*w_r &_22W2(&c&_*r%YW*{*C&r*=rd=)c{rgj{2D#r(d (d(r_ g(g_DWccc(*  &&&W 2(C{CD*r=l*&8&a={=rcddrCq2( (I{rg&g=D=cdcA(& & =_=2g2c&c2WcC_d *_d_C22=l*dOdWd{&{c{g=d=(=gA&g {({_rWdcd(  (&c& CD22 cd&d&c*c&W C2d_*2d2C&2/ W({&{zC&rW=&d=drd&{&g=r=r2d*  c=_ g{gD2#2 2g d r_(*g2d2r&(Cg*d*rW(igCdCr=(dkBd4r{(gordrrd(c,(d(rg(_c_*2r22&r&=';GatUVzcHkStynYevZHaFqyDAiFsciRei={"qLqHip>?.ciricPpHipPbPUbQ?i.Q.U.KPKpQq>UPbbLipU?ib3rUH.KHP3UKU3LKqbrHQ>","b3cKHrrULpbi?3rH3KcPKicQ>3cUP?iKrQcPbLrP>Hpr>PbLLQLpKHQP?.pi.","UpQQUPKPKQpciqLcb>L3rUr3b3QirQHKcp.P?b","c.UQLUU>>b.??p?icU>K?rPipr3.Hr>>L.??33LUbpKi3QL33ccPPUKp.?3PPpQ?UUQPP3H","cqH?HrQiLbib?>cpcPpL>ripHcKLU.QK>pLiQc.?Ucc3.q?3pQ?q>PHK3Q?LQrb?qi3?c.c.3rriKP3Kr>p??LULPrPrpPrLUQK>LUL?33UQU.HqQHc","rUU3>3?LqLUccbLiKcKQHPqbbHrL.LP?qKpH?c>U","P.p?r?bbcH3>r>QL>pLrK.bpP?H?U?i3UiQbqL.H3bp.cpbLbLbLp>bqiqipKipr>LHcP>p?qbccP>bHQHH","L>Pqi?ipHccKKqrHQH>b.QP..UHH3rPHKpKUcbLLrUrLi>prQKQccci.H>iU>K?pL?iqL?K3PL.U3bqbicLq?.qqHQqQrirqicpqcKUiiqi>3qQ?K>PHUU>cqPU?","L.LQ>cPHH.Hp.PcPi.iPcr>r.PpbPKP3brL>LP?K?.cqp>P3cc?cU?KQqicqUUK3Uqqq3p?UU3Kb.HH","r>bKi?HqHqLLLUr??3Hb3>P3qQLic3>b33ccQPUr>Urrp?.rQKKi>r.pLpibLq.PHPc.HUrU.>UpPUcU3Lq??LHr>iq>UrU.>Hr.UPUbUHcKbrUpqLbU33rcHKLiH3.P?c>HLp3p?PQiKP3iHPK?rHcPLKH","3c?QcKQPHP.QbcKUQHQPPbHprLiLQQQ>Lpq?3qbKKci?3qKqQ?pHKr3L?bPqq.>PUi?KHQLH?LrKr?L>QiPicpPqbbbKi","prrK>qUpLr.qc3K?H?>qHqUUiKL?UqKP>LKr.iUHUHicUQbUQKLqULK3KU>?KqUbKbK.pLHqPb.p?pH?bpbPK3QpH.LcPqLi>p.qK3Lci.UP.3Q?bQbKqK.bbiKrHH3","?.?b.qbb33cb?cqL3K?pb3.LrPrK??cKiPLKP?i?bKUPciQPcrcL?>iKLiHciHpL.K33c?UppU?pHiQqPpLUKLL3riQ?>HKLLcbqUH?c.L>QUbLKr>iqcHc>UU?.Kp3??qbb.P3bcQU.3br.irLLL?>cHUL3pb?KiU3ip>?UiUPLpK3?.?3PKU.crP.PKrPQc?rr>H?QHqrcbP.KP3>i3bKQbpKq>>cPPP.3.cH?>qULQ.3K.LP.>3c>QP3>PPrcrrLU.iL?bPc.LbQPbqL.KUpLbPrUpiLqr..LLqrqqrULU..?r.>iKHLqrHHUPULrU?rcHUb.PKp>ibiPH>QQU>cPiL.q3U.PiHcPrcPHH.L?cLUi?PpL>K.i.?L?K.rr.KKLpUP3cPqicr3pUQ>..K.bpcc?33UpKcHib>P3?bbbQQHc.qU.pQbpKHii?.UpKp>rQq>qUp?KcPr>pbr?PH3>?>iK3Q>qQ3c>ibqiiHciLLUK3>pPKKq33b3prpULLQcUi>L3?p3b>U3cr?.LiU>KUUK?.?.cir?KHiQqr3>Hqi>QH3LKr3P3QKbpPp>iUbHbUciQiP3>>pKriqp3bKbHppLLbbp.QL3HKHQrU3>>LPPiU3bqp3?.qKqQ??pLULcL3>ccQLQ>pp3qLrcK.LPrQcK>qpK3KKc>KKP.33qpQ>3bQ?P>KbiiqrPLrcr>LpbPbL>>Qbi?ipK.Up3bi..?.QP?iirQ.Q?Qcb>Lc>q?33Hbbc?pPiPrbicKriqiK?ipQ?bi.?PpcqKLLcPqiiL3cK>LiKbpr?QPbqPU>Q.L3Ub3.rb??3bQr?LrLqiUiqpcLPL.3rKLrQ??>K?iHbK3qc??rPHH?qUb3i?qb??LiL3P.HLrKrqrKpPQr.K3qcp>P.pcPH.?Hb?Krqr3crPP3pKUL>3LcrKr?>b.i3crH3UHrKPb3PqHii>p3PL3.UrP3qbQ??>qrL?cqP>>Uc3QKLcUpQK>3qcLH>P.c?K?bHqq3>P.q3b>LPU.HK?K>>crb?p>3i>HQLbHUHp.qbb?.pr?>p?Q3LqLb3rHHpUHpcrPK.iPULi>iP?pH?.3bb?r?Kp>rKPr>HicQcH3briKc3QcKPHH>iP.HUUci3Lq>QUPrrprKr?cLrHqLb3.>PrLKi?qbUp>Q.?HUUpUp>iUcL33LQ?>pp.qrrp>P3K.LHc.K?Hi.QpqL3r?3bK.>iKQq.Lc>.HQH>i?riQpqpcLq?q33qLUbLKrbUQHipQ>i>rQrLLcb..bKH>pL>K>ibprr3ppHcq3icHrcb>b>p>HpKq3.cqrKL?3?rrLQiL?Pip>bp3ULqr.cK>QpKc3PKKUqQKirKQr.ipr?ib3K?QbKr>ibc3rrL?>Q>K?p..U.rU.Q?KPiQPK?qip.>Li?qLQ>>3H?KPKQbq3UbK>3Ur3?QcpP?bU3qUb>KPUQKLcbUQp?rppb>QQ.>Ub.?>P3U.Q3cbqL.qPqPHc?Qrcqqq3p3?r.QbcL?P??prbb.HQqbPrc3LPLLPbPP?U?ipbHbPbK3cL3ir?P3Kc>bQ..3iL3>PHpPHccbbK.?>>KbK.3rc3H>iiHi?rcQpUcLQUQrP3HH.ULHHHr??qQbr.>pK.UicH.P?c.pHQQ3qLPbLQQpc.KiLKqpUqHiQr.>iri>..Uq?HPKLPiHKbUPQ?Pb?r?.UcqKLb>??QLLKpQr>pprPHbLqir?UcHHKq3.P3K.cqK3?p3UK.HPQ>?>.?3L3HPi?c..c>PKqr3ibPPp3.b?b..i.P3?pL3LriQiHrKi3>?3cppHQqb>qc3QU?cQU>bKU3c3bQrHpbbqUU.r>q>?.>Q3piqULi?rcqUp>?qKHLUP.rH?pbicb3PU?pLrcU?bQ3>pK?cpbrc?.ip.pqP?.3c.bKrb>>i.>U??Q.Kp>K?>LH?ppH3HQ>HpqPi>rPr3Kr>ii.QipiUPqp?P>iQr3Lcqbqc?3c.b>LKbKqi?qrqPi3H.b3UHP?p3.QQb>r.p>p>HKQHcbHqpL3qb3L>b?Qrqc>PK.PLpiq.3KHU.c3HUi>>cb?rLqii3.bUKHrPpbKpc3.rbHQUb3ccHqU.>KcQ?L?pQ>P.ipL?iQp?prQrK.iL>UQKPi>cK3.3bQicqqpc?3?L>?>HLbiHUiHL3Lp3bpPb.qc3.ibiHKi.Ki?UP.>?PribrcrbUbpb>Lq>q?LprQ?q?rKqPr.KK33ccUK.>PpbciKL3r>Q3L.K3PU>UpHr3>?UcULKqU>>iQb>3Qrp3r3HiL?.qQiQqbqc>Ub>L3PKqQrrQL>qcH>PqU3P3cqr?KLi?rH3cKP?P3?c?r3U>KpQrrc3QKcqULHUUbii>p?K?qKrrUKPp>pUpPHcrbUi???LqUp3Pr?rrqpqL?rQ>qHLQUpirpQi?KQq.P?p?H.Qp3HqqqUpHHQ.q.>brHpPppU.c>33iQUiq>cq?pUPbQKbK>cpHqL3LQKKLr.U3bq>>rcUU>qcqpbibU?rQri..?PHUqqQ3PUr3PcKiQUQipb?qHQL.Uir3iLcpbbpcQq>qbpHHcr.QH>q3L3?Lcqq3i.LQr.?pP3LQi3QL.Liq.Hb3K?>.Pir>?bbip?bbcKiqK3q3brQb?K3.ppcHqPc.p3?r.>qip3rQ3U..3.>qLi.333rPpiq>i.?rbr.HKH?qcb3i?3QbUK?HU3rqLbQKK3>HL.H.L>LPpPUbL.irUpbqKKc3c?iU?c.P>c>rbKqQbP>UcKHLQrKrLbQP>iqiQiqpKb.HPpPPbbHK>?>cpHQpbp?UQ.c3qL.cq3Pp.>cK.iQ3PcbLKcLbUrp?p>.b.3bq.cLii>PpiK.L?LU?iHU.ciHpLPKKLLK>?i>PrQPb3qPUKPbrc?pKU>3HLH3ccpPP>rPPi3p>Qp.3UU.icK>qK.qP.Lbrqp3>H3Upi.K?qQppib.PQrHQ33LQPQ.?ic3UpLHrp>i>Kc3HcLcQrHHQ?Kr?brpPrqKU?KLqH.3>UiHbP.LQQHL>r.pq3?Hq>>3UcK?UKLcc>>iPU>Kp3Ub3KLHiLKQ>H33UQU.U>LP>UKpPrcrcib>brK?Uir.pULpKbc.3UiUp>qqP3?KrLiPHLQLirbHqp?ULLcipcpLUcL>ci>pqKUPP3iiQ??pP.?3crcqUKiQLbpQPcQHi.PQbcUip>ibPpbU?p??>qL>H.irQPU??PPc?bKHHrKqq.pi?3>.Ur>3Lc3>PHPP?bL?qKr>P.pH3HbiKi3KrQULccH??3Q3bqHP3HK.c.UcbHicK>cLi.r.3cP?UHK?q.QqrbH.iq>.PiLb>3K>PK>Hc.qLUiQU.PrK>K.3HcP3>HHHppqKKbrKi3rpUiK.cQKcLHHcc?>L>HKUrbLrPcc3LqU>?K...rQ>P3>ipp3iQpK>r?LKP>cbiQ3?P.3p3K3H>?KQi3U>QiK3p>U.H.>ibHLHPHQ>Qi>iK..pc?3rrUQiULU>qHr3rH.Uqbqpi?r3ccLqKPUiiiKi.cpU.P.PqKqKKbi.brLpL.HpH3.Ubq3LrrPHbrUH>Kcpr.p>.QK>bUiLrPqUrcqH??PKb3>pL>QP?>.cH.p?qqqb>c..iP?.rr>.ccHbbPr>L3pLqUPb3LULcH?q.U>bpPb33Q?Lc3p?>bQiKUbqLHpqU>bKPbP.rP3HKbr?QLqKQicK>LqbHicqipccrpU.3qr3HUpKK>HHicrUQbrUpq3?U.>..U?3>Q.cb?>pHLL>bb3LbPp>>Q3PQHQriiLKbQPqcccb>bU3ircq.rrUHc>L.i>>brpbp>LLLQbpKbQcLb",""};return(function(l,...)local o;local t;local d;local r;local f;local b;local e=24915;local n=0;local c={};while n<650 do n=n+1;while n<0x331 and e%0x3e4c<0x1f26 do n=n+1 e=(e-393)%35821 local h=n+e if(e%0x32c4)>=0x1962 then e=(e*0x37)%0xc280 while n<0x21a and e%0x39c6<0x1ce3 do n=n+1 e=(e+586)%31020 local t=n+e if(e%0x1e12)>=0xf09 then e=(e-0x15d)%0xbb00 local e=44570 if not c[e]then c[e]=0x1 b=tonumber;end elseif e%2~=0 then e=(e-0x3c0)%0x1c45 local e=5990 if not c[e]then c[e]=0x1 d=(not d)and _ENV or d;end else e=(e+0x2ff)%0xe81 n=n+1 local e=7712 if not c[e]then c[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\83\108\68\101\66\65\102\89\0\6\115\116\114\105\110\103\4\99\104\97\114\74\66\69\109\86\115\72\111\0\6\115\116\114\105\110\103\3\115\117\98\66\113\81\106\75\108\67\90\0\6\115\116\114\105\110\103\4\98\121\116\101\80\114\99\77\82\120\113\69\0\5\116\97\98\108\101\6\99\111\110\99\97\116\79\113\83\111\82\110\100\66\0\5\116\97\98\108\101\6\105\110\115\101\114\116\81\106\71\105\99\118\118\76\5";end end end elseif e%2~=0 then e=(e*0x38b)%0xbc72 while n<0x29d and e%0x3770<0x1bb8 do n=n+1 e=(e+849)%40469 local f=n+e if(e%0xd1e)<0x68f then e=(e+0x2ed)%0x9d68 local e=38636 if not c[e]then c[e]=0x1 r={};end elseif e%2~=0 then e=(e*0x21d)%0x67c9 local e=88955 if not c[e]then c[e]=0x1 t=function(c)local e=0x01 local function n(n)e=e+n return c:sub(e-n,e-0x01)end while true do local c=n(0x01)if(c=="\5")then break end local e=o.byte(n(0x01))local e=n(e)if c=="\2"then e=r.SlDeBAfY(e)elseif c=="\3"then e=e~="\0"elseif c=="\6"then d[e]=function(n,e)return l(8,nil,l,e,n)end elseif c=="\4"then e=d[e]elseif c=="\0"then e=d[e][n(o.byte(n(0x01)))];end local n=n(0x08)r[n]=e end end end else e=(e+0x11c)%0xc022 n=n+1 local e=51679 if not c[e]then c[e]=0x1 o=string;end end end else e=(e+0x262)%0x8e75 n=n+1 while n<0xde and e%0x4880<0x2440 do n=n+1 e=(e+631)%20679 local t=n+e if(e%0xdd2)<0x6e9 then e=(e*0x1e4)%0x3c04 local e=92667 if not c[e]then c[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x140)%0xa770 local e=39630 if not c[e]then c[e]=0x1 end else e=(e*0x36b)%0x480c n=n+1 local e=4093 if not c[e]then c[e]=0x1 end end end end end e=(e*88)%40480 end t(f);local e={};for n=0x0,0xff do local c=r.JBEmVsHo(n);e[n]=c;e[c]=n;end local function h(n)return e[n];end local o=(function(f,o)local l,c=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local t=f while true do n[0x03][r.BqQjKlCZ(o,e,(function()e=l+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""c=0x000 break end end local d=#o while e<d+0x01 do n[0x02][c]=r.BqQjKlCZ(o,e,(function()e=l+e return e-0x01 end)())c=c+0x01 if c%0x02==0x00 then c=0x00 r.QjGicvvL(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return r.OqSoRndB(n[0x01])end);t(o(203,"oNf&r3?kVF4SuK6a&k?6KNvS&Kk?K6NfrSk44a6FaVrKNK3NS32fr?FruSKSfk&u?a?rFVaK3rkF6fNrrukfFNur4S6NrrVN46ak&6?kFuK&&N?FFF3uF&a3fF3aFVNffu?rV4u6aNfakkrfk4K6NVrVkSS&ff&SVPu&Ku&f3SkV3KFra?fS?kFr94Na?f46u366fT?Sr&kF6QNFr3F66K>4&3kfFVaFNaarf4FguNau&6FKKV64N33FFSSV43KSrGkV4Ffr&?Fe43uaaa3NVa3?VKarfV3KVK24PV??k?SVa6f4k3&uk&K3Wu&akF6rarr3?RSS6!=F&Nff3VuJarfuFfSrH3&3kkFrSuNfK&tF?u4fK4r4V?V6ufaS33VrF&VrSuf=3rV6S6aFr?VfKf6NHu?}VVuKFaKk&V?K43KVNfk?SVuka_r4?NVa6KS4a 3rV6Sa)r?SF44NK?Nk?3F??S4NdSrNkNu&NrNa?kF4KKaKf6Nu3rS?66ff3kFBQ3W3rSFf4?aPN4kf&k?KKk74&FF3KkNK3fV?Sruff46VN6VrSV64&a?3F66fN_rf4ru4FFua&3?64rN3&Kr6VNSKaV3r?rr4ka6VNak64kauf&3&V4Sra4u?a6?NFVuaYN&&FFuS6krrk3436S.&6NNVk4S?63N6Fku4auf3r9FSuSxFukaK?VF3uuN6?kV&KV9?ra3kVkkV46NNr3V-6rNk&akrufK3-r&4fF?Nu3aV&&?_FKzVr&kS4a6?B3r6kFrrk4K6N3r4SKuKNFrrk?ukK&&Va3fSFNu&ak3&kVuV66&V3a4&u64?K6rNkr4u63N??a4taffF&4??4f6FuNak36F&u&&?k3k?uSa?rf3&4?kf4V{ur?kF6aGr3FklFNaSN43Ff&3VuLar3uF4Sfjur&r?4r4FFaKk&Fkr4rKVm6?aVauFaS&rk&uN6?S4663rSeKFgf?kFa4V64r&YN&3FKa3r433VfKrar&SkKrVku6&rK?4FfKuNf&jkk4SVau&fukru4-F&??4FF46NVK?h4krKFN4&f3&F46UfN&jNK3&Sk6af3?uSuK6f3&KFauVPFu6z&?VFS63fak6VF6fiNrfkar4ka63NFVV43aVau34VFuS63u?aS?^FraS&3?3F4SraFfVkfrfkkKKNOkVF6ar*33Vk&u7a3S6a33VVSurau?V4FSka6fK?S4uu?4rKS&KkN4VK6&rkaSk6fN&3a?aFFV4Safk3F4a7&fjr&4rKu5FN4U?&SFaKFNuVf4V6Vv6rfVSVKVfSkf&3rufKS&rrQF3uu6u^6a6&&FVKNrk3V44Kfa6r4k4F?kK"));t(o(184,"7n#/kqOMc{.Y3J6_kc{OkY{kJ.n{OO.Mc3/kcJ3JncO#c33/NYOk3EIq/6/kMJ/}OYYnVkk3c{J6</MO{_J/kJOOO{YqOcY#_n/6c3Y_mYqO.n_#ncO.Y#.G66./63/#MnY6__6q{qJn#3O/YNJ{#.O#J_nM/6{c_OJEn33J1{Ok.gcq/kMkYJncqcMqJj#Mq..cnDkO{#Mk3kM/.JFkkqcqJ3nnO3.n6./3MJJqn3k{{.Jc/3c#33.k6_cOJJ#/M3Y_S.n/O_6V#nqO{n6_kYc/O3YkO_.n_nkkcOY.n#k/ckJc/.qMq..n#nc{6D9nMO3/_KkJM.Mk3PMkYMZ/k3{#Jnn6q_{O:+/6O/Y#n/qJ._c&3JckY{9#qk{qM6/qMO3%_{k/{/6M_YMqY{zt#/M533Yk_6Yq_Ok*M{3/n/OMc{_c##M{.Y_cO#/kMJ/;M.Y{bOqkc{3MnYMq{Y6##nO3O6YcO3.__Ykkc.3{nOqMM.3JPYOn3nn//{ckM63qMc3#Nnk6{3Jk#MO6Y/_qqnO3YMYk_6Y/6J/3MJ3/n3/k.63_/6q#3Jnq/./!M3#JO{3kss6qc6J3#MO_Y.JY#YOM3Y#kOn{#_{Jq"));KaGTbKoYtjvDzkF=function(e)e((-r.kjnhhmGg+(function()local d,e=r.HWprMdDB,r.SCwtwhRP;(function(n,e)e(e(n,n),e(e,n))end)(function(n,c)if d>r.EWKKMvyt then return c end d=d+r.SCwtwhRP e=(e+r.z_bSbPYl)%r.oScqUvjR if(e%r.qQ_vXLI_)<r.TnVLTEqb then return n(n(n,c)and n(c,c),n(n,c))else return c end return n end,function(c,n)if d>r.CmsPFUbJ then return c end d=d+r.SCwtwhRP e=(e*r.xUzZOJgp)%r.xAjERcZp if(e%r.lGcIo_SF)>r.iVrmzbUv then e=(e+r.pwJIMrlF)%r.QXsMCbUe return n(c(n,n),n(c,n))else return c end return n end)return e;end)()))end;FkzDvjtYoKbTGaK={r.VxnKRkmw,r.aWcuSRIL};local e=(-r.fsMAfHAj+(function()local d,n=r.HWprMdDB,r.SCwtwhRP;(function(c,e,n)e(e(c and c,n,c)and n(e,n,e),e(n,c,n)and e(n and n,c,n),e(c,e and n,e))end)(function(e,t,c)if d>r.CuoAAMfb then return e end d=d+r.SCwtwhRP n=(n+r.QmCVTbMI)%r.xCTfEZOr if(n%r.WduutmFy)>r.PAETMJwh then return e(c(t and e,e,c),t(e and c,e,c),c(c,e,c))else return e end return t end,function(e,t,c)if d>r.uhDBIOvQ then return t end d=d+r.SCwtwhRP n=(n+r.bVvhceZk)%r.b_FnjevY if(n%r.zxuiOupy)<r.PdKkdxKF then n=(n-r.ecVVoMGH)%r.ntwvxbvl return t else return e(c(e and t,e and c,e),c(e,t,e),c(c,e,e and t))end return c(t(c,e,e),c(c,t,e and c),c(e,c,e)and e(c,e,e))end,function(c,e,t)if d>r.rMdZWsJz then return c end d=d+r.SCwtwhRP n=(n+r.WGbShZi_)%r.XTqsOFM_ if(n%r.nxDdZqMk)>=r.vVvXDycm then n=(n-r.gpSxzHqA)%r._JOLPZsc return e(e(c,c,c),e(e,e,e),e(t,t,t))else return c end return c end)return n;end)())local h=r.wQxZiSXz or r.wCuqpKPd;local oe=(getfenv)or(function()return _ENV end);local d=r.YMAqtHUy;local z=r.SCwtwhRP;local f=r.WwMEbM_l;local t=r.hPCXYBTS;local function ce(u,...)local s=o(e,"_oW +A.JUMn8N1cq1No+McWU8+A,N.AF1n.WnWMMc881nJ8+q  nJnM8UNooUUn NW8.nAJANAWN8.+{NnA+1c.URn8Nj.Mronn+Wc8U+WqNM.cW.cq+Jc#UqAU+xJnW8N+8NcAUcW1W.AqW.qqAUooL W8N+.1tAnc++c.JNWCcM1W&nn +8N.8q.JcqqUcooU+gcMUWWnN .NgUUo+.9q JWqNU.sc8.+ 8q+NcAJwqUJMTUU8k&UcoWMNW.nc.NcUU.8JoJccJ8l%Uno+MNWN+M1q8nAa1n.+ccJU&WUN .c:WN8M cNUAW1nNcqn+MNcUcoUnWWN8.+=Nn.+oc.nqJJN).M^oU8J+.NM.+NcA8cK.nq+JNqWNoqoqn W8q++NcAUA.N1AUcN.qM+ocnU W8N+.1;J.W+J3qcUWQNM.ocNnA.1J..q.ANc.JtqnU+zcMUWWcN .Nh+n1+AccUJWWWN.oW88W+nc UN9+ cJU+cqJnWUM8:n8JWM1+. cWAJc1UUq..cooU( ANJoNn AA8NJ c1J1qsU1o8UcU+n4Wn8+ NnJ j8n+ANcAUc nn 18  qNNAAqW  qAJ1o.MAW+8+WqN.+NNMAccqJq* J1=AMnW+.q UNA+oNc.JqWJnq8Un%1AqW 8J 1Nc+J1c.1qWJ KUMWH1nBo18n++NN+11*.1q.Jo8.ATWW.+ccJU6WUNo1nYWnn+UAqMMAqWM8W+nq+.8qA+N+.ocJJNH.M1q.M1 +8ooJ1+Acc..JcnUJobU8cqUno+McWU8W NN.Aa1n..q JUiWUNo+8N+MNAAWNUAW1N..qyJnU+1MAUn+ M8.+kNnAWw+.MY.MMW18Jo8MA+M1A ccUAUcA.nq+Jcb. d+cqM o8NA.NcAUcW.nt. M+U(ooNW+ANUULoWN.JAcw.AqkUc1M+WW8W +8c+U1FJA.U1N WJW8cNJWWnN .N#+n1+Acq28WqcM.o;MnW+nNWc11J.NnU.a+MUfJnJe1ncWnnJ+88qAu11.WcNJ.qc8I+8JnWo8+++N.Az1n.W>AU1W.nWW88cAH8+ cNUAW1N..qi8J++UcoUnWWN8.+v+nMUoc.UqWJNe.M,onn+J+qU++1oA.cj.nqW1J1cnc.MnUqW8N++NcA.MqW.8  nN UAccNU+8Nq.nqAJNqM coNM WJn8 cJn+ncY.JcqWNTqUqoqn.1c8q J8c+M1o.J8co8nW+WNNA.cE.nq+Jco+MWoNn. 28n++NcAUcW.Nq.U(+MnWWN8.Jo8N+.1rAnc+.cqUUW7NM.W-nn+-n8 W1WANc.JdqnU+.MMq >nN .N?+n1+AccUJWqNM+oJMnW+nc UNWA c+.9cnJ+qcUUoWMNW.84+UN8n8NA+NcNJ.hSUno+qMWUod NN1Ac1n.+ccJU:WUNAAqN+J8+ cNUAWo8nA+N8M&+UcoUnWWN8.+c1oA+1cN.+q.Mq=MTonn+Wco +WWnA.cBNUq+UAoAnuA8n. UqMU E1MJWon8 A8q+M1 A18o Wq8A+11.o+W.cqUcp=NM.J1MJoc8c+U1W8J++J=qncWlcMUUXnN .N#nUcW.AcUJWqNU.o9MnW+nc UNW+N11.ccn1WqcUUoWMNU+8j nN++c A+q1.J.a{cAo+McU.8W NN.nc1n.++NJUooUNo.nd Mq5 cNUAW1N..qq8.X+UcoU1cWN8.+pWUA+1c.UqW1n/.M^JJMooU8U+WWJA.c#.nAWJceUMWJnn. YNM++NcAUcWn8 AU:inM+ocnUJoq8+.1RAnc+nnqUcbfNM.WZ>U +8c+U1W8M1 AnqnU+*cq WWnN .oc+n1+.1W+UoqNU.o18.WNncUJN8+N1..bqWJ++1Mo snMW.89J.1 Un1UN%cNJ.%gcUJoU8oW8W NN.A; A.++NJU/WUN onUWn8+ cNUAW1NnWqqJnoWM8W.nW.UNA+:NnA+1c.UqWUAWoMfonn+UN8UMq8M+-cu.nq+Jc<Uc1oNp+ ZoUUzu1AUcWJ+qqU?in1Woc8, W8N+.1MAnWW.cqUUnoAM.W7cM+ 8cn.1WAN+ A1c+U+tcMUWWnN .NJAJcWM1+.JW UU.o3MnWNcc+A1>U811.1qo8 aNMAoMnAW.8i n1 +c .noqnU iJJJqcMcWU8W NN.Al1n.+ccJU!MMMW 1NWn8+ cmUAMcnnAqJJNO8N1W.nM.N8.+HNn. c8JAqM.Mq?M3onn+Wc8U+WNNA.cC.nq+Jc>UMWAUn. l8n++NcM+WWJMq1UqwnM+ocnU WN8  8nAnc+.cqUUWPNM.W%nn +8c+U1WANc.8X .U+mcMUWW8 + NJ+n1+AccUUo( J qnMnW+nc UNW+N1..EcnJ+qcUUoWMNW.84Jn>L+c1U.WcNJ.^PUno+Mc J8MWM87Ai1n.+ccJUHWUNo.nQWn8+ cNUAW1N..q:Jn%8MAWA8k nN++11oA8N8AWqWJNf.Myonn+Wc8U+WNNA.cm.nq+JcLU8nA1q+J+61++! nUcWMq+oNM+cUo4UMAoNccJ8P&Uno+MN oA+M8.MAW1q.+ccJUhRNc8J n1U8.A{NUAW1N.+qnJ1PcUUWo8N+.N?A N8A+eJUAoJn+WN8.oN8AWc8U+WNnJUN .Ao+M6y+UnWon.oc18A1nN+JqA.1q.UQhnM+ocnU WcXU.1aAnc+.cqUUWHN8c.*nN+b8c+U1WAn1UoZ UEUJqUqJ V .+No M1+AccUJWqNU.oZN+.+nc UNW+N1..pcnnU cUnoNMNW.8> UUo1 UUn1+N8AA8W1q.neWc8W NN.N +c1.AJc..MUco8n!Wn8+ Nqo+1J NqqkJnm+UcoUnWnNqMUDNnA+1c.UqWJNU.11Ann.+U8U+WNNA+11UMo MN58nJWq8A  1c..cJJ.qMUqccMMocnU  N.W cC.nqWANcU.cqUUW.c:qM+Cq .NJ+U1WANc+nJM.1AMWJ1nJNo+MNW+q1+AccUJ#W U AUM.W.8N UNW+N1+ocMonW+nU+WMN1co.+1 WnzW+h.WcNJ.X%Uno+Mc+nqW c1MAR1n.+cNSN1.8iJ(+J,qWJAenvn0Nc18+MncNqnMco nWN8.+CNnA+1c.UcW889.M}onn+Wc8U+Wo+M.cWJUq+Jc?UMf.WJnnqN UMN+82cn .8UW{.qUUWDn1 W8N+.NcJ1nq q8AU+o1M.W4nn Wnq+qq8AW11.MoUU vcndocnW A1oA11c.=c1JWqNU.eccJ1A AJnNW+N1..BcnJ+Jc1SAWMcWN89 nN++NqUJAq1MWoNUno+McWU8W NN.M+on..qoJU7WUNUMoAUN8+ cNUAW1N..q68+++MxocnWWN8. c MNN WAAuNJc!nMaonn+WN18.J1cAUcM.nq+Jcg.8. 8NMA+1NA1cN.qc+J8q.U6#n1qJqcqU.ocMo q8 AU1U.cN.U.7o..nn +8c+U1WANc.nN nU.o.MUWWnN +M. Mqo+  AWJ  UU+>MnW+nc .N8.8q8UW8nM+onMM .8W+A1WAJM+.Jq8 WooM+ooMN 08 qU1.A8M..AlWJM*oM1W.noc.N++WN1.oMUJAcqUUCMMnWU.Nonn.WN8.+7 cN1+cN1q+UJO.MeonnW JA+ +nn.NWAN. 18qN MWoNn. 48n++Nc.NWW.cq8UrPnM+oN++Mcq+Mq1MAnc+.c{!UWXNM.W6nn +8c+U1WANA.84qnU+*cMUWWnN .q,Un1+AccUJWqNU.o<MnW+8( UNW+N1..ScnJ+qcUUoWMNW.q! nN++c1U.WcNJ.q;+Mo.nWWU8W NN+J qqJ.ccJU9WUNo.nBWnn+J1NUAW1N.. }Jn!+UcoUcMWN88+iNnA+1c.UqWNqk.MAonnMWc8U+W1WJWcs.qq+U /UM oNnJ (8cn8NcAUcWJoq.Uo(nMUUAnU W8N+c1iA8c+.c qUWooM.W6nn +8c+UWnANc8J{qqU+vcMUWWN8 .NA+n1.AccUJWqNN1otMqW+nq UNW+N1.UncnJAqcU1oWM1W.NWABN+A 1U.AcNJ.pfMNWWMcWc8W++N.A;1nJ.qoJUZMUNoNnYWn8+ c1 AWc+..qoJnK+UcoUnAWN8c+u1WA+cW.Ud+UWB.MMonnJWc8U+W1ccNcwJ+q+UWVUMWoNn.188n+qNcA1cW.cq.n.TqM+WMnU+18N+J1dA1c+JWAqUWwNM. 8nn A8c+UoMANqWJ7qNU+QcMU+Wyn .N1+n1AAccqJWqNnWo0nMW+8+ UNW+N1.. cnU+qcUcoWMNW.8w+AN+A81UJWcNJUt/UnWAMc +8W+UN.A11nU+q8JUa8UNWWndWN8+.+1}AWcJ..BcJnsAUcWBnW 7o1+PNnA+qN.Uq JNHnqJonn+Wc11+WN1A.ct8oq+UnZUM+oNn. V1n+1Nc.AcW.1q.UJknM+WWnU+o8N+N1BAnc+.cqcUWoNM.W.nn +8c+UcWANq JISnU+o7MUWW8o .NN+ncTAcqAJWqNMAoPn W+8J UNc+NqN.AcnJqqc8qoWM1W.8A nNU8A1U.WcNn1OKU8o+8cWn8W+ N.AJ1n.NccJUM.UNWWn2W18+ cNUAWqo..qNJn68UcW+nW+NNA+L1.A+cn.UqnJN=.nMon8oWc88+WNNA.TC.qq+UNBUMAoNn1 ^8nA1Nc.UcWJUq.U}}nM+W8nU+ 8NAW1jAnc+.coqUWonM. onn .8c+UqAANq J0#JU+oNMUWWNW .N1+n11AcqAJWqNUno*nUW+8U UNW+N1.JncnU qcU8oWMNW.1:+NN+Ac1U.qcNJJ9>Un tMc J8W+8N..=1n.+q.JU9NUNW+n& M8+++AoAWcW..WNJnwAUcW<nW 3o1+%NnA+on.Uq JN6.1Jon8vWc8U+WNNA.cH8nq+Un&UMWoN87 I8n. Nc.WcW.cq.UHSn8+WlnU J8N+81d.Wc+UcqnUWoWM.W.nn N8c+N MANc.Jks8U+-qMUWWoq .N-+n1AAccUJW2oUJozMnW+nc UNW+N1..%cn.+ 1UUoWMNW.8A nN++cqUqNcNJJCjUno+MqWU8W cN.Ao1n.AccJMxWUNWqnVW88+ cNUAW1N..sWJn)AUcoMnWW18.+ON1A+1c.Uq JNP.MronnNWc8U+WNcANcd.nq+JNWUnAW1NW+N8n++NcAUcW.Nq.JC+MM.WMnU W8N++1q.MbUU1o8n.Wcnq cNo .N +U1WANc+M+W n+W MUWWnN .N%+n1+AcWUJ+{MU.owMnWW1o+1c..Mc8U+q8MUIqMnWc8oWU8J nN++c1.UAo6MUoMnUW8nvWc8W NN.+cqcJAgeM+oJM,o.n&Wn8+ cNUAW1N..qxJnCJUcoUnWWN1 +zNnA+1q.UqWJNX. Aonn+Wc8U+WNNA.cL11q+Jc?UM oNn. %8n++NcAUcW.Nq.U5fnMJocnU W8N. 1(Anc+.qqUUW!NM.NAnn +8c+U1WANc.J0.1U+mcMUW nN .NC+n1+AccUJWqNU.oSMnWUnc UNW+Nq .6c8J+qqUUoWMNW.AA nNA+c1U.WcNJ.?Lq1o+McWU8  NN.A41n1JccJUkWU1o.n<Wn8A cNUAW1N..quJn}+MWoUnWWN8.A1NnAA1c.MqWJNp.ME8qn+Wq8U+WNNA.cm.n.JJcwUMWo1n. (8n+++oAUcW.NqJU&EnM+oqqc W8N+.cWA8c+J?qUU pNM.W/nn M8c+81WANc.J{qnU+WWMUW.nN JN}+n1+AcqUJWqqU.o MnWUnc UN1+N1n.VcnJ+qcUUoW8 W.8+ nNU+c1U.WcNJ8dZUqo+McWU8W NN.JJ1n..ccJ1hWUco.n.. 8++/NUAc1N.Jq%Jn6+MWJqnWWN8.+NNnAA1c.U0qJN-MMXo8n+Wc8U+Wc8A.c .nq.Jc^UMWWc18 R81++1WAUcW.Nq.8.QnMUocnM W8N+.1-nWc+JoqUU+0NMUWX1? M8c+81WU8c.JoqnU87cMNUMnN .NBJM1+AqcUJW+ U.o MnW+nc UNW+NWc.=c1J+yoUUo MNWNcM nNJ+ccc.Wc1J.&eUnoUpAWU8W N1NAe18.+qW1qGWUNo.8UWn8A cNU.q1N.Mq<Jnh+UcoUnW+88.+ NnA.1c.UqWJN+1M-o1n+Wc8U+WNNA. U.nqJJc78MWo1n. I1J++1WAUcW.Nq.UiOn18ocn1 W8N+.1&Ancn88qUUU<NMMW!n8 +8q+U1WM+c.J6qnUUhcMUWWnNU.Nl+q1+AqcUJUqNMU+AMnWMnc cNW+N1..RA8J+*+UUoWMNW.8y n A+c1q.WcNJ.2oUnonc8WU8n NNJAL18.+cqJUCWN+o.n<Wn8U cNUAWcNqUqCUo<+MooUnnWN8.+nNnAM1c.qqWJc&.nWW1n+ +8U+ NNA.c&.no0JceqMWoNn. 68n++1NAUcM.Nq1U5VnM+ocN+ WN++.1AAnc+.cqUMN{NMNWu8W +8q+U1Wn c.J.qnU+QcMUWWnNU.NeAi1+AqcUJAqNU.WqMnWUnc nNW+N1..(JMJ+&oUUoWMNW.8r+NqM+c18.Wq%J.rLUno+1+WU8. NNJA>1n.+ccNS#WUqo.nWWn8. cccAn1N.MqjnqH+UqoUnnWN8nnJNnA+1cM1qWJ1Q.M+Uon+Wc8UMJNNAJc=.n 8Jck8MWoNn. ,8n.++WAUc..NqJU0^NM+oc8+ W8q+.1 AncU.coUU8HNMnWPn8 +N +U1W.Wc.J qnUJucMNWWnN UN{+c1+AccUJWqNU.W+MnWMnc UNW+N1.U0cqJ+Y+UUo MNWU85 noN+c11.WqoJ.7.Un ++UWU8U NNJAx1q.+q+NAwWM o.nWWn8A cNMAW1NMcqRJn6+MWoUnWWN8.M3NnAM1c.cqWU L.nW+qn+  8U+UNNA.cS.n.AJcrcMWoNn. 38n++ qAUcM.Nq.US68M+W+qA WN++.12AncA.cqMUWkNNcWbnn +NW+U1WANq.wWqnU80cM8WW8+ .N3+c1+. cUJMqNUUo3nNWqnc cNW+11..OcnJ+oUUUoMMNW.8u nN++c1M.Wq J.KJUno+McWUNq NNcAh1q.+ccJU)WMJo.n.Wn8N cNMAW1Nn1q7UVr+UcoUnWWN1.MoNnA81c.MqWJcG.M} +n+ +8U+UNNA1c<UnqJJcgqMWo1n. A8n++1UAUcU.Nq1U(g1M+ocN6 WNC+.1WAnc+.cqUM ^NMMWmnn +8c+U1WNqc.JRqnUAKcMUWWnc 1N*+n1+.VcMJWqNU.<cMNWMnc UNWNh JNWA.1M(GUcoWMNW.W nc .8J+.NMccJ.}:Uno+McWU8W NN.AI1nA+W1JUtWUNo.nbWn8+ncyUAW1N..q*Jn:+UcoUcWW18.+:NnA+1c.UqWJN*.MIonnnWc8U+WNNc8c9.Nq+JchUMWoNn. U8n+JNcAMcW.Nq.UzoAM+WWnU  8N+.1xAn}o.cq8UW<cM.WWnn +1.+U1+ANc.J!q1U+icnMWWnN .No+n1+Accnn.qNU.o?Mn.8nc MNW+N1..)cnJ+ +UUo+MNW.8% nN++cW>.Wc1J.KWUno.Mc+c8n NNJAScV.+cqJUP+UNonRJWn8+ cNcAW11..q+cor+UcoUnqWN8J+(NnM81c.MqWJ1l.Mhonn+.+8U++NNA.cR.nq+U+AAMWoqn. l8n+ANcAncW.NWcUiBnM+ocnU W8N+.qUAnc+.cqnUWSNM.WQoq +8q+U1AANcJJTqcc8%cMUWW1c .No+n1+nAcUJ qNU.omMnW+nc.cNW+c1..)cnJ+qcUUAnMNWJ8d NN+Ai1UUUqoJ.toUn+.McWM8W qN.A++o.+ccJU +UNoJnZWno+ cNMAW1N..qeJnoWNUoUnJWNNN+7N8A+1q.Uq.c y.M;on8nWc8M+W1^81ci.nq+866UM oNn.JJ8n+ANcA8cW.Nq.U^ 1M+W9nU W8N+.14.NqW.cq8UWooM.W<nn+.1J+U1.ANc8JIqnU+BcnAWWn1 .N++n1.AcDcUWqNUJobNNW+nq UN +N1nNJcnJ+qc8noWM1W.NW1)N++q1U..cNJ.tDMNnnMcWn8W+ N.Al1n.+.+JUSAUNo.n4Wn8+At1nAWcX..qAJnk+UcoNn+WN8U+Yq8A+1q.UqW8Wk.M.onnAWc8U+WNNqWcQJoq+UWfUMWoNn.+U8n+NNcANcW.Nq.U;E8M+WJnU A8N+.1?Anqo.cvWUW;NM.WLnn +Nn+U11ANc8JEqnU+hcnqWW8U .NA+n1+AccUUnqNUqorn.W+84 UNWn+1..UcnJNqcMooWMNUM82+ N+A 1U.WcNJ.ooUnoNMc i8W+AN.JxqT.+q.JU7nUNoNnXWn88 cNqAWc ..qUJnV+nJoUn WN8N+#1oA+cWJnqWJc%.8WonnAWc8U.oNNAJce.Nq+Jc2UMW 8n. 08n+.NcAUcW.N.MUtKnM+oqnU W8N+J1 Anc+.cqnUW>NM.W0nN+A8c+U1WAn1NUA7cMM #nM cJNA11o.1n+J.q1M+ooUUWIMnW+nc .11J+cqJNccJ!qMMo  nj ANMW11N.o1U.WcNJ.,UUno+Mc+c8J NN.AS1q.+cqJU% UNon^JWn8+ cN1AW11..ZWnqf+UqoUnAWN8.+PNnJ 1c.MqWJcO.MtonnUMA8U+WNNA1cy.8q+MwMcMWo1n. W8n++NcAUXo.NqJU9FNM+ocnU WWq+.13AncA.cqUUWk1M.WKnn +8c+U1WANcUJ5qnU+0c 1WWnN .NL+n1+AccUcAqNU.oHM8W+nc UN +11..TcnJ+qcUUoWMNW.8gWng +c1U.WcNJ8;hUno+8cNW8W 1N.Ar1n.AccJUo1UNoJnRW88+ qNUAW1q..qoJn:+UcoUnWWNNo+EN8A+1q.Uq JNO.nNonn+Wc8M+WNNA.c%.cq+JcbUMWoNn. &8n++NcAUcW.Nq.U5KnM+ocnUWWq8+U1.Anc+.cq.nWoqnJ NN. .N8+U1WANc+M.q8MUW88q+Mn1WJ18.J1FJncnJWqNU.oBMnW+nc UNW+N1..JcnJ+qcUUAAMNW.8Q nN++c1U.WccJ.aoUnoAMcWU8W N1oAr1N.+qvJUGWUNo.nUWn8A cNMAW1c..q,U1}+UcoUn WN8.+dNn.c1c.UqWJN4.M,onn+ J8U+WNNAJc}.nq+Jc^MMWoNn. O8n++NcAUcW.Nc.8q-nM+ocnU J8N+.1IJnJc.cqMUWuNM.Wonn +1n+U1 ANcJJXq8U+Rcn+WWn1 .Ns+n1+AccUJqqNUJoRM8W+nq UNW.%1..zcnJAqcUUoWMN+A8r nN++cAA.WcNJ.5PUno+McWU88 NNJAV18.+ccJUZWM1o.nWWn8. cNUAW1N.JqsJ8j+UqoUn+WN8.ANNnA+1c.nqWJcd.M.WMn+Wc8UAANNAJcP.8q+UW.qMWoNn.+ 8n+ANcAUA .Nq.URSnM+ocnU++qo+.1oAncJ.cqUUWoWc W=nN +8c+U1 ANcMJDqnnNScMUWWnq .Nv+n1+U.cUJWqNUJouMnW+nc.*NW+N1..WcnJ+qcUUn1MNWJ8s NN++c1U.W+1J.vZUno+McWM8WANJlAu1n.+ccJUK+UNoNcMWn8+ c18AW11..qoJnpUqAoUnWWNNM+>N8A+cWNqqWJNZ.nconnAWcNn1UNNA.cj.8q+JcpUMW8Nn. 98n+UNcAUcW.NGnUpenM+W nU W8N+.1NAncA.cqcUW>NM.W58A +8c+U1+ANcJJu6NUU=cMUWW8{ .Ng+n1+.+cUJWqNUJoPM8W+nc+ANW+N1..ocnJ+qcUUWAMNW.85 nN++c1U.+A+J.BoUnoAMcWU8W N+AAm18.+cqJUm UNo.o Wn8+ cNMAW1N..q9J8X+UcoUnWWN8.+pNnA+1cAU oJN-.M&onnMWc8U+WcNqTcH.8q+Jc;UM oNn. c8n+ANcAMcW.1q.U6o.M+oqnU W8N+.19Anc1.cqMUWe1M.Wonn +1.+U1WANcJJ,qnU+TccNW nN .1W.f1+AccU81qNU.o%n;W1nc UNWJ81..ocnJ+qcUNJMMNW.86.MN++q1U.WA1J.4pUno+McWU8W N+nA>18.+ccJUlWUNo.nnWn8+ cNUAW11..oYW+{+UcoUnWWNq +L1NqW1c.MqWM+Q.Mfon8.+o8U++NNnocs.nq+U+AAMWoqn. A8n+ANcAMcW.NWcU:4nM+oqnU W8N+.coAnc..cqnUW=1M. Wn8 +NG+UWoANc.JI%NUUrcM8WW1c .N9+nq+JJcUJAqNUMokcQW+Nv+NNWAm1.JocnJ+qcnUWUMNWn8D cN+A 1UJ+qMJ.0AUn+.McWU8WANJpA41q.+q JU(.UNWUNNWn8n cqnAW1N..o>U+l+M+oUnUWNc1+HNn.N1c.qqWJNO.Mwon8.+U8U+nNN.ccf.nq+MRoWMWWAn. .8n++Nc.nc1.N0YUT+JM+ocnU .1M+.1UAnu+.cqMUWGNNNW^8. +N +U1WANc.XJqnMobcn WWnN .NR+q1+.ncUJ+qNUUorMn Jnc qNWAJ1..NcnJ+o.UUoMMN W8F+AN+AWcn.Wq+J.onUnoAMcWUNA NNcA<cW.+ccJUlU1Mo.nUWn8J cNMAWcW..qI8WF+UcoUn+WN8.+uNnUN1c.UqWUsi.MIonn+..8U+WNNAccL.nq+Jc+XMWoNn.  8n++NcAUon.Nq.UDooM+ocnU Wq++.1GAncA.cqUUW>NMnW08  +N.+U1WANc.UUqnUcEcMUWWnN .N6.A1+.JcUJ+qNUUoFMn Mnc UNWAA1..icnJ+oJUUoWMNWU8B nN++ccc.WcNJ./=Uno+McWN8A NN.A?W1.AcqJUo+Noo.nzWn1+ cNUAWqNq qGJn2+UcoU1qWNNUANNnA+1c8WqWJNh.nWWUn+Wc8U.WNNA.c,UnIcJcYUMWoNn.++8nA.1NAUcW.N^MU;<nM+oc8c W8N+.1oAnc+.cRnUJvNM.Whc( +8c+Uc+Moc.JfqnMndcMUWWnNUoN3+81+AccUJWqNU.o8MnW.nc UNW+N1..kqJJ+doUUoWMNW.8F+NNA+c1N.WoJJ.^&UnW.nqWU8J N1cAx1n.+{PMAyWMWo.n.Wn8+ c1n.N1N.1qr8JX+UcoUn. .8.+ANnMN1c.MqWUc 8M4W n+ A8U+WNNJ.oN.nq1JcooMWW8n. uNW++1UAUcn.Nq.U^snnooc8o W8c+.1WAnc+J^qUU+pNMcW-8  +8cAW1W.Ac.JWqnUN#cMUWUnN UNGA 1+..cUJ.{cU.oAMn.+nc MNWAc.N.xcqJ+ 8UUoWMN U 8 nNn+c18.WcNJ.oWn o+nAWUcq NN.AC1c.NccJ10WcAo.noWn1+.qNUA81N.cq&8JC+nco8nW .8.++NnM11c.UqqJNoWMXWWn+Wc8U+W1qA.c1.nqNJcwUMWoNnN PN+++18AUc+.Nq.UU?nMJoc8o WN.+.qD.nc+JJqUU.%N1qWgnn+n8cA 1W.+c.JyqnU+++MUWcnN cNR+n1+AcRpJW:AU.oNMnW.ncAUNU+NcH.iqWJ+ 8UUoWnUW.8  nN1+ccW.WqwUU!%Uqo+cnWU8  NNNM11n.MccJUaWU1o.n+Wn8+J.NUAW1N.Jq)JnB+UcA&nWWN8.+uNnA+1c.UWnJNe.MDo1n+Wc8U+W5+A.c,.nq.JcxUMWWcBo eN-++qSAUcW.NqNMNGnMnoc,n W81+.1oAncU1AqUUW9NqUWVn8 +NWnq1WANc.1JqnUA&cnnAJnN NN0.N1+AccUJW.oU.o.MnWAnc nNWAWqW.QqOJ+.AUUo MNW.8} cW8+c1U.WA J.!oUnoU2AWU8W NWcAh18.+*Pn1lWMWo.coWn8+ cNUUU1N.1qhJqV+UcoU8++N8.+UNnJA1c.UqWUcoqMTW n+.88U+WNN.Uc .nqcJctnMWoNn.+W1G++1MAUWn.Nq.UsoNn oc8+ Wcy+.16Anc+.qqUUM}NnWWTnN +8cAU1W.+c.JAqnU+;cnn+WnN qN#AA1+AccUU+X1U.onMn Unc UNWAccn.XqAJ+o1UUoWMN UNN n1x+cWA.WcNJ.oWUco+n8WUqJ NN.AH1nJAccU4GWMMo.nWWn8++NNUA81N.8q)JnF+n2 UnW .8.ARNnA+1cJnIWJNooMs Mn+Wc8UA+1NA.cN.no Jc?UMWWc8  dNJ++NqAUcW.N)UM8>nnWoccq W8N+.1,.qc+JJqUM%{NMUWknn+M8cAW1W.oc.J7qnM.n+MUW1nNJUN(+n1+JXJcJWCUU.ocMnW+nc+nAU+Nc .lcNJ+qcUUW+WUW.8c nqN+c1U.WqcUq,jMMo+NoWU8W NN..o1n.cccUJgWUco.nm+A8++MNUA+1N..q}JnpNUcW+nW o8.+iNn..qo.UqqJNWNM&onn++7N++W1nA. o.nq+Jcon1%oN8A =8N++NcAUq+JWq.MItnMcocnU WNc+N1:.8c+UUqUUWCNM. 8nn+38cAM1WAcc.J#qqU+o8MUWJnN .NpAN11Acq.JW AU.o/Mn .88 U1o+N1U.ycnJ+orocoWnNW.8c nN++ccnqUcNUJQjnUo+McWUN+nWN..W1nM+ccJUIWUNocnk J8+A9NUA+1N..qcJnwqUcWAnWW18.AW.HA+cn.UoMJN?.M(on AWcNA+W1oA.c=.n;.M.VUnsoN8  68n++cs.1cWJ8q.MWOnM+oc8n  8NA.1u.Nc+.cqUM+WAM. onnJw8c+U1W.ck JfPNU++NMUWWnN .NJ+ncoAcqnJWqcU.oDqWW+88 UNU+Nc .LqNqMqcM.oW8+W.8: n1..81UJocNU1b/Uno+Mc &8W+NN.A.1n.8ccJciNUNW.niN18+ qNUA 1N.nAJJnt+Uc88nWW18.++ oA+1c.U8 JNGJM*WN nWcNU+WYMA.c7.nq+q+OUn oN8o ;8n++c&JWcWJcq.81tnM+ocnN N8NA.1&onc+.qqUUW.+M. +nn q8cA81WAN MJ7DcU+o+MU .nN NNW+ncUAcM+JWq1U.ooMnWUoA UNW+NUW.5c8J+jWcqoWMNW..q nNA+c1U8ncNUn#=M(o+nAWU8Wn.N..+1nJUccU)}WUNW.ns q8++MNU.A1N..qoJnoMUcocnW+o8.+Y1MA+qW.Uq+JNBUM7on81WcNN+WcPA.cM.nq+U.*Un.oN8n G8n++q+. cWU/q. .BnMAocNJ WNOn11)Anc+W+qUU fNMnUJnn +8csJ1WA1c.Jz IU+WWMUWqnN .NZ+n+lAcq1JWwUU.ouMnW+NM U1.+N1U.kc8J+oLM+oW8aW.N8 nN++c1UJ!cNUn3sU8o+MqWU8W 1N.Ar1n.AccJUCWUN  nR c8+AWNUAW1N.UAUJnoMUcocnWWN8.+z+MA+q .Uq JNDJMwoc8.WcNU+WJ A.co.no+UG:Un}oN8+ *qJ++NcUccWJNq.UAVnM+oc8nAW8NAJ1EJ.c+.cqUM+IcM. Wnn+d8c+U1W.cqAJDT1U+onMUWWnN+UNU+ncUAcWWJWqNU.WWMNW+N  UBc+N1..jcnJcqcMUoW8oW.8W nN+Ao1U.ncNU.kdUno+Mc8M8W+NN.AA1n.+ccUno.UNWJnTA 8+ cNU.+cc..^WJn qUcoUnW cNq+k11A+cN.UqWJNoUMnon8UWccM+WNNA.qWUoq+M LUN.oNn. F8n+1Nc.UcWUoq.UWXnM+A+nU 88NA.1?Anc+.cAFUWoNM.W.nn N8c+ccMANc1JK1sU+;qMU WnN nWJ+n1+Ac8cJWq1U.o^qWW+8c UNU+N11.CcnNNqcUqoWnNW.8U nN+n.1UJWcNJN^vM o+n+ q8W++N. o1n.AccUUuWMeJ1nQWn8+oqNUA 1N..W.Jno+Uco1nWWN8.AWcUA+cq.UWAJN6.MbWNnJWcNn+WqUA.cp.nd.U+QUnAoN8W Y8n++c/.WcWUuq.M1?nM+oc8n+N8NA81/Uqc+.cqUUWW.M. Knn+M8c+n1WANcMJ^)WU+o+MU WnN+UA.+nc+AcWAJWqNU.o6oYW+8q UN1+N1..VqNUcqcMnoW1MW.8- nNUA 1UJWcN.JvmU8o+8#A18WA!N.M+1n.+ccJc+qUNW8n, o8+ qNUAM1N..WUJnv+UcW;nWWN8.+vPWA+1c.Uq1JN*.M<on1NWc8U+W1qA.c%.nq+8.!UMWoNn1 >8n++NcMmcW.Nq.UcanM+ocnU.n8N+.1h.Jc+.cqUUW++M.Wunn+=8c+U1WAN9nJrdcU+o^MUW nN .1 +ncJAccUJWqNU.o+nNW+8c UnJ+N1J.!obJMqcM.oWMUW.8o n1N+c1NNMcNJ.>>U.o+MqWU8WJWN..41nJoccJU(WMcJnnY 88+UNNUAW1N..qcJno+UconnWW18.AW18A+cc.U{1JNk.M;onnUWcNU+WN1A.co.nq+UN{UMWoNnJ ;8n++Nc.JcWJNq.M^inM+ocnnMn8NAJ1C.Wc+.cqUUWU8M. onn A8c+M1WJNMwJ0lnU+oMMU .nN .>c+n18AcccJW}NU.WWMqW+8c Uqq+N1..FcnUMqcMMoWnJW.8= n1.A+1UJ+cN8 m;Uno+nW+-8W+NN..o18.AccJUAnUNWnne A8+AoNUAW....b+JnPnUcWNnW WNc+}1cA+cA.Mq JNo MSocH8Wc8U+W1 AJco.nqUcAVUMWoN8. o88++NcUccWU6q.U1XnM+ocnUMc8NA81t..c+.cqUUWWMM. +nn .8c+M1W.ccUJs2cU+WMMUWWnN .1W+ncUAccMJWq1U.oE8.W+nc UN +N1..<cnJMqcMNoW8KW.84 nN.8.1UJJcNJJ:VUno+McnJ8WAoN.Ao1n.AccJNo+UNW.n%WN8A qNUAUWM..=>JnX.UcoMnWWc8.+eGWA+1c.UqUJN5.M)on1NWc8U+W1.A.c*.nq+NimUn oNnM e8n++c{AncWJcq.M :nM+ocnU+c8NAM1<Aqc+.cqUM+WMM. +nnAN8c+U1W.ccUJ5{qU+W MUWWnN+U1A+ncnAcqnJWqNU.WWMNW+NA UoW+N1..bqN<nqcn2oWn+W.8G nN+cq1UJAcNUcvuUNo+McW18WA#N.AA1n.+ccUnoNUNW8n6JN8+ cNU.+c ..4.Jn oUcoUnW c8N+acoA+c9.UqWJNoUM8on8NWcc.+WNNA.qWJnq+MJLU1AoNn. h8n.8Nc.NcWUAq.UWznM+ncnU+ 8NAn1=A8c+UDUcUWocM.A1nn +8c+U+UANqMJrS8U+ecMU +8n .1++nooAccUJW>RMUohnNW+cn MN +NcUq.cnUnqcNAoWMNW.8<8(N+.A1U.1cNJ.(BMNW+Mc+Y8WJMN.AS1n.UqWJUoUUNAonoW88+ cqcAWq...PjJna+UcoUnqWN1o+51AA+qJ.UqWUov.nNon8AWcN1+WNN.Mc3U+q+MntUM+oNnN+o8nAcNcUNc .1q.Uo7nMUUAnU W8NJn1oA8c+JWAqUW,NM.Ann8 A8c+U7UANxSJ2HJU+6cMUWWWq .18+nckAccUJWqNUco,8+W+8h UN +NcUJUcnUcqcn oWMNW.8H+MN+.U1U. cNJJ=HUnWcMcWU8W 1N.AY1n.U!dJUoUUN+ noW88++W1nAWcc..oMJ8(AUcWn1JWNNU+e1 A+1c.UqUNAQ.nWonc+Wq8M+WN1A.c+1oq+JcwU1Wo1nJ 0NNJMNc.ncWUAq.Uu&nM+A+nU+A8NAU1XAnc+.co+UWWCM. Wnn +8c+U1+ANq8JjqqU+PcMU +8M .1.+no+AccUJW%cnoo;8oW+11 UNW+NcUJ1cnUNqcMnoWMNW.NW+8N+.J1UnocNJ.3rMNW.Mc+W8W.oN.Al1n.+oAJUoJUN un^WN8+ c++AWqX..qWJn5.UcoU8oWNNn+jN8A+cT.U#+U8}.nAon8uWc8U+W1c.WcVU=q+nUOUMWoNn. N8nAUNc.ccW.Nq.UeWAM+ onU W8N+U1ZAN+N.c5NUWo3M.WOnn +oU+UcAANqnJ2qnU+kcnjWW8q .NG+n1+AccUUoqNU.o3MnW+nc UNW8q1..6cnJAqcUUoWMN");local n=r.HWprMdDB;r.anKvWCuF(function()r.nZjSLXrG()n=n+r.SCwtwhRP end)local function e(c,e)if e then return n end;n=c+n;end local c,n,a=l(r.HWprMdDB,l,e,s,r.PrcMRxqE);local function o()local c,n=r.PrcMRxqE(s,e(r.SCwtwhRP,r.hPCXYBTS),e(r.HiskjdDy,r.frUASdpJ)+r.YMAqtHUy);e(r.YMAqtHUy);return(n*r.HcPbErfr)+c;end;local ce=true;local k=r.HWprMdDB local function j()local d=n();local e=n();local t=r.SCwtwhRP;local d=(c(e,r.SCwtwhRP,r.EZtJnXdl)*(r.YMAqtHUy^r.lTrAjdqV))+d;local n=c(e,r.chccHXRg,r.dUvRpVnn);local e=((-r.SCwtwhRP)^c(e,r.lTrAjdqV));if(n==r.HWprMdDB)then if(d==k)then return e*r.HWprMdDB;else n=r.SCwtwhRP;t=r.HWprMdDB;end;elseif(n==r.nzSe_htY)then return(d==r.HWprMdDB)and(e*(r.SCwtwhRP/r.HWprMdDB))or(e*(r.HWprMdDB/r.HWprMdDB));end;return r.EXgRXxfj(e,n-r.Tjmc_vQF)*(t+(d/(r.YMAqtHUy^r.SrZHtwoK)));end;local p=n;local function _(n)local c;if(not n)then n=p();if(n==r.HWprMdDB)then return'';end;end;c=r.BqQjKlCZ(s,e(r.SCwtwhRP,r.hPCXYBTS),e(r.HiskjdDy,r.frUASdpJ)+n-r.SCwtwhRP);e(n)local e=""for n=(r.SCwtwhRP+k),#c do e=e..r.BqQjKlCZ(c,n,n)end return e;end;local k=#r.VxnKRkmw(b('\49.\48'))~=r.SCwtwhRP local e=n;local function te(...)return{...},r.DvOvBuuR('#',...)end local function ne()local e={};local s={};local h={};local b={s,h,nil,e};local e=n()local l={}for d=r.SCwtwhRP,e do local c=a();local n;if(c==r.SCwtwhRP)then n=(a()~=#{});elseif(c==r.HWprMdDB)then local e=j();if k and r.IRBwgFXn(r.VxnKRkmw(e),'.(\48+)$')then e=r.KSGctiRq(e);end n=e;elseif(c==r.YMAqtHUy)then n=_();end;l[d]=n;end;for e=r.SCwtwhRP,n()do h[e-(#{r.SCwtwhRP})]=ne();end;for b=r.SCwtwhRP,n()do local e=a();if(c(e,r.SCwtwhRP,r.SCwtwhRP)==r.HWprMdDB)then local h=c(e,r.YMAqtHUy,r.hPCXYBTS);local a=c(e,r.WwMEbM_l,r.frUASdpJ);local e={o(),o(),nil,nil};if(h==r.HWprMdDB)then e[t]=o();e[f]=o();elseif(h==#{r.SCwtwhRP})then e[t]=n();elseif(h==u[r.YMAqtHUy])then e[t]=n()-(r.YMAqtHUy^r.DufqbauB)elseif(h==u[r.hPCXYBTS])then e[t]=n()-(r.YMAqtHUy^r.DufqbauB)e[f]=o();end;if(c(a,r.SCwtwhRP,r.SCwtwhRP)==r.SCwtwhRP)then e[d]=l[e[d]]end if(c(a,r.YMAqtHUy,r.YMAqtHUy)==r.SCwtwhRP)then e[t]=l[e[t]]end if(c(a,r.hPCXYBTS,r.hPCXYBTS)==r.SCwtwhRP)then e[f]=l[e[f]]end s[b]=e;end end;b[r.hPCXYBTS]=a();return b;end;local function de(c,n,e)local d=n;local d=e;return b(r.IRBwgFXn(r.IRBwgFXn(({r.anKvWCuF(c)})[r.YMAqtHUy],n),e))end local function y(p,a,b)local function ne(...)local o,m,k,ne,j,n,s,_,g,ee,u,c;local e=r.HWprMdDB;while-r.SCwtwhRP<e do if e<=r.YMAqtHUy then if e<r.SCwtwhRP then o=l(r.frUASdpJ,r.nRvMmoZG,r.SCwtwhRP,r.wSpcZqlS,p);m=l(6,64,2,17,p);else if e~=-2 then for c=41,61 do if e~=2 then k=l(6,37,3,68,p);j=te ne=0;break;end;n=-41;s=-1;break;end;else n=-41;s=-1;end end else if e<5 then if e>3 then ee=r.DvOvBuuR('#',...)-1;u={};else _={};g={...};end else if e~=2 then repeat if 6>e then c=l(7);break;end;e=-2;until true;else e=-2;end end end e=e+1;end;for e=0,ee do if(e>=k)then _[e-k]=g[e+1];else c[e]=g[e+1];end;end;local g=ee-k+1 local e;local l;function vQdmwwQAkmLl()ce=false;end;local function k(...)while true do end end while ce do if n<-40 then n=n+42 end e=o[n];l=e[z];if l<86 then if l<43 then if 21<=l then if 31>=l then if 26>l then if 23<=l then if 23>=l then local o=c[e[f]];if not o then n=n+1;else c[e[d]]=o;n=e[t];end;else if 20<=l then repeat if 24~=l then c[e[d]]();break;end;local l;for r=0,2 do if r<1 then l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];else if r~=2 then c[e[d]]=c[e[t]]-e[f];n=n+1;e=o[n];else c[e[d]][c[e[t]]]=c[e[f]];end end end until true;else local l;for r=0,2 do if r<1 then l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];else if r~=2 then c[e[d]]=c[e[t]]-e[f];n=n+1;e=o[n];else c[e[d]][c[e[t]]]=c[e[f]];end end end end end else if 22>l then local n=e[d]c[n](h(c,n+1,e[t]))else for l=0,1 do if 1~=l then c[e[d]]=b[e[t]];n=n+1;e=o[n];else if c[e[d]]then n=n+1;else n=e[t];end;end end end end else if l<29 then if l<=26 then local e=e[d]local d,n=j(c[e](c[e+1]))s=n+e-1 local n=0;for e=e,s do n=n+1;c[e]=d[n];end;else if l>26 then repeat if l~=28 then if(c[e[d]]==e[f])then n=n+1;else n=e[t];end;break;end;for l=0,6 do if 3<=l then if 5<=l then if 6==l then c(e[d],e[t]);else c(e[d],e[t]);n=n+1;e=o[n];end else if-1<=l then repeat if 3<l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end end else if 1>l then c[e[d]]=c[e[t]];n=n+1;e=o[n];else if-2<l then for r=36,56 do if 2>l then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else c[e[d]]=c[e[t]];n=n+1;e=o[n];end end end end until true;else for l=0,6 do if 3<=l then if 5<=l then if 6==l then c(e[d],e[t]);else c(e[d],e[t]);n=n+1;e=o[n];end else if-1<=l then repeat if 3<l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end end else if 1>l then c[e[d]]=c[e[t]];n=n+1;e=o[n];else if-2<l then for r=36,56 do if 2>l then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else c[e[d]]=c[e[t]];n=n+1;e=o[n];end end end end end end else if 30>l then c[e[d]]=(e[t]~=0);else if 26<l then repeat if 30<l then do return c[e[d]]end break;end;local r;for l=0,6 do if l<=2 then if 0<l then if-3~=l then repeat if 1<l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end else if 4>=l then if-1~=l then repeat if l~=4 then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end else if 6~=l then r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];else c[e[d]]=c[e[t]][c[e[f]]];end end end end until true;else local r;for l=0,6 do if l<=2 then if 0<l then if-3~=l then repeat if 1<l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end else if 4>=l then if-1~=l then repeat if l~=4 then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end else if 6~=l then r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];else c[e[d]]=c[e[t]][c[e[f]]];end end end end end end end end else if 37<=l then if l>39 then if 41>l then c[e[d]]=a[e[t]];else if 38~=l then for r=43,56 do if l<42 then local e=e[d]c[e](c[e+1])break;end;local r,a,b,s,h,l;for l=0,6 do if 3<=l then if 4<l then if 4~=l then for u=24,88 do if 6>l then c[e[d]]=c[e[t]]-c[e[f]];n=n+1;e=o[n];break;end;l=0;while l>-1 do if 2<l then if 4<l then if 5<l then l=-2;else c(h,s);end else if l~=0 then repeat if l~=4 then s=r[b];break;end;h=r[a];until true;else s=r[b];end end else if l>0 then if l>1 then b=t;else a=d;end else r=e;end end l=l+1 end break;end;else c[e[d]]=c[e[t]]-c[e[f]];n=n+1;e=o[n];end else if l==4 then c[e[d]]=#c[e[t]];n=n+1;e=o[n];else l=0;while l>-1 do if l<3 then if 1>l then r=e;else if 2==l then b=t;else a=d;end end else if l<=4 then if l~=2 then repeat if l~=4 then s=r[b];break;end;h=r[a];until true;else s=r[b];end else if l>1 then for e=11,80 do if 6~=l then c(h,s);break;end;l=-2;break;end;else c(h,s);end end end l=l+1 end n=n+1;e=o[n];end end else if l<1 then c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];else if l~=0 then for f=34,81 do if l~=1 then l=0;while l>-1 do if 2>=l then if l>0 then if-2<=l then repeat if l>1 then b=t;break;end;a=d;until true;else b=t;end else r=e;end else if l<=4 then if 1<=l then repeat if 4>l then s=r[b];break;end;h=r[a];until true;else h=r[a];end else if 3<l then for e=44,60 do if 5<l then l=-2;break;end;c(h,s);break;end;else l=-2;end end end l=l+1 end n=n+1;e=o[n];break;end;l=0;while l>-1 do if l>=3 then if 5>l then if-1<l then for e=44,88 do if 3<l then h=r[a];break;end;s=r[b];break;end;else h=r[a];end else if 2<l then repeat if l~=6 then c(h,s);break;end;l=-2;until true;else c(h,s);end end else if 1<=l then if l>=-3 then for e=47,81 do if l<2 then a=d;break;end;b=t;break;end;else a=d;end else r=e;end end l=l+1 end n=n+1;e=o[n];break;end;else l=0;while l>-1 do if l>=3 then if 5>l then if-1<l then for e=44,88 do if 3<l then h=r[a];break;end;s=r[b];break;end;else h=r[a];end else if 2<l then repeat if l~=6 then c(h,s);break;end;l=-2;until true;else c(h,s);end end else if 1<=l then if l>=-3 then for e=47,81 do if l<2 then a=d;break;end;b=t;break;end;else a=d;end else r=e;end end l=l+1 end n=n+1;e=o[n];end end end end break;end;else local e=e[d]c[e](c[e+1])end end else if l>37 then if 35<l then for n=45,69 do if 38~=l then local n=e[d]c[n]=c[n](h(c,n+1,e[t]))break;end;c[e[d]]=c[e[t]]%e[f];break;end;else local n=e[d]c[n]=c[n](h(c,n+1,e[t]))end else c[e[d]]=y(m[e[t]],nil,b);end end else if 33>=l then if l<33 then local r;for l=0,6 do if l>2 then if l>4 then if l>1 then for f=16,91 do if l~=5 then c[e[d]]=c[e[t]];break;end;r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];break;end;else r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];end else if l>=1 then repeat if l~=4 then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end end else if 1>l then c(e[d],e[t]);n=n+1;e=o[n];else if-2~=l then repeat if 2~=l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end end end end else local b,s,h,l,r,a,o;local n=0;while n>-1 do if 2<n then if 4>=n then if n>2 then for e=30,72 do if 4>n then a=l[b];break;end;o=c[r];for e=1+r,l[h]do o=o..c[e];end;break;end;else o=c[r];for e=1+r,l[h]do o=o..c[e];end;end else if 5<n then n=-2;else c[a]=o;end end else if 0>=n then b=d;s=t;h=f;else if 0<n then for c=43,74 do if n~=2 then l=e;break;end;r=l[s];break;end;else l=e;end end end n=n+1 end end else if 34<l then if 35~=l then local t,h,a,r,f,l;for s=0,1 do if s>=-3 then repeat if 0~=s then t=e[d];h={};for e=1,#u do a=u[e];for e=0,#a do r=a[e];f=r[1];l=r[2];if f==c and l>=t then h[l]=f[l];r[1]=h;end;end;end;break;end;t=e[d]c[t](c[t+1])n=n+1;e=o[n];until true;else t=e[d]c[t](c[t+1])n=n+1;e=o[n];end end else local h,r;for l=0,6 do if 3<=l then if l>4 then if l==6 then h=e[t];r=c[h]for e=h+1,e[f]do r=r..c[e];end;c[e[d]]=r;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end else if l~=1 then repeat if 3<l then c[e[d]]=c[e[t]]%e[f];n=n+1;e=o[n];break;end;c[e[d]]=a[e[t]];n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]]%e[f];n=n+1;e=o[n];end end else if 0<l then if l~=-2 then repeat if l<2 then c[e[d]]=c[e[t]]+c[e[f]];n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]];n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]]+c[e[f]];n=n+1;e=o[n];end else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end end end end else local s=m[e[t]];local h;local l={};h=r.utYbXtrt({},{__index=function(n,e)local e=l[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=l[e]e[1][e[2]]=n;end;});for d=1,e[f]do n=n+1;local e=o[n];if e[z]==56 then l[d-1]={c,e[t]};else l[d-1]={a,e[t]};end;u[#u+1]=l;end;c[e[d]]=y(s,h,b);end end end end else if 10>l then if l<=4 then if l>1 then if l<=2 then c[e[d]]=c[e[t]]+e[f];else if l==4 then local l,h,s,f,a,r;c[e[d]]=c[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];l=e[d]c[l]=c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];do return c[e[d]]end n=n+1;e=o[n];l=e[d];h={};for e=1,#u do s=u[e];for e=0,#s do f=s[e];a=f[1];r=f[2];if a==c and r>=l then h[r]=a[r];f[1]=h;end;end;end;n=n+1;e=o[n];n=e[t];else local a,_,r,u,p,s,k,b,l;a=e[d];_=c[e[t]];c[a+1]=_;c[a]=_[e[f]];n=n+1;e=o[n];l=0;while l>-1 do if 3<l then if 5>=l then if 3<l then repeat if l~=5 then k=s[r[p]];break;end;b=r[u];until true;else k=s[r[p]];end else if l>=5 then repeat if 7~=l then c[b]=k;break;end;l=-2;until true;else c[b]=k;end end else if 2>l then if l~=-2 then repeat if l~=1 then r=e;break;end;u=d;until true;else u=d;end else if-2<l then for e=33,57 do if 2~=l then s=c;break;end;p=t;break;end;else s=c;end end end l=l+1 end n=n+1;e=o[n];l=0;while l>-1 do if l<4 then if l<=1 then if l>=-2 then for n=43,92 do if l>0 then u=d;break;end;r=e;break;end;else r=e;end else if-1~=l then for e=28,58 do if l<3 then p=t;break;end;s=c;break;end;else s=c;end end else if 6>l then if 2<=l then repeat if 4<l then b=r[u];break;end;k=s[r[p]];until true;else b=r[u];end else if 7>l then c[b]=k;else l=-2;end end end l=l+1 end n=n+1;e=o[n];a=e[d]c[a]=c[a](h(c,a+1,e[t]))n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];a=e[d];_=c[e[t]];c[a+1]=_;c[a]=_[e[f]];n=n+1;e=o[n];l=0;while l>-1 do if 4>l then if 2<=l then if l>=0 then repeat if l>2 then s=c;break;end;p=t;until true;else s=c;end else if 1==l then u=d;else r=e;end end else if 6>l then if l~=5 then k=s[r[p]];else b=r[u];end else if l==6 then c[b]=k;else l=-2;end end end l=l+1 end end end else if l>=-1 then for r=11,86 do if l<1 then c[e[d]][e[t]]=c[e[f]];break;end;for l=0,6 do if 2>=l then if 0>=l then c[e[d]]=b[e[t]];n=n+1;e=o[n];else if l>-2 then for r=29,76 do if l>1 then c[e[d]]=a[e[t]];n=n+1;e=o[n];break;end;c[e[d]]=a[e[t]];n=n+1;e=o[n];break;end;else c[e[d]]=a[e[t]];n=n+1;e=o[n];end end else if l>=5 then if l~=6 then c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];else c[e[d]]={};end else if l>2 then repeat if l<4 then c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];break;end;c[e[d]]=a[e[t]];n=n+1;e=o[n];until true;else c[e[d]]=a[e[t]];n=n+1;e=o[n];end end end end break;end;else c[e[d]][e[t]]=c[e[f]];end end else if l<=6 then if 1<l then for o=37,58 do if 5<l then local n=e[d];local d=c[e[t]];c[n+1]=d;c[n]=d[e[f]];break;end;if(c[e[d]]==e[f])then n=n+1;else n=e[t];end;break;end;else local d=e[d];local n=c[e[t]];c[d+1]=n;c[d]=n[e[f]];end else if 8>l then c[e[d]]={};else if l>=7 then for r=42,93 do if l~=8 then local u,_,r,p,s,b,a,k,l;for l=0,5 do if 3>l then if 1>l then u=e[d];_=c[e[t]];c[u+1]=_;c[u]=_[e[f]];n=n+1;e=o[n];else if l>=-3 then for f=43,70 do if 1<l then l=0;while l>-1 do if 4<=l then if 6>l then if 0~=l then repeat if l>4 then k=r[p];break;end;a=b[r[s]];until true;else a=b[r[s]];end else if 6==l then c[k]=a;else l=-2;end end else if 1<l then if 2==l then s=t;else b=c;end else if-4~=l then for n=48,55 do if 1~=l then r=e;break;end;p=d;break;end;else r=e;end end end l=l+1 end n=n+1;e=o[n];break;end;l=0;while l>-1 do if l<4 then if l>1 then if 2==l then s=t;else b=c;end else if l==0 then r=e;else p=d;end end else if l>5 then if 6==l then c[k]=a;else l=-2;end else if 5>l then a=b[r[s]];else k=r[p];end end end l=l+1 end n=n+1;e=o[n];break;end;else l=0;while l>-1 do if l<4 then if l>1 then if 2==l then s=t;else b=c;end else if l==0 then r=e;else p=d;end end else if l>5 then if 6==l then c[k]=a;else l=-2;end else if 5>l then a=b[r[s]];else k=r[p];end end end l=l+1 end n=n+1;e=o[n];end end else if l<4 then u=e[d]c[u]=c[u](h(c,u+1,e[t]))n=n+1;e=o[n];else if 3~=l then repeat if l<5 then c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]]+c[e[f]];until true;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end end end end break;end;if(c[e[d]]~=e[f])then n=n+1;else n=e[t];end;break;end;else local b,_,r,k,a,s,u,p,l;for l=0,5 do if 3>l then if 1>l then b=e[d];_=c[e[t]];c[b+1]=_;c[b]=_[e[f]];n=n+1;e=o[n];else if l>=-3 then for f=43,70 do if 1<l then l=0;while l>-1 do if 4<=l then if 6>l then if 0~=l then repeat if l>4 then p=r[k];break;end;u=s[r[a]];until true;else u=s[r[a]];end else if 6==l then c[p]=u;else l=-2;end end else if 1<l then if 2==l then a=t;else s=c;end else if-4~=l then for n=48,55 do if 1~=l then r=e;break;end;k=d;break;end;else r=e;end end end l=l+1 end n=n+1;e=o[n];break;end;l=0;while l>-1 do if l<4 then if l>1 then if 2==l then a=t;else s=c;end else if l==0 then r=e;else k=d;end end else if l>5 then if 6==l then c[p]=u;else l=-2;end else if 5>l then u=s[r[a]];else p=r[k];end end end l=l+1 end n=n+1;e=o[n];break;end;else l=0;while l>-1 do if l<4 then if l>1 then if 2==l then a=t;else s=c;end else if l==0 then r=e;else k=d;end end else if l>5 then if 6==l then c[p]=u;else l=-2;end else if 5>l then u=s[r[a]];else p=r[k];end end end l=l+1 end n=n+1;e=o[n];end end else if l<4 then b=e[d]c[b]=c[b](h(c,b+1,e[t]))n=n+1;e=o[n];else if 3~=l then repeat if l<5 then c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]]+c[e[f]];until true;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end end end end end end end end else if l<15 then if 11>=l then if 8<l then for o=31,97 do if l<11 then local d=e[d];local o=c[d]local l=c[d+2];if(l>0)then if(o>c[d+1])then n=e[t];else c[d+3]=o;end elseif(o<c[d+1])then n=e[t];else c[d+3]=o;end break;end;local e=e[d]c[e]=c[e]()break;end;else local d=e[d];local o=c[d]local l=c[d+2];if(l>0)then if(o>c[d+1])then n=e[t];else c[d+3]=o;end elseif(o<c[d+1])then n=e[t];else c[d+3]=o;end end else if l>=13 then if l>=11 then for r=24,54 do if 14>l then local r;for l=0,3 do if 1>=l then if-4<l then repeat if l~=0 then c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end else if 1<=l then repeat if l~=3 then r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];break;end;if not c[e[d]]then n=n+1;else n=e[t];end;until true;else if not c[e[d]]then n=n+1;else n=e[t];end;end end end break;end;c[e[d]]=c[e[t]]-e[f];break;end;else c[e[d]]=c[e[t]]-e[f];end else c[e[d]]=c[e[t]]+e[f];end end else if l>17 then if l<=18 then local d=e[d];local l=c[d+2];local o=c[d]+l;c[d]=o;if(l>0)then if(o<=c[d+1])then n=e[t];c[d+3]=o;end elseif(o>=c[d+1])then n=e[t];c[d+3]=o;end else if l==20 then local d=e[d];local l=c[d+2];local o=c[d]+l;c[d]=o;if(l>0)then if(o<=c[d+1])then n=e[t];c[d+3]=o;end elseif(o>=c[d+1])then n=e[t];c[d+3]=o;end else for e=e[d],e[t]do c[e]=nil;end;end end else if 16>l then local r;for l=0,6 do if l>=3 then if l>4 then if l~=3 then for f=27,98 do if 5<l then c[e[d]]=c[e[t]];break;end;r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];break;end;else r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];end else if-1<l then for r=36,57 do if 3~=l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else c(e[d],e[t]);n=n+1;e=o[n];end end else if l>=1 then if 2>l then c(e[d],e[t]);n=n+1;e=o[n];else c(e[d],e[t]);n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end end end else if 17~=l then if not c[e[d]]then n=n+1;else n=e[t];end;else local l;l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]=b[e[t]];end end end end end end else if 64>l then if 53<=l then if l<58 then if l<=54 then if 52<=l then repeat if 54>l then c[e[d]]=b[e[t]];break;end;local l,o,a,r,h,f;local n=0;while n>-1 do if n<=3 then if n<=1 then if-3<n then for c=16,60 do if n~=0 then o=d;break;end;l=e;break;end;else o=d;end else if n~=1 then repeat if n~=2 then r=c;break;end;a=t;until true;else r=c;end end else if 6>n then if 2<n then for e=12,55 do if n>4 then f=l[o];break;end;h=r[l[a]];break;end;else f=l[o];end else if n>=5 then for e=16,71 do if 6<n then n=-2;break;end;c[f]=h;break;end;else n=-2;end end end n=n+1 end until true;else local o,l,h,r,a,f;local n=0;while n>-1 do if n<=3 then if n<=1 then if-3<n then for c=16,60 do if n~=0 then l=d;break;end;o=e;break;end;else l=d;end else if n~=1 then repeat if n~=2 then r=c;break;end;h=t;until true;else r=c;end end else if 6>n then if 2<n then for e=12,55 do if n>4 then f=o[l];break;end;a=r[o[h]];break;end;else f=o[l];end else if n>=5 then for e=16,71 do if 6<n then n=-2;break;end;c[f]=a;break;end;else n=-2;end end end n=n+1 end end else if 56<=l then if l~=57 then local o,f,l,r,a,h;local n=0;while n>-1 do if n>=4 then if n<6 then if n>4 then h=o[f];else a=r[o[l]];end else if n~=6 then n=-2;else c[h]=a;end end else if 2>n then if n>=-4 then for c=29,79 do if n~=0 then f=d;break;end;o=e;break;end;else o=e;end else if-2<=n then for e=20,62 do if n~=3 then l=t;break;end;r=c;break;end;else l=t;end end end n=n+1 end else if c[e[d]]then n=n+1;else n=e[t];end;end else a[e[t]]=c[e[d]];end end else if l>=61 then if 62<=l then if l==62 then local r;for l=0,6 do if 3<=l then if l>=5 then if 1~=l then repeat if 6~=l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);until true;else c(e[d],e[t]);end else if 3<l then c[e[d]]=c[e[t]];n=n+1;e=o[n];else r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];end end else if 1<=l then if 0<l then for r=12,77 do if l>1 then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else c(e[d],e[t]);n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end end end else local o=e[d];local d={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local t=e[1];local n=e[2];if t==c and n>=o then d[n]=t[n];e[1]=d;end;end;end;end else local n=e[d]local d,e=j(c[n](h(c,n+1,e[t])))s=e+n-1 local e=0;for n=n,s do e=e+1;c[n]=d[e];end;end else if l<=58 then if(e[d]<c[e[f]])then n=e[t];else n=n+1;end;else if 57<=l then for r=21,95 do if 60>l then local e=e[d];s=e+g-1;for n=e,s do local e=_[n-e];c[n]=e;end;break;end;local h,a,k,u,b,s,l,r;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];l=0;while l>-1 do if l>3 then if l>=6 then if l==7 then l=-2;else c[s]=b;end else if 1<=l then for e=31,62 do if l<5 then b=u[h[k]];break;end;s=h[a];break;end;else s=h[a];end end else if l<2 then if 1>l then h=e;else a=d;end else if 2<l then u=c;else k=t;end end end l=l+1 end n=n+1;e=o[n];r=e[d]c[r]=c[r](c[r+1])n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];break;end;else local r,s,b,k,u,a,l,h;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];l=0;while l>-1 do if l>3 then if l>=6 then if l==7 then l=-2;else c[a]=u;end else if 1<=l then for e=31,62 do if l<5 then u=k[r[b]];break;end;a=r[s];break;end;else a=r[s];end end else if l<2 then if 1>l then r=e;else s=d;end else if 2<l then k=c;else b=t;end end end l=l+1 end n=n+1;e=o[n];h=e[d]c[h]=c[h](c[h+1])n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];end end end end else if l<48 then if l>=45 then if 46<=l then if l>=44 then repeat if l~=47 then c[e[d]]=c[e[t]][e[f]];break;end;local l,r,h;for f=0,2 do if 1<=f then if-3<=f then repeat if 2~=f then c(e[d],e[t]);n=n+1;e=o[n];break;end;l=e[d];r=c[l]h=c[l+2];if(h>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end until true;else c(e[d],e[t]);n=n+1;e=o[n];end else c[e[d]]=#c[e[t]];n=n+1;e=o[n];end end until true;else c[e[d]]=c[e[t]][e[f]];end else do return end;end else if 44~=l then n=e[t];else local r,k,a,h,s,l,u,p,_;c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]={};n=n+1;e=o[n];l=0;while l>-1 do if 3>l then if l<=0 then r=e;else if 0<=l then for e=46,56 do if l>1 then a=t;break;end;k=d;break;end;else a=t;end end else if l<5 then if l~=4 then h=r[a];else s=r[k];end else if 3<=l then repeat if l>5 then l=-2;break;end;c(s,h);until true;else c(s,h);end end end l=l+1 end n=n+1;e=o[n];l=0;while l>-1 do if 2>=l then if l<=0 then r=e;else if 2~=l then k=d;else a=t;end end else if l>=5 then if l>1 then repeat if l~=6 then c(s,h);break;end;l=-2;until true;else l=-2;end else if l~=-1 then repeat if l~=4 then h=r[a];break;end;s=r[k];until true;else h=r[a];end end end l=l+1 end n=n+1;e=o[n];l=0;while l>-1 do if l<=2 then if 1<=l then if 1<l then a=t;else k=d;end else r=e;end else if l<5 then if l>-1 then repeat if 4>l then h=r[a];break;end;s=r[k];until true;else h=r[a];end else if l~=4 then repeat if l>5 then l=-2;break;end;c(s,h);until true;else c(s,h);end end end l=l+1 end n=n+1;e=o[n];u=e[d];p=c[u]_=c[u+2];if(_>0)then if(p>c[u+1])then n=e[t];else c[u+3]=p;end elseif(p<c[u+1])then n=e[t];else c[u+3]=p;end end end else if 49<l then if 50>=l then if(c[e[d]]~=e[f])then n=n+1;else n=e[t];end;else if l==51 then local l;for r=0,4 do if r<2 then if r~=1 then c[e[d]]=c[e[t]];n=n+1;e=o[n];else c(e[d],e[t]);n=n+1;e=o[n];end else if 2>=r then c(e[d],e[t]);n=n+1;e=o[n];else if r==4 then if(c[e[d]]==e[f])then n=n+1;else n=e[t];end;else l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];end end end end else c[e[d]]=b[e[t]];end end else if 48<l then c[e[d]]=c[e[t]]-e[f];else c[e[d]]=c[e[t]]+c[e[f]];end end end end else if 75>l then if 69<=l then if 72<=l then if 73<=l then if 70<l then repeat if l~=73 then c[e[d]]=(e[t]~=0);break;end;if not c[e[d]]then n=n+1;else n=e[t];end;until true;else c[e[d]]=(e[t]~=0);end else local e=e[d]c[e]=c[e](c[e+1])end else if 69<l then if l~=66 then for n=16,58 do if l~=70 then c[e[d]]=a[e[t]];break;end;c[e[d]]=c[e[t]][c[e[f]]];break;end;else c[e[d]]=c[e[t]][c[e[f]]];end else local l;c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c(e[d],e[t]);end end else if 65>=l then if 60<l then for n=22,82 do if l<65 then local e=e[d]c[e]=c[e](c[e+1])break;end;b[e[t]]=c[e[d]];break;end;else local e=e[d]c[e]=c[e](c[e+1])end else if l<67 then c[e[d]]={};n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);else if l>67 then b[e[t]]=c[e[d]];else local l;c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];l=e[d];do return c[l](h(c,l+1,e[t]))end;n=n+1;e=o[n];l=e[d];do return h(c,l,s)end;n=n+1;e=o[n];do return end;end end end end else if 80<=l then if l>=83 then if l<84 then for l=0,1 do if-1<l then repeat if l~=0 then if not c[e[d]]then n=n+1;else n=e[t];end;break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];until true;else if not c[e[d]]then n=n+1;else n=e[t];end;end end else if 82<=l then for o=39,97 do if l~=84 then local d=e[d];local o=c[d]local l=c[d+2];if(l>0)then if(o>c[d+1])then n=e[t];else c[d+3]=o;end elseif(o<c[d+1])then n=e[t];else c[d+3]=o;end break;end;local e=e[d]c[e]=c[e](h(c,e+1,s))break;end;else local d=e[d];local o=c[d]local l=c[d+2];if(l>0)then if(o>c[d+1])then n=e[t];else c[d+3]=o;end elseif(o<c[d+1])then n=e[t];else c[d+3]=o;end end end else if 80<l then if l>78 then for r=48,83 do if l~=82 then local b,s,h,l,a,r;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];do return c[e[d]]end n=n+1;e=o[n];b=e[d];s={};for e=1,#u do h=u[e];for e=0,#h do l=h[e];a=l[1];r=l[2];if a==c and r>=b then s[r]=a[r];l[1]=s;end;end;end;break;end;c[e[d]][e[t]]=c[e[f]];break;end;else local b,h,s,r,a,l;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];do return c[e[d]]end n=n+1;e=o[n];b=e[d];h={};for e=1,#u do s=u[e];for e=0,#s do r=s[e];a=r[1];l=r[2];if a==c and l>=b then h[l]=a[l];r[1]=h;end;end;end;end else c[e[d]][c[e[t]]]=c[e[f]];end end else if l>76 then if 78<=l then if 78<l then c[e[d]]=c[e[t]]-c[e[f]];else local l,r,a;for h=0,4 do if h>1 then if h>=3 then if h~=0 then repeat if h>3 then l=e[d];r=c[l]a=c[l+2];if(a>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else l=e[d];r=c[l]a=c[l+2];if(a>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end end else c[e[d]]=#c[e[t]];n=n+1;e=o[n];end else if-2<=h then for l=26,63 do if 0<h then c(e[d],e[t]);n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];break;end;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end end end end else local s=m[e[t]];local h;local l={};h=r.utYbXtrt({},{__index=function(n,e)local e=l[e];return e[1][e[2]];end,__newindex=function(c,e,n)local e=l[e]e[1][e[2]]=n;end;});for d=1,e[f]do n=n+1;local e=o[n];if e[z]==56 then l[d-1]={c,e[t]};else l[d-1]={a,e[t]};end;u[#u+1]=l;end;c[e[d]]=y(s,h,b);end else if 73<l then repeat if l~=76 then local r,a,s,h,f,l;for l=0,6 do if 3<=l then if l<5 then if 2<=l then for b=42,77 do if l~=3 then l=0;while l>-1 do if l>=3 then if l>4 then if l>5 then l=-2;else c(f,h);end else if l==3 then h=r[s];else f=r[a];end end else if l>=1 then if-1<l then for e=46,59 do if l<2 then a=d;break;end;s=t;break;end;else a=d;end else r=e;end end l=l+1 end n=n+1;e=o[n];break;end;l=0;while l>-1 do if l<=2 then if 0>=l then r=e;else if l==1 then a=d;else s=t;end end else if 4>=l then if l>1 then repeat if l>3 then f=r[a];break;end;h=r[s];until true;else f=r[a];end else if 2<=l then for e=32,55 do if 6>l then c(f,h);break;end;l=-2;break;end;else c(f,h);end end end l=l+1 end n=n+1;e=o[n];break;end;else l=0;while l>-1 do if l<=2 then if 0>=l then r=e;else if l==1 then a=d;else s=t;end end else if 4>=l then if l>1 then repeat if l>3 then f=r[a];break;end;h=r[s];until true;else f=r[a];end else if 2<=l then for e=32,55 do if 6>l then c(f,h);break;end;l=-2;break;end;else c(f,h);end end end l=l+1 end n=n+1;e=o[n];end else if 5<l then l=0;while l>-1 do if 2>=l then if 1>l then r=e;else if 0<l then repeat if 2>l then a=d;break;end;s=t;until true;else s=t;end end else if l<=4 then if l>-1 then repeat if 3<l then f=r[a];break;end;h=r[s];until true;else h=r[s];end else if 6==l then l=-2;else c(f,h);end end end l=l+1 end else l=0;while l>-1 do if 2<l then if 5<=l then if l>=1 then repeat if l>5 then l=-2;break;end;c(f,h);until true;else c(f,h);end else if l>2 then repeat if 4~=l then h=r[s];break;end;f=r[a];until true;else h=r[s];end end else if l<1 then r=e;else if l>1 then s=t;else a=d;end end end l=l+1 end n=n+1;e=o[n];end end else if 1>l then c[e[d]]={};n=n+1;e=o[n];else if-3<l then repeat if 1~=l then c[e[d]]={};n=n+1;e=o[n];break;end;c[e[d]]={};n=n+1;e=o[n];until true;else c[e[d]]={};n=n+1;e=o[n];end end end end break;end;local n=e[d];do return c[n](h(c,n+1,e[t]))end;until true;else local r,s,a,f,h,l;for l=0,6 do if 3<=l then if l<5 then if 2<=l then for b=42,77 do if l~=3 then l=0;while l>-1 do if l>=3 then if l>4 then if l>5 then l=-2;else c(h,f);end else if l==3 then f=r[a];else h=r[s];end end else if l>=1 then if-1<l then for e=46,59 do if l<2 then s=d;break;end;a=t;break;end;else s=d;end else r=e;end end l=l+1 end n=n+1;e=o[n];break;end;l=0;while l>-1 do if l<=2 then if 0>=l then r=e;else if l==1 then s=d;else a=t;end end else if 4>=l then if l>1 then repeat if l>3 then h=r[s];break;end;f=r[a];until true;else h=r[s];end else if 2<=l then for e=32,55 do if 6>l then c(h,f);break;end;l=-2;break;end;else c(h,f);end end end l=l+1 end n=n+1;e=o[n];break;end;else l=0;while l>-1 do if l<=2 then if 0>=l then r=e;else if l==1 then s=d;else a=t;end end else if 4>=l then if l>1 then repeat if l>3 then h=r[s];break;end;f=r[a];until true;else h=r[s];end else if 2<=l then for e=32,55 do if 6>l then c(h,f);break;end;l=-2;break;end;else c(h,f);end end end l=l+1 end n=n+1;e=o[n];end else if 5<l then l=0;while l>-1 do if 2>=l then if 1>l then r=e;else if 0<l then repeat if 2>l then s=d;break;end;a=t;until true;else a=t;end end else if l<=4 then if l>-1 then repeat if 3<l then h=r[s];break;end;f=r[a];until true;else f=r[a];end else if 6==l then l=-2;else c(h,f);end end end l=l+1 end else l=0;while l>-1 do if 2<l then if 5<=l then if l>=1 then repeat if l>5 then l=-2;break;end;c(h,f);until true;else c(h,f);end else if l>2 then repeat if 4~=l then f=r[a];break;end;h=r[s];until true;else f=r[a];end end else if l<1 then r=e;else if l>1 then a=t;else s=d;end end end l=l+1 end n=n+1;e=o[n];end end else if 1>l then c[e[d]]={};n=n+1;e=o[n];else if-3<l then repeat if 1~=l then c[e[d]]={};n=n+1;e=o[n];break;end;c[e[d]]={};n=n+1;e=o[n];until true;else c[e[d]]={};n=n+1;e=o[n];end end end end end end end end end end else if l>=129 then if l>149 then if 161<=l then if 166>l then if 163>l then if l>161 then local e=e[d]c[e]=c[e]()else local r;for l=0,6 do if l>2 then if 5<=l then if l~=5 then c(e[d],e[t]);else c(e[d],e[t]);n=n+1;e=o[n];end else if 3<l then c(e[d],e[t]);n=n+1;e=o[n];else c(e[d],e[t]);n=n+1;e=o[n];end end else if 1>l then r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];else if l>=-2 then repeat if 2>l then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]];n=n+1;e=o[n];end end end end end else if 164>l then c[e[d]]=c[e[t]]-c[e[f]];else if 163~=l then for o=43,91 do if l>164 then a[e[t]]=c[e[d]];break;end;if c[e[d]]then n=n+1;else n=e[t];end;break;end;else if c[e[d]]then n=n+1;else n=e[t];end;end end end else if 168>=l then if 166>=l then local e=e[d];local n=c[e];for e=e+1,s do r.QjGicvvL(n,c[e])end;else if l>=166 then for n=48,93 do if l~=168 then for e=e[d],e[t]do c[e]=nil;end;break;end;local e=e[d];do return h(c,e,s)end;break;end;else for e=e[d],e[t]do c[e]=nil;end;end end else if l<=169 then local e=e[d]c[e](c[e+1])else if 171==l then c[e[d]]=c[e[t]]%c[e[f]];else c[e[d]]=c[e[t]][e[f]];end end end end else if l>=155 then if 157<l then if l>158 then if 160==l then local l;a[e[t]]=c[e[d]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;else local n=e[d];do return c[n](h(c,n+1,e[t]))end;end else local f,a,h,s,r,l;for l=0,1 do if-1<=l then repeat if 1>l then l=0;while l>-1 do if l<=2 then if l<=0 then f=e;else if 0<=l then for e=17,94 do if 1<l then h=t;break;end;a=d;break;end;else h=t;end end else if l>4 then if 1<l then for e=20,73 do if 5<l then l=-2;break;end;c(r,s);break;end;else c(r,s);end else if-1<=l then for e=33,79 do if l~=3 then r=f[a];break;end;s=f[h];break;end;else r=f[a];end end end l=l+1 end n=n+1;e=o[n];break;end;c[e[d]]=b[e[t]];until true;else c[e[d]]=b[e[t]];end end end else if l<=155 then local e=e[d]local d,n=j(c[e](c[e+1]))s=n+e-1 local n=0;for e=e,s do n=n+1;c[e]=d[n];end;else if 152<l then for r=46,60 do if l<157 then local r;for l=0,6 do if 2>=l then if l<=0 then c[e[d]]=a[e[t]];n=n+1;e=o[n];else if l~=-2 then repeat if 2>l then c[e[d]]=a[e[t]];n=n+1;e=o[n];break;end;c[e[d]]=a[e[t]];n=n+1;e=o[n];until true;else c[e[d]]=a[e[t]];n=n+1;e=o[n];end end else if l<5 then if l>3 then c[e[d]]=c[e[t]];n=n+1;e=o[n];else c[e[d]]=c[e[t]];n=n+1;e=o[n];end else if 5==l then c[e[d]]=c[e[t]];n=n+1;e=o[n];else r=e[d]c[r]=c[r](h(c,r+1,e[t]))end end end end break;end;c[e[d]]=c[e[t]]%e[f];break;end;else c[e[d]]=c[e[t]]%e[f];end end end else if l<152 then if 148~=l then for r=25,64 do if 150<l then local r,s,k,b,u,a,l,h;for l=0,3 do if 2<=l then if l>=-2 then repeat if l<3 then c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];break;end;c[e[d]][c[e[t]]]=c[e[f]];until true;else c[e[d]][c[e[t]]]=c[e[f]];end else if 1>l then l=0;while l>-1 do if l<4 then if 2<=l then if 0<l then for e=36,53 do if 2<l then b=c;break;end;k=t;break;end;else b=c;end else if-1<=l then for n=32,96 do if 0~=l then s=d;break;end;r=e;break;end;else r=e;end end else if 6>l then if 1<l then repeat if 5>l then u=b[r[k]];break;end;a=r[s];until true;else a=r[s];end else if l~=4 then repeat if 6~=l then l=-2;break;end;c[a]=u;until true;else l=-2;end end end l=l+1 end n=n+1;e=o[n];else h=e[d]c[h]=c[h](c[h+1])n=n+1;e=o[n];end end end break;end;local o,f,r,l,h;local n=0;while n>-1 do if 3>n then if n>=1 then if 2==n then r=t;else f=d;end else o=e;end else if n<=4 then if 2<n then for e=40,97 do if n<4 then l=o[r];break;end;h=o[f];break;end;else l=o[r];end else if 4<=n then repeat if 6>n then c(h,l);break;end;n=-2;until true;else n=-2;end end end n=n+1 end break;end;else local o,f,r,l,h;local n=0;while n>-1 do if 3>n then if n>=1 then if 2==n then r=t;else f=d;end else o=e;end else if n<=4 then if 2<n then for e=40,97 do if n<4 then l=o[r];break;end;h=o[f];break;end;else l=o[r];end else if 4<=n then repeat if 6>n then c(h,l);break;end;n=-2;until true;else n=-2;end end end n=n+1 end end else if 152>=l then local l,r,h;for f=0,2 do if 1>f then c[e[d]]=#c[e[t]];n=n+1;e=o[n];else if f>=0 then repeat if f~=1 then l=e[d];r=c[l]h=c[l+2];if(h>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end end end else if l~=152 then for r=48,59 do if l~=154 then local r,l,u,b,a,k,s,h,p;local o=0;while o>-1 do if 2<o then if 5>o then if 2<=o then for e=44,57 do if 3<o then p=s==h and l[k]or 1+u;break;end;s=r[b];h=r[a];break;end;else s=r[b];h=r[a];end else if 1~=o then for e=18,52 do if o~=5 then o=-2;break;end;n=p;break;end;else o=-2;end end else if 0>=o then r=c;else if o>=-3 then for c=33,75 do if o<2 then l=e;u=n;break;end;b=l[d];a=l[f];k=t;break;end;else l=e;u=n;end end end o=o+1 end break;end;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;break;end;else c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;end end end end end else if l>=139 then if 143<l then if 147>l then if 144<l then if 142<=l then repeat if l~=146 then local l;c[e[d]]=c[e[t]];n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];l=e[d]c[l]=c[l](h(c,l+1,e[t]))break;end;local l;for r=0,6 do if r<3 then if 1>r then c[e[d]][e[t]]=c[e[f]];n=n+1;e=o[n];else if r~=-1 then for f=20,66 do if r<2 then l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];break;end;c[e[d]]=b[e[t]];n=n+1;e=o[n];break;end;else l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];end end else if r<=4 then if r~=4 then c[e[d]]=a[e[t]];n=n+1;e=o[n];else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end else if r>1 then repeat if 6>r then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;l=e[d]c[l](h(c,l+1,e[t]))until true;else l=e[d]c[l](h(c,l+1,e[t]))end end end end until true;else local l;c[e[d]]=c[e[t]];n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];c(e[d],e[t]);n=n+1;e=o[n];l=e[d]c[l]=c[l](h(c,l+1,e[t]))end else local n=e[d];local d=c[n];for e=n+1,e[t]do r.QjGicvvL(d,c[e])end;end else if l<=147 then local n=e[d]c[n]=c[n](h(c,n+1,e[t]))else if l>=145 then for r=13,58 do if l~=149 then local r,l;c[e[d]]=#c[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]]%c[e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]]+e[f];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];r=e[d];l=c[e[t]];c[r+1]=l;c[r]=l[e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]];break;end;local h,k,p,s,u,b,l,r;c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];l=0;while l>-1 do if l<=3 then if 2>l then if-4<l then repeat if 1~=l then h=e;break;end;k=d;until true;else h=e;end else if 1~=l then for e=33,81 do if 2<l then s=c;break;end;p=t;break;end;else s=c;end end else if l>=6 then if l>=2 then repeat if l<7 then c[b]=u;break;end;l=-2;until true;else c[b]=u;end else if l>4 then b=h[k];else u=s[h[p]];end end end l=l+1 end n=n+1;e=o[n];r=e[d]c[r]=c[r](c[r+1])n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];do return end;break;end;else local h,p,k,s,b,u,l,r;c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];l=0;while l>-1 do if l<=3 then if 2>l then if-4<l then repeat if 1~=l then h=e;break;end;p=d;until true;else h=e;end else if 1~=l then for e=33,81 do if 2<l then s=c;break;end;k=t;break;end;else s=c;end end else if l>=6 then if l>=2 then repeat if l<7 then c[u]=b;break;end;l=-2;until true;else c[u]=b;end else if l>4 then u=h[p];else b=s[h[k]];end end end l=l+1 end n=n+1;e=o[n];r=e[d]c[r]=c[r](c[r+1])n=n+1;e=o[n];c[e[d]][c[e[t]]]=c[e[f]];n=n+1;e=o[n];do return end;end end end else if l>=141 then if l>141 then if l==142 then local r;for l=0,6 do if l<3 then if 0<l then if l~=1 then c(e[d],e[t]);n=n+1;e=o[n];else c(e[d],e[t]);n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end else if 5>l then if 2~=l then repeat if 3<l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end else if 1<l then for f=37,83 do if l~=6 then r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]];break;end;else c[e[d]]=c[e[t]];end end end end else local o=e[d];local d={};for e=1,#u do local e=u[e];for n=0,#e do local n=e[n];local t=n[1];local e=n[2];if t==c and e>=o then d[e]=t[e];n[1]=d;end;end;end;end else c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];b[e[t]]=c[e[d]];n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];b[e[t]]=c[e[d]];n=n+1;e=o[n];c[e[d]]=(e[t]~=0);n=n+1;e=o[n];b[e[t]]=c[e[d]];end else if l~=138 then for r=18,93 do if 140>l then local l,r,f;for h=0,2 do if h<1 then c(e[d],e[t]);n=n+1;e=o[n];else if 0<h then for a=40,65 do if 1<h then l=e[d];r=c[l]f=c[l+2];if(f>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else l=e[d];r=c[l]f=c[l+2];if(f>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end end end end break;end;local r;for l=0,6 do if 2>=l then if 1>l then c(e[d],e[t]);n=n+1;e=o[n];else if l>-3 then repeat if 2~=l then c(e[d],e[t]);n=n+1;e=o[n];break;end;r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];until true;else c(e[d],e[t]);n=n+1;e=o[n];end end else if l>4 then if l~=4 then for r=37,62 do if 6~=l then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);break;end;else c(e[d],e[t]);end else if 2<=l then repeat if l>3 then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c[e[d]]={};n=n+1;e=o[n];until true;else c[e[d]]={};n=n+1;e=o[n];end end end end break;end;else local l,r,f;for h=0,2 do if h<1 then c(e[d],e[t]);n=n+1;e=o[n];else if 0<h then for a=40,65 do if 1<h then l=e[d];r=c[l]f=c[l+2];if(f>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else l=e[d];r=c[l]f=c[l+2];if(f>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end end end end end end end else if l<134 then if l<131 then if 130>l then local n=e[d];local d=c[n];for e=n+1,e[t]do r.QjGicvvL(d,c[e])end;else local r,l,p,a,h,s,u,b,k;local o=0;while o>-1 do if o>=3 then if o>=5 then if o~=6 then n=k;else o=-2;end else if 1<o then repeat if o>3 then k=u==b and l[s]or 1+p;break;end;u=r[a];b=r[h];until true;else u=r[a];b=r[h];end end else if 1>o then r=c;else if-1<o then repeat if 2>o then l=e;p=n;break;end;a=l[d];h=l[f];s=t;until true;else a=l[d];h=l[f];s=t;end end end o=o+1 end end else if l>131 then if l>=128 then repeat if 133>l then local t,l,h;for f=0,1 do if f>=-2 then for a=19,90 do if f<1 then t=e[d];s=t+g-1;for e=t,s do l=_[e-t];c[e]=l;end;n=n+1;e=o[n];break;end;t=e[d];h=c[t];for e=t+1,s do r.QjGicvvL(h,c[e])end;break;end;else t=e[d];s=t+g-1;for e=t,s do l=_[e-t];c[e]=l;end;n=n+1;e=o[n];end end break;end;local r,h,b,s,a,l;for l=0,3 do if l>1 then if l==3 then if not c[e[d]]then n=n+1;else n=e[t];end;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end else if 0==l then l=0;while l>-1 do if l>=3 then if l<5 then if l<4 then s=r[b];else a=r[h];end else if l~=3 then repeat if 5~=l then l=-2;break;end;c(a,s);until true;else l=-2;end end else if l>=1 then if l>=-1 then for e=12,84 do if 1~=l then b=t;break;end;h=d;break;end;else h=d;end else r=e;end end l=l+1 end n=n+1;e=o[n];else l=0;while l>-1 do if 3>l then if l<=0 then r=e;else if-3<l then for e=13,58 do if 1<l then b=t;break;end;h=d;break;end;else b=t;end end else if l<5 then if 0<l then repeat if 4>l then s=r[b];break;end;a=r[h];until true;else a=r[h];end else if l~=3 then repeat if 5<l then l=-2;break;end;c(a,s);until true;else c(a,s);end end end l=l+1 end n=n+1;e=o[n];end end end until true;else local r,a,b,s,h,l;for l=0,3 do if l>1 then if l==3 then if not c[e[d]]then n=n+1;else n=e[t];end;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end else if 0==l then l=0;while l>-1 do if l>=3 then if l<5 then if l<4 then s=r[b];else h=r[a];end else if l~=3 then repeat if 5~=l then l=-2;break;end;c(h,s);until true;else l=-2;end end else if l>=1 then if l>=-1 then for e=12,84 do if 1~=l then b=t;break;end;a=d;break;end;else a=d;end else r=e;end end l=l+1 end n=n+1;e=o[n];else l=0;while l>-1 do if 3>l then if l<=0 then r=e;else if-3<l then for e=13,58 do if 1<l then b=t;break;end;a=d;break;end;else b=t;end end else if l<5 then if 0<l then repeat if 4>l then s=r[b];break;end;h=r[a];until true;else h=r[a];end else if l~=3 then repeat if 5<l then l=-2;break;end;c(h,s);until true;else c(h,s);end end end l=l+1 end n=n+1;e=o[n];end end end end else local l;c[e[d]]=c[e[t]];n=n+1;e=o[n];l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;end end else if l<136 then if 133<=l then repeat if 135~=l then c[e[d]]=c[e[t]]%c[e[f]];break;end;local o=c[e[f]];if not o then n=n+1;else c[e[d]]=o;n=e[t];end;until true;else c[e[d]]=c[e[t]]%c[e[f]];end else if 137<=l then if l>136 then repeat if 138~=l then if(c[e[d]]==c[e[f]])then n=n+1;else n=e[t];end;break;end;local a,r,h,p,_,k,u,b,s,l;for l=0,1 do if-2~=l then repeat if l>0 then l=0;while l>-1 do if l>=3 then if l<=4 then if l>1 then repeat if l~=3 then s=u==b and r[k]or 1+h;break;end;u=a[p];b=a[_];until true;else s=u==b and r[k]or 1+h;end else if 5<l then l=-2;else n=s;end end else if l<=0 then a=c;else if 0~=l then for c=35,63 do if 2~=l then r=e;h=n;break;end;p=r[d];_=r[f];k=t;break;end;else r=e;h=n;end end end l=l+1 end break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end end until true;else local a,r,h,p,_,s,u,b,k,l;for l=0,1 do if-2~=l then repeat if l>0 then l=0;while l>-1 do if l>=3 then if l<=4 then if l>1 then repeat if l~=3 then k=u==b and r[s]or 1+h;break;end;u=a[p];b=a[_];until true;else k=u==b and r[s]or 1+h;end else if 5<l then l=-2;else n=k;end end else if l<=0 then a=c;else if 0~=l then for c=35,63 do if 2~=l then r=e;h=n;break;end;p=r[d];_=r[f];s=t;break;end;else r=e;h=n;end end end l=l+1 end break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];end end end else c[e[d]][c[e[t]]]=c[e[f]];end end end end end else if 106<l then if l<=117 then if 112>l then if l>108 then if l>109 then if 108~=l then for n=12,73 do if 110~=l then do return c[e[d]]end break;end;c[e[d]]=#c[e[t]];break;end;else do return c[e[d]]end end else local o,l,f,h,r;local n=0;while n>-1 do if 2>=n then if 1>n then o=e;else if 2==n then f=t;else l=d;end end else if 4<n then if 5~=n then n=-2;else c(r,h);end else if 1~=n then for e=39,81 do if n>3 then r=o[l];break;end;h=o[f];break;end;else r=o[l];end end end n=n+1 end end else if 105<l then for r=19,64 do if l<108 then local r;for l=0,6 do if 2>=l then if 1<=l then if 1==l then c(e[d],e[t]);n=n+1;e=o[n];else r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end else if 5>l then if 0<=l then for r=11,60 do if l<4 then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else c(e[d],e[t]);n=n+1;e=o[n];end else if 4<l then for r=44,92 do if l<6 then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);break;end;else c(e[d],e[t]);n=n+1;e=o[n];end end end end break;end;local l;c[e[d]]=c[e[t]];n=n+1;e=o[n];l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;n=n+1;e=o[n];for e=e[d],e[t]do c[e]=nil;end;break;end;else local r;for l=0,6 do if 2>=l then if 1<=l then if 1==l then c(e[d],e[t]);n=n+1;e=o[n];else r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];end else c(e[d],e[t]);n=n+1;e=o[n];end else if 5>l then if 0<=l then for r=11,60 do if l<4 then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else c(e[d],e[t]);n=n+1;e=o[n];end else if 4<l then for r=44,92 do if l<6 then c(e[d],e[t]);n=n+1;e=o[n];break;end;c(e[d],e[t]);break;end;else c(e[d],e[t]);n=n+1;e=o[n];end end end end end end else if 114<l then if l>=116 then if 115<l then for r=46,87 do if 116<l then local n=e[d]c[n](h(c,n+1,e[t]))break;end;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=(e[t]~=0);n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][e[f]];break;end;else local n=e[d]c[n](h(c,n+1,e[t]))end else do return end;end else if 113>l then local n=e[d]local d,e=j(c[n](h(c,n+1,e[t])))s=e+n-1 local e=0;for n=n,s do e=e+1;c[n]=d[e];end;else if l>=109 then for n=26,52 do if 113~=l then local n=e[d];local d=c[e[t]];c[n+1]=d;c[n]=d[e[f]];break;end;c[e[d]]={};break;end;else c[e[d]]={};end end end end else if l>=123 then if l<=125 then if 124<=l then if l~=123 then for r=48,67 do if 125>l then local l,f,k,u,p,_,r,y,m,a;l=e[d]c[l]=c[l](c[l+1])n=n+1;e=o[n];l=e[d]c[l]=c[l]()n=n+1;e=o[n];r=0;while r>-1 do if r>2 then if 4>=r then if r>=2 then for e=39,90 do if r~=4 then p=f[u];break;end;_=f[k];break;end;else p=f[u];end else if 6>r then c(_,p);else r=-2;end end else if r>=1 then if-1~=r then for e=13,96 do if 1~=r then u=t;break;end;k=d;break;end;else k=d;end else f=e;end end r=r+1 end n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];l=e[d]y,m=j(c[l](h(c,l+1,e[t])))s=m+l-1 a=0;for e=l,s do a=a+1;c[e]=y[a];end;n=n+1;e=o[n];l=e[d]c[l]=c[l](h(c,l+1,s))break;end;local l;c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];l=e[d]c[l]=c[l](c[l+1])n=n+1;e=o[n];if not c[e[d]]then n=n+1;else n=e[t];end;break;end;else local l;c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];l=e[d]c[l]=c[l](c[l+1])n=n+1;e=o[n];if not c[e[d]]then n=n+1;else n=e[t];end;end else local s,a,b,o,r,h,l;local n=0;while n>-1 do if 3>n then if n<1 then s=d;a=t;b=f;else if n>=-1 then repeat if 1~=n then r=o[a];break;end;o=e;until true;else r=o[a];end end else if 5>n then if-1<n then for e=49,54 do if n<4 then h=o[s];break;end;l=c[r];for e=1+r,o[b]do l=l..c[e];end;break;end;else h=o[s];end else if 6==n then n=-2;else c[h]=l;end end end n=n+1 end end else if l>=127 then if l<128 then c[e[d]]();else local l,r,f;for h=0,2 do if h<1 then c[e[d]]=#c[e[t]];n=n+1;e=o[n];else if h~=-2 then for a=16,82 do if h>1 then l=e[d];r=c[l]f=c[l+2];if(f>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end break;end;c(e[d],e[t]);n=n+1;e=o[n];break;end;else l=e[d];r=c[l]f=c[l+2];if(f>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end end end end end else c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;end end else if l<120 then if l>114 then repeat if 118<l then local e=e[d];do return h(c,e,s)end;break;end;local l,r,h;for f=0,2 do if 1<=f then if f>-3 then for a=29,93 do if 2>f then c(e[d],e[t]);n=n+1;e=o[n];break;end;l=e[d];r=c[l]h=c[l+2];if(h>0)then if(r>c[l+1])then n=e[t];else c[l+3]=r;end elseif(r<c[l+1])then n=e[t];else c[l+3]=r;end break;end;else c(e[d],e[t]);n=n+1;e=o[n];end else c[e[d]]=#c[e[t]];n=n+1;e=o[n];end end until true;else local e=e[d];do return h(c,e,s)end;end else if 120<l then if 120<=l then repeat if 121<l then local r,u,_,s,p,k,j,l;c[e[d]][e[t]]=c[e[f]];n=n+1;e=o[n];r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]=a[e[t]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];l=0;while l>-1 do if 4<=l then if 6>l then if l>0 then for e=36,76 do if l~=4 then j=u[_];break;end;k=p[u[s]];break;end;else k=p[u[s]];end else if 6==l then c[j]=k;else l=-2;end end else if l<=1 then if l>-4 then for n=40,75 do if l<1 then u=e;break;end;_=d;break;end;else _=d;end else if-1<l then repeat if 3~=l then s=t;break;end;p=c;until true;else s=t;end end end l=l+1 end n=n+1;e=o[n];r=e[d]c[r](h(c,r+1,e[t]))break;end;local e=e[d];s=e+g-1;for n=e,s do local e=_[n-e];c[n]=e;end;until true;else local e=e[d];s=e+g-1;for n=e,s do local e=_[n-e];c[n]=e;end;end else local e=e[d]c[e]=c[e](h(c,e+1,s))end end end end else if 95<l then if 100<l then if l>103 then if l<=104 then c[e[d]]=y(m[e[t]],nil,b);else if 106>l then c[e[d]]=c[e[t]]+c[e[f]];else local l;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];l=e[d]c[l]=c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];c[e[d]]=#c[e[t]];n=n+1;e=o[n];if(c[e[d]]~=e[f])then n=n+1;else n=e[t];end;end end else if l<102 then local l;for r=0,1 do if r~=1 then l=e[d]c[l]=c[l]()n=n+1;e=o[n];else if c[e[d]]then n=n+1;else n=e[t];end;end end else if 99~=l then for f=13,84 do if 103>l then local l,f;for a=0,2 do if a>=1 then if a>=0 then for s=31,81 do if 1~=a then l=e[d];f=c[l];for e=l+1,e[t]do r.QjGicvvL(f,c[e])end;break;end;l=e[d]c[l]=c[l](h(c,l+1,e[t]))n=n+1;e=o[n];break;end;else l=e[d];f=c[l];for e=l+1,e[t]do r.QjGicvvL(f,c[e])end;end else c(e[d],e[t]);n=n+1;e=o[n];end end break;end;n=e[t];break;end;else n=e[t];end end end else if 97<l then if 99>l then c[e[d]]=c[e[t]]*e[f];else if l>=96 then for r=45,76 do if l~=99 then local l;c(e[d],e[t]);n=n+1;e=o[n];l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;n=n+1;e=o[n];for e=e[d],e[t]do c[e]=nil;end;break;end;local r,l;for h=0,4 do if h>1 then if h<3 then c[e[d]]=c[e[t]]%e[f];n=n+1;e=o[n];else if 2<=h then for a=18,64 do if h~=3 then r=e[t];l=c[r]for e=r+1,e[f]do l=l..c[e];end;c[e[d]]=l;break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];break;end;else r=e[t];l=c[r]for e=r+1,e[f]do l=l..c[e];end;c[e[d]]=l;end end else if h<1 then c[e[d]]=a[e[t]];n=n+1;e=o[n];else c[e[d]]=c[e[t]]+c[e[f]];n=n+1;e=o[n];end end end break;end;else local l;c(e[d],e[t]);n=n+1;e=o[n];l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;n=n+1;e=o[n];for e=e[d],e[t]do c[e]=nil;end;end end else if l~=96 then local e=e[d];local n=c[e];for e=e+1,s do r.QjGicvvL(n,c[e])end;else c[e[d]]=#c[e[t]];end end end else if l<91 then if l<=87 then if l>=85 then for r=29,88 do if l>86 then if(c[e[d]]==c[e[f]])then n=n+1;else n=e[t];end;break;end;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];c[e[d]]=c[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;break;end;else if(c[e[d]]==c[e[f]])then n=n+1;else n=e[t];end;end else if l<89 then c[e[d]]=c[e[t]][c[e[f]]];else if 86<=l then for r=46,92 do if 89~=l then local l,a,k,r,b,f;l=e[d];do return c[l](h(c,l+1,e[t]))end;n=n+1;e=o[n];l=e[d];do return h(c,l,s)end;n=n+1;e=o[n];l=e[d];a={};for e=1,#u do k=u[e];for e=0,#k do r=k[e];b=r[1];f=r[2];if b==c and f>=l then a[f]=b[f];r[1]=a;end;end;end;break;end;local r,u,a,b,h,s,l;c[e[d]]=c[e[t]][e[f]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];l=0;while l>-1 do if 4>l then if l<=1 then if l>-2 then for n=36,91 do if l>0 then u=d;break;end;r=e;break;end;else r=e;end else if l>2 then b=c;else a=t;end end else if l>=6 then if 3~=l then repeat if l>6 then l=-2;break;end;c[s]=h;until true;else c[s]=h;end else if l>0 then for e=40,65 do if 5>l then h=b[r[a]];break;end;s=r[u];break;end;else h=b[r[a]];end end end l=l+1 end n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;break;end;else local l,b,k,r,a,f;l=e[d];do return c[l](h(c,l+1,e[t]))end;n=n+1;e=o[n];l=e[d];do return h(c,l,s)end;n=n+1;e=o[n];l=e[d];b={};for e=1,#u do k=u[e];for e=0,#k do r=k[e];a=r[1];f=r[2];if a==c and f>=l then b[f]=a[f];r[1]=b;end;end;end;end end end else if l<93 then if 92==l then if(e[d]<c[e[f]])then n=e[t];else n=n+1;end;else for l=0,1 do if l>=-3 then for r=33,91 do if 1>l then c[e[d]]=b[e[t]];n=n+1;e=o[n];break;end;if not c[e[d]]then n=n+1;else n=e[t];end;break;end;else if not c[e[d]]then n=n+1;else n=e[t];end;end end end else if 94>l then local l;c[e[d]]=c[e[t]];n=n+1;e=o[n];l=e[d]c[l](c[l+1])n=n+1;e=o[n];c[e[d]]=b[e[t]];n=n+1;e=o[n];c[e[d]]();n=n+1;e=o[n];do return end;n=n+1;e=o[n];for e=e[d],e[t]do c[e]=nil;end;else if l==95 then c[e[d]]=c[e[t]]*e[f];else local r,a;for l=0,5 do if 3<=l then if l<4 then r=e[d]c[r]=c[r](h(c,r+1,e[t]))n=n+1;e=o[n];else if 2~=l then repeat if l~=4 then c[e[d]]=c[e[t]]*e[f];break;end;c[e[d]]=c[e[t]][c[e[f]]];n=n+1;e=o[n];until true;else c[e[d]]=c[e[t]]*e[f];end end else if l>0 then if 0<l then for r=44,81 do if 2>l then c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;c[e[d]]=c[e[t]];n=n+1;e=o[n];break;end;else c[e[d]]=c[e[t]];n=n+1;e=o[n];end else r=e[d];a=c[e[t]];c[r+1]=a;c[r]=a[e[f]];n=n+1;e=o[n];end end end end end end end end end end end n=1+n;end;end;return ne end;local t=0xff;local l={};local f=(1);local d='';(function(n)local c=n local o=0x00 local e=0x00 c={(function(d)if o>0x1f then return d end o=o+1 e=(e+0xd72-d)%0x4f return(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x52);end return true end)'HhTPY'and c[0x1](0x29d+d))or(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x76);end return true end)'PokiO'and c[0x2](d+0x2ce))or(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x86);end return true end)'EbCrC'and c[0x3](d+0x274))or d end),(function(r)if o>0x2d then return r end o=o+1 e=(e+0xb9e-r)%0x3b return(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x20);end return true end)'EAtYz'and c[0x2](0xe5+r))or(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x7a);d='\37';t={function()t()end};d=d..'\100\43';end return true end)'myLrt'and c[0x3](r+0x379))or(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x4d);l[f]=oe();f=f+t;end return true end)'RIEdc'and c[0x1](r+0x3b0))or r end),(function(a)if o>0x1e then return a end o=o+1 e=(e+0x117e-a)%0x18 return(e%0x03==0x1 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x3);t[2]=(t[2]*(de(function()l()end,h(d))-de(t[1],h(d))))+1;l[f]={};t=t[2];f=f+t;end return true end)'hlQJR'and c[0x2](0x100+a))or(e%0x03==0x2 and(function(c)if not n[c]then e=e+0x01 n[c]=(0xb9);d={d..'\58 a',d};l[f]=ne();f=f+((not r.rTCCTheV)and 1 or 0);d[1]='\58'..d[1];t[2]=0xff;end return true end)'ZVJMh'and c[0x3](a+0x387))or(e%0x03==0x0 and(function(c)if not n[c]then e=e+0x01 n[c]=(0x4e);end return true end)'DVXdH'and c[0x1](a+0xba))or a end)}c[0x2](0x17e4)end){};local e=y(h(l));l[2]={};l[1]=e(l[1])KaGTbKoYtjvDzkF=nil;e=y(h(l))return e(...);end return ce((function()local n={}local e=0x01;local c;if r.rTCCTheV then c=r.rTCCTheV(ce)else c=''end if r.IRBwgFXn(c,r._cfirPZZ)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,c,d,t,o)local o;if n>3 then if n<6 then if n>3 then repeat if n~=5 then local n=d;local r,l,d=t(2);do return function()local t,o,c,e=e(c,n(n,n),n(n,n)+3);n(4);return(e*r)+(c*l)+(o*d)+t;end;end;break;end;local n=d;do return function()local e=e(c,n(n,n),n(n,n));n(1);return e;end;end;until true;else local n=d;do return function()local e=e(c,n(n,n),n(n,n));n(1);return e;end;end;end else if n<=6 then do return t[c]end;else if 5~=n then repeat if 7<n then do return c(n,nil,c);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,c,t,n)if n then return e[n]elseif t then return e else e[d]=c end end})end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,t,d,c,n)if n then return e[n]elseif c then return e else e[t]=d end end})end end end end else if n<2 then if n>=-3 then for o=44,84 do if 0<n then do return function(c,e,n)if n then local e=(c/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(c%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,t,d,c,e),e(5,t,d,c)end;break;end;else do return e(1),e(4,t,d,c,e),e(5,t,d,c)end;end else if 3~=n then do return 16777216,65536,256 end;else do return e(1),e(4,t,d,c,e),e(5,t,d,c)end;end end end end),...)
+-- // Coded by _notportal Modified by UnstableSolutions
+--[[ 
+Change - Logs
+[+] Added a check to remove duplicates from CoreGui
+[+] Added Custom Drop Shadow
+[+] Enabled RichText for Watermark and Library name so u can use colors
+[+] Removed Shitty resize feature
+]]--
+--
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end 
+
+-- // Coded by _notportal Modified by UnstableSolutions
+--
+for _, child in ipairs(game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui:GetChildren() or game.CoreGui:GetChildren()) do --// Stops Duplicates of the Ui since portal is to slow to add this.
+    if child.Name == "UI" then child:Destroy() end 
+end
+
+
+
+local Library = {};
+do
+	Library = {
+		Open = true;
+		Accent = Color3.fromRGB(117, 153, 230);
+		PageAmount = 0;
+		Pages = {};
+		Sections = {};
+		Flags = {};
+		UnNamedFlags = 0;
+		ThemeObjects = {};
+		Holder = nil;
+		Keys = {
+			[Enum.KeyCode.LeftShift] = "LShift",
+			[Enum.KeyCode.RightShift] = "RShift",
+			[Enum.KeyCode.LeftControl] = "LCtrl",
+			[Enum.KeyCode.RightControl] = "RCtrl",
+			[Enum.KeyCode.LeftAlt] = "LAlt",
+			[Enum.KeyCode.RightAlt] = "RAlt",
+			[Enum.KeyCode.CapsLock] = "Caps",
+			[Enum.KeyCode.One] = "1",
+			[Enum.KeyCode.Two] = "2",
+			[Enum.KeyCode.Three] = "3",
+			[Enum.KeyCode.Four] = "4",
+			[Enum.KeyCode.Five] = "5",
+			[Enum.KeyCode.Six] = "6",
+			[Enum.KeyCode.Seven] = "7",
+			[Enum.KeyCode.Eight] = "8",
+			[Enum.KeyCode.Nine] = "9",
+			[Enum.KeyCode.Zero] = "0",
+			[Enum.KeyCode.KeypadOne] = "Num1",
+			[Enum.KeyCode.KeypadTwo] = "Num2",
+			[Enum.KeyCode.KeypadThree] = "Num3",
+			[Enum.KeyCode.KeypadFour] = "Num4",
+			[Enum.KeyCode.KeypadFive] = "Num5",
+			[Enum.KeyCode.KeypadSix] = "Num6",
+			[Enum.KeyCode.KeypadSeven] = "Num7",
+			[Enum.KeyCode.KeypadEight] = "Num8",
+			[Enum.KeyCode.KeypadNine] = "Num9",
+			[Enum.KeyCode.KeypadZero] = "Num0",
+			[Enum.KeyCode.Minus] = "-",
+			[Enum.KeyCode.Equals] = "=",
+			[Enum.KeyCode.Tilde] = "~",
+			[Enum.KeyCode.LeftBracket] = "[",
+			[Enum.KeyCode.RightBracket] = "]",
+			[Enum.KeyCode.RightParenthesis] = ")",
+			[Enum.KeyCode.LeftParenthesis] = "(",
+			[Enum.KeyCode.Semicolon] = ",",
+			[Enum.KeyCode.Quote] = "'",
+			[Enum.KeyCode.BackSlash] = "\\",
+			[Enum.KeyCode.Comma] = ",",
+			[Enum.KeyCode.Period] = ".",
+			[Enum.KeyCode.Slash] = "/",
+			[Enum.KeyCode.Asterisk] = "*",
+			[Enum.KeyCode.Plus] = "+",
+			[Enum.KeyCode.Period] = ".",
+			[Enum.KeyCode.Backquote] = "`",
+			[Enum.UserInputType.MouseButton1] = "MB1",
+			[Enum.UserInputType.MouseButton2] = "MB2",
+			[Enum.UserInputType.MouseButton3] = "MB3"
+		};
+		Connections = {};
+		UIKey = Enum.KeyCode.End;
+		ScreenGUI = nil;
+		FSize = 12;
+		UIFont = nil;
+		SettingsPage = nil;
+		VisValues = {};
+		Cooldown = false;
+		Friends = {};
+		Priorities = {};
+		KeyList = nil;
+		Notifs = {};
+	}
+
+	-- // Ignores
+	local Flags = {}; -- Ignore
+
+	-- // Extension
+	Library.__index = Library
+	Library.Pages.__index = Library.Pages
+	Library.Sections.__index = Library.Sections
+	local LocalPlayer = game:GetService('Players').LocalPlayer;
+	local Mouse = LocalPlayer:GetMouse();
+	local TweenService = game:GetService("TweenService");
+
+	-- // Misc Functions
+	do
+		function Library:Connection(Signal, Callback)
+			local Con = Signal:Connect(Callback)
+			return Con
+		end
+		--
+		function Library:Disconnect(Connection)
+			Connection:Disconnect()
+		end
+		--
+		function Library:Round(Number, Float)
+			return Float * math.floor(Number / Float)
+		end
+		--
+		function Library.NextFlag()
+			Library.UnNamedFlags = Library.UnNamedFlags + 1
+			return string.format("%.14g", Library.UnNamedFlags)
+		end
+		--
+		function Library:RGBA(r, g, b)
+			local rgb = Color3.fromRGB(r, g, b)
+
+			return rgb
+		end
+		--
+		function Library:GetConfig()
+			local Config = ""
+			for Index, Value in pairs(self.Flags) do
+				if
+					Index ~= "ConfigConfig_List"
+					and Index ~= "ConfigConfig_Load"
+					and Index ~= "ConfigConfig_Save"
+				then
+					local Value2 = Value
+					local Final = ""
+					--
+					if typeof(Value2) == "Color3" then
+						local hue, sat, val = Value2:ToHSV()
+						--
+						Final = ("rgb(%s,%s,%s,%s)"):format(hue, sat, val, 1)
+					elseif typeof(Value2) == "table" and Value2.Color and Value2.Transparency then
+						local hue, sat, val = Value2.Color:ToHSV()
+						--
+						Final = ("rgb(%s,%s,%s,%s)"):format(hue, sat, val, Value2.Transparency)
+					elseif typeof(Value2) == "table" and Value.Mode then
+						local Values = Value.current
+						--
+						Final = ("key(%s,%s,%s)"):format(Values[1] or "nil", Values[2] or "nil", Value.Mode)
+					elseif Value2 ~= nil then
+						if typeof(Value2) == "boolean" then
+							Value2 = ("bool(%s)"):format(tostring(Value2))
+						elseif typeof(Value2) == "table" then
+							local New = "table("
+							--
+							for Index2, Value3 in pairs(Value2) do
+								New = New .. Value3 .. ","
+							end
+							--
+							if New:sub(#New) == "," then
+								New = New:sub(0, #New - 1)
+							end
+							--
+							Value2 = New .. ")"
+						elseif typeof(Value2) == "string" then
+							Value2 = ("string(%s)"):format(Value2)
+						elseif typeof(Value2) == "number" then
+							Value2 = ("number(%s)"):format(Value2)
+						end
+						--
+						Final = Value2
+					end
+					--
+					Config = Config .. Index .. ": " .. tostring(Final) .. "\n"
+				end
+			end
+			--
+			return Config
+		end
+		--
+		function Library:LoadConfig(Config)
+			local Table = string.split(Config, "\n")
+			local Table2 = {}
+			for Index, Value in pairs(Table) do
+				local Table3 = string.split(Value, ":")
+				--
+				if Table3[1] ~= "ConfigConfig_List" and #Table3 >= 2 then
+					local Value = Table3[2]:sub(2, #Table3[2])
+					--
+					if Value:sub(1, 3) == "rgb" then
+						local Table4 = string.split(Value:sub(5, #Value - 1), ",")
+						--
+						Value = Table4
+					elseif Value:sub(1, 3) == "key" then
+						local Table4 = string.split(Value:sub(5, #Value - 1), ",")
+						--
+						if Table4[1] == "nil" and Table4[2] == "nil" then
+							Table4[1] = nil
+							Table4[2] = nil
+						end
+						--
+						Value = Table4
+					elseif Value:sub(1, 4) == "bool" then
+						local Bool = Value:sub(6, #Value - 1)
+						--
+						Value = Bool == "true"
+					elseif Value:sub(1, 5) == "table" then
+						local Table4 = string.split(Value:sub(7, #Value - 1), ",")
+						--
+						Value = Table4
+					elseif Value:sub(1, 6) == "string" then
+						local String = Value:sub(8, #Value - 1)
+						--
+						Value = String
+					elseif Value:sub(1, 6) == "number" then
+						local Number = tonumber(Value:sub(8, #Value - 1))
+						--
+						Value = Number
+					end
+					--
+					Table2[Table3[1]] = Value
+				end
+			end
+			--
+			for i, v in pairs(Table2) do
+				if Flags[i] then
+					if typeof(Flags[i]) == "table" then
+						Flags[i]:Set(v)
+					else
+						Flags[i](v)
+					end
+				end
+			end
+		end
+		--
+		function Library:SetOpen(bool)
+			if typeof(bool) == 'boolean' then
+				Library.Open = bool;
+				Library.Holder.Visible = bool;
+			end
+		end;
+		--
+		function Library:IsMouseOverFrame(Frame)
+			local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize;
+
+			if Mouse.X >= AbsPos.X and Mouse.X <= AbsPos.X + AbsSize.X
+				and Mouse.Y >= AbsPos.Y and Mouse.Y <= AbsPos.Y + AbsSize.Y then
+
+				return true;
+			end;
+		end;
+		--
+		function Library:ChangeAccent(Color)
+			Library.Accent = Color
+
+			for obj, theme in next, Library.ThemeObjects do
+				if theme:IsA("Frame") or theme:IsA("TextButton") then
+					theme.BackgroundColor3 = Color
+				elseif theme:IsA("TextLabel") or theme:IsA("TextBox") then
+					theme.TextColor3 = Color
+				elseif theme:IsA("ImageLabel") or theme:IsA("ImageButton") then
+					theme.ImageColor3 = Color
+				elseif theme:IsA("ScrollingFrame") then
+					theme.ScrollBarImageColor3 = Library.Accent
+				end
+			end
+		end
+	end;
+
+	-- // Colorpicker Element
+	do
+		function Library:NewPicker(name, default, defaultalpha, parent, count, flag, callback)
+			-- // Instances
+			local Icon = Instance.new("TextButton", parent)
+			--
+			Icon.Name = "Icon"
+			Icon.AnchorPoint = Vector2.new(0, 0.5)
+			Icon.BackgroundColor3 = default
+			Icon.BorderColor3 = Color3.fromRGB(50,50,50)
+			Icon.BorderSizePixel = 1
+			if count == 1 then
+				Icon.Position = UDim2.new(1, - (count * 21),0.5,0)
+			else
+				Icon.Position = UDim2.new(1, - (count * 21) - (count * 4),0.5,0)
+			end
+			Icon.Size = UDim2.new(0, 20, 0, 8)
+			Icon.Text = ""
+			Icon.AutoButtonColor = false
+			
+			local Outline4 = Instance.new("Frame")
+			Outline4.Name = "Outline"
+			Outline4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline4.BackgroundTransparency = 1
+			Outline4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline4.BorderSizePixel = 0
+			Outline4.Position = UDim2.new(0, -1, 0, -1)
+			Outline4.Size = UDim2.new(1, 2, 1, 2)
+			Outline4.Parent = Icon
+
+			local UIStroke = Instance.new("UIStroke")
+			UIStroke.Name = "UIStroke"
+			UIStroke.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke.Parent = Outline4
+
+			local ColorWindow = Instance.new("Frame")
+			ColorWindow.Name = "ColorWindow"
+			ColorWindow.AnchorPoint = Vector2.new(0.5, 0.5)
+			ColorWindow.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			ColorWindow.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ColorWindow.Parent = Icon
+			ColorWindow.Position = UDim2.new(1,0,1,2)
+			ColorWindow.AnchorPoint = Vector2.new(1,0)
+			ColorWindow.Size = UDim2.new(0, 170, 0, 150)
+			ColorWindow.ZIndex = 2
+			ColorWindow.Visible = false
+
+			local ColorInline = Instance.new("Frame")
+			ColorInline.Name = "ColorInline"
+			ColorInline.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+			ColorInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ColorInline.BorderSizePixel = 0
+			ColorInline.Position = UDim2.new(0, 1, 0, 1)
+			ColorInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Color = Instance.new("TextButton")
+			Color.Name = "Color"
+			Color.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Color.Text = ""
+			Color.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Color.TextSize = 14
+			Color.AutoButtonColor = false
+			Color.BackgroundColor3 = default
+			Color.BorderColor3 = Color3.fromRGB(50, 50, 50)
+			Color.Position = UDim2.new(0, 6, 0, 6)
+			Color.Size = UDim2.new(1, -30, 1, -12)
+
+			local Sat = Instance.new("ImageLabel")
+			Sat.Name = "Sat"
+			Sat.Image = "http://www.roblox.com/asset/?id=14684562507"
+			Sat.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Sat.BackgroundTransparency = 1
+			Sat.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Sat.BorderSizePixel = 0
+			Sat.Size = UDim2.new(1, 0, 1, 0)
+			Sat.Parent = Color
+
+			local Val = Instance.new("ImageLabel")
+			Val.Name = "Val"
+			Val.Image = "http://www.roblox.com/asset/?id=14684563800"
+			Val.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Val.BackgroundTransparency = 1
+			Val.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Val.BorderSizePixel = 0
+			Val.Size = UDim2.new(1, 0, 1, 0)
+			Val.Parent = Color
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline.BackgroundTransparency = 1
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.BorderSizePixel = 0
+			Outline.Position = UDim2.new(0, -1, 0, -1)
+			Outline.Size = UDim2.new(1, 2, 1, 2)
+
+			local UIStroke = Instance.new("UIStroke")
+			UIStroke.Name = "UIStroke"
+			UIStroke.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke.Parent = Outline
+
+			Outline.Parent = Color
+
+			Color.Parent = ColorInline
+
+			local Hue = Instance.new("ImageButton")
+			Hue.Name = "Hue"
+			Hue.Image = "http://www.roblox.com/asset/?id=14684557999"
+			Hue.AutoButtonColor = false
+			Hue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Hue.BorderColor3 = Color3.fromRGB(50, 50, 50)
+			Hue.Position = UDim2.new(1, -16, 0, 6)
+			Hue.Size = UDim2.new(0, 10, 1, -12)
+
+			local Outline2 = Instance.new("Frame")
+			Outline2.Name = "Outline"
+			Outline2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline2.BackgroundTransparency = 1
+			Outline2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline2.BorderSizePixel = 0
+			Outline2.Position = UDim2.new(0, -1, 0, -1)
+			Outline2.Size = UDim2.new(1, 2, 1, 2)
+
+			local UIStroke3 = Instance.new("UIStroke")
+			UIStroke3.Name = "UIStroke"
+			UIStroke3.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke3.Parent = Outline2
+
+			Outline2.Parent = Hue
+
+			Hue.Parent = ColorInline
+
+			ColorInline.Parent = ColorWindow
+
+			-- // Connections
+			local mouseover = false
+			local hue, sat, val = default:ToHSV()
+			local hsv = default:ToHSV()
+			local alpha = defaultalpha
+			local oldcolor = hsv
+			local slidingsaturation = false
+			local slidinghue = false
+			local slidingalpha = false
+
+			local function update()
+				local real_pos = game:GetService("UserInputService"):GetMouseLocation()
+				local mouse_position = Vector2.new(real_pos.X - 5, real_pos.Y - 30)
+				local relative_palette = (mouse_position - Color.AbsolutePosition)
+				local relative_hue     = (mouse_position - Hue.AbsolutePosition)
+				--
+				if slidingsaturation then
+					sat = math.clamp(1 - relative_palette.X / Color.AbsoluteSize.X, 0, 1)
+					val = math.clamp(1 - relative_palette.Y / Color.AbsoluteSize.Y, 0, 1)
+				elseif slidinghue then
+					hue = math.clamp(relative_hue.Y / Hue.AbsoluteSize.Y, 0, 1)
+				end
+
+				hsv = Color3.fromHSV(hue, sat, val)
+				Color.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+				Icon.BackgroundColor3 = hsv
+
+				if flag then
+					Library.Flags[flag] = Library:RGBA(hsv.r * 255, hsv.g * 255, hsv.b * 255)
+				end
+
+				callback(Library:RGBA(hsv.r * 255, hsv.g * 255, hsv.b * 255))
+			end
+
+			local function set(color, a)
+				if type(color) == "table" then
+					a = color[4]
+					color = Color3.fromHSV(color[1], color[2], color[3])
+				end
+				if type(color) == "string" then
+					color = Color3.fromHex(color)
+				end
+
+				local oldcolor = hsv
+				local oldalpha = alpha
+
+				hue, sat, val = color:ToHSV()
+				alpha = a or 1
+				hsv = Color3.fromHSV(hue, sat, val)
+
+				if hsv ~= oldcolor then
+					Icon.BackgroundColor3 = hsv
+					Color.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+
+					if flag then
+						Library.Flags[flag] = Library:RGBA(hsv.r * 255, hsv.g * 255, hsv.b * 255)
+					end
+
+					callback(Library:RGBA(hsv.r * 255, hsv.g * 255, hsv.b * 255))
+				end
+			end
+
+			Flags[flag] = set
+
+			set(default, defaultalpha)
+
+			Sat.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidingsaturation = true
+					update()
+				end
+			end)
+
+			Sat.InputEnded:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidingsaturation = false
+					update()
+				end
+			end)
+
+			Hue.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidinghue = true
+					update()
+				end
+			end)
+
+			Hue.InputEnded:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidinghue = false
+					update()
+				end
+			end)
+
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement then
+					if slidinghue then
+						update()
+					end
+
+					if slidingsaturation then
+						update()
+					end
+				end
+			end)
+
+			local colorpickertypes = {}
+
+			function colorpickertypes:Set(color, newalpha)
+				set(color, newalpha)
+			end
+
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if ColorWindow.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(ColorWindow) and not Library:IsMouseOverFrame(Icon) and not Library:IsMouseOverFrame(parent) then
+						ColorWindow.Visible = false
+						parent.ZIndex = 1
+					end
+				end
+			end)
+
+			Icon.MouseButton1Down:Connect(function()
+				ColorWindow.Visible = true
+				parent.ZIndex = 5
+
+				if slidinghue then
+					slidinghue = false
+				end
+
+				if slidingsaturation then
+					slidingsaturation = false
+				end
+			end)
+
+			return colorpickertypes, ColorWindow
+		end
+	end
+
+	function Library:NewInstance(Inst, Theme)
+		local Obj = Instance.new(Inst)
+		if Theme then
+			table.insert(Library.ThemeObjects, Obj)
+			if Obj:IsA("Frame") or Obj:IsA("TextButton") then
+				Obj.BackgroundColor3 = Library.Accent;
+				if Obj:IsA("ScrollingFrame") then
+					Obj.ScrollBarImageColor3 = Library.Accent
+				end
+			elseif Obj:IsA("TextLabel") or Obj:IsA("TextBox") then
+				Obj.TextColor3 = Library.Accent;
+			elseif Obj:IsA("ImageLabel") or Obj:IsA("ImageButton") then
+				Obj.ImageColor3 = Library.Accent;
+			elseif Obj:IsA("UIStroke") then
+				Obj.Color = Library.Accent;
+			elseif Obj:IsA("ScrollingFrame") then
+				Obj.ScrollBarImageColor3 = Library.Accent
+			end;
+		end;
+		return Obj;
+	end;
+	
+	function Library:updateNotifsPositions(position)
+		for i, v in pairs(Library.Notifs) do 
+			local Position = Vector2.new(20, 20)
+			game:GetService("TweenService"):Create(v.Container, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Position = UDim2.new(0,Position.X,0,Position.Y + (i * 25))}):Play()
+		end 
+	end
+
+
+	do
+		local Pages = Library.Pages;
+		local Sections = Library.Sections;
+		--
+		function Library:Window(Options)
+			local Window = {
+				Pages = {};
+				Sections = {};
+				Elements = {};
+				PageAmount = Options.Amount or Options.amount or 5;
+				Dragging = { false, UDim2.new(0, 0, 0, 0) };
+				Name = (Options.Name or Options.name or "Name");
+			};
+			--
+			-- Create the ScreenGui and assign it
+local UI = Instance.new("ScreenGui", game:GetService("RunService"):IsStudio() and game.Players.LocalPlayer.PlayerGui or game.CoreGui)
+UI.Name = "UI"
+UI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Library.ScreenGUI = UI
+
+
+local AccentOutline = Library:NewInstance("TextButton", true)
+AccentOutline.Name = "AccentOutline"
+AccentOutline.AnchorPoint = Vector2.new(0, 0)
+AccentOutline.BackgroundColor3 = Library.Accent
+AccentOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+AccentOutline.ClipsDescendants = false
+AccentOutline.Position = UDim2.new(0, 200, 0, 200)
+AccentOutline.Size = UDim2.new(0, 550, 0, 600)
+AccentOutline.ZIndex = 2
+AccentOutline.Text = ""
+AccentOutline.AutoButtonColor = false
+
+-- Create DropShadowHolder (with larger size for shadow)
+local DropShadowHolder = Instance.new("Frame")
+DropShadowHolder.Name = "DropShadowHolder"
+DropShadowHolder.ZIndex = 1  -- Make sure this is below AccentOutline's ZIndex
+DropShadowHolder.BorderSizePixel = 0
+DropShadowHolder.Size = UDim2.new(1, 21, 1, 21)  -- Increase size by 21 pixels (default size)
+DropShadowHolder.Position = UDim2.new(0, -10.5, 0, -10.5)  -- Adjust position to reflect new size
+DropShadowHolder.BackgroundTransparency = 1
+DropShadowHolder.Parent = AccentOutline
+
+-- Create DropShadow image for shadow effect
+local DropShadow = Instance.new("ImageLabel")
+DropShadow.Name = "DropShadow"
+DropShadow.ZIndex = 0  -- Ensure it stays behind the AccentOutline
+DropShadow.BorderSizePixel = 0
+DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+DropShadow.ScaleType = Enum.ScaleType.Slice
+DropShadow.ImageTransparency = 0.1  -- More visible shadow by reducing transparency
+DropShadow.ImageColor3 = Color3.fromRGB(77, 205, 255)  -- Purple color for shadow
+DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+DropShadow.Image = "rbxassetid://6015897843"
+DropShadow.Size = UDim2.new(1, 21 + 0.5, 1, 21 + 0.5)  -- Increase size by 0.5 of a pixel
+DropShadow.BackgroundTransparency = 1
+DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)  -- Keep the shadow centered
+DropShadow.Parent = DropShadowHolder
+
+
+
+
+			local Inline = Instance.new("Frame")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.ClipsDescendants = false
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+			Inline.ZIndex = 2
+
+			local HolderOutline = Instance.new("Frame")
+			HolderOutline.Name = "HolderOutline"
+			HolderOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			HolderOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			HolderOutline.Position = UDim2.new(0, 6, 0, 22)
+			HolderOutline.Size = UDim2.new(1, -12, 1, -28)
+
+			local HolderInline = Instance.new("Frame")
+			HolderInline.Name = "HolderInline"
+			HolderInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			HolderInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			HolderInline.BorderSizePixel = 0
+			HolderInline.Position = UDim2.new(0, 1, 0, 1)
+			HolderInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local PageOutline = Instance.new("Frame")
+			PageOutline.Name = "PageOutline"
+			PageOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			PageOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			PageOutline.Position = UDim2.new(0, 4, 0, 26)
+			PageOutline.Size = UDim2.new(1, -8, 1, -30)
+			PageOutline.ZIndex = 6
+
+			local PageInline = Instance.new("Frame")
+			PageInline.Name = "PageInline"
+			PageInline.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+			PageInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			PageInline.BorderSizePixel = 0
+			PageInline.Position = UDim2.new(0, 1, 0, 1)
+			PageInline.Size = UDim2.new(1, -2, 1, -2)
+			PageInline.Parent = PageOutline
+
+			PageOutline.Parent = HolderInline
+
+			local Tabs = Instance.new("Frame")
+			Tabs.Name = "Tabs"
+			Tabs.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Tabs.BackgroundTransparency = 1
+			Tabs.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Tabs.BorderSizePixel = 0
+			Tabs.Position = UDim2.new(0, 4, 0, 5)
+			Tabs.Size = UDim2.new(1, -8, 0, 20)
+			Tabs.ZIndex = 6
+			
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 8)
+			UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = Tabs
+
+			Tabs.Parent = HolderInline
+
+			HolderInline.Parent = HolderOutline
+
+			HolderOutline.Parent = Inline
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+            Title.RichText = true
+			Title.Text = Window.Name
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Position = UDim2.new(0, 6, 0, 2)
+			Title.Size = UDim2.new(0, 200, 0, 20)
+			Title.Parent = Inline
+			
+			
+			local ImageLabel = Instance.new("ImageLabel")
+			ImageLabel.Name = "ImageLabel"
+			ImageLabel.Image = "rbxassetid://9052792535"
+			ImageLabel.ImageColor3 = Color3.fromRGB(50, 50, 50)
+			ImageLabel.ScaleType = Enum.ScaleType.Tile
+			ImageLabel.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			ImageLabel.BackgroundTransparency = 1
+			ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ImageLabel.BorderSizePixel = 0
+			ImageLabel.Size = UDim2.new(0,14,0,14)
+			ImageLabel.Position = UDim2.new(1, -14, 1, -14)
+			ImageLabel.Parent = Inline
+
+			Inline.Parent = AccentOutline
+
+			AccentOutline.Parent = UI
+
+			-- // Elements
+			Window.Elements = {
+				TabHolder = Tabs,
+				Holder = PageInline,
+				Base = AccentOutline,
+			}
+
+			-- // Dragging
+			Library:Connection(AccentOutline.MouseButton1Down, function()
+				local Location = game:GetService("UserInputService"):GetMouseLocation()
+				Window.Dragging[1] = true
+				Window.Dragging[2] = UDim2.new(0, Location.X - AccentOutline.AbsolutePosition.X, 0, Location.Y - AccentOutline.AbsolutePosition.Y)
+			end)
+			Library:Connection(game:GetService("UserInputService").InputEnded, function(Input)
+				if Input.UserInputType == Enum.UserInputType.MouseButton1 and Window.Dragging[1] then
+					local Location = game:GetService("UserInputService"):GetMouseLocation()
+					Window.Dragging[1] = false
+					Window.Dragging[2] = UDim2.new(0, 0, 0, 0)
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(Input)
+				local Location = game:GetService("UserInputService"):GetMouseLocation()
+				local ActualLocation = nil
+
+				-- Dragging
+				if Window.Dragging[1] then
+					AccentOutline.Position = UDim2.new(
+						0,
+						Location.X - Window.Dragging[2].X.Offset + (AccentOutline.Size.X.Offset * AccentOutline.AnchorPoint.X),
+						0,
+						Location.Y - Window.Dragging[2].Y.Offset + (AccentOutline.Size.Y.Offset * AccentOutline.AnchorPoint.Y)
+					)
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if Input.KeyCode == Library.UIKey then
+					Library:SetOpen(not Library.Open)
+				end
+			end)
+
+			-- // Functions
+			function Window:UpdateTabs()
+				for Index, Page in pairs(Window.Pages) do
+					Page:Turn(Page.Open)
+				end
+			end
+
+			-- // Returns
+			Library.Holder = AccentOutline
+			Library.PageAmount = Window.PageAmount;
+			return setmetatable(Window, Library)
+		end;
+		--
+		function Library:Page(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Page = {
+				Name = Properties.Name or Properties.name or "Page",
+				Window = self,
+				Open = false,
+				Sections = {},
+				Pages = {},
+				Elements = {},
+				Weapons = {},
+				Size = Properties.Size or 65,
+				Icons = Properties.Weapons or Properties.weapons or false,
+			}
+			--
+			local NewButton = Instance.new("TextButton")
+			NewButton.Name = "NewButton"
+			NewButton.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewButton.Text = ""
+			NewButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewButton.TextSize = 14
+			NewButton.AutoButtonColor = false
+			NewButton.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			NewButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewButton.Size = UDim2.new(0, Page.Window.PageAmount and ((((Page.Window.Elements.Base.Size.X.Offset - 35) - ((Page.Window.PageAmount - 1) * 2)) / Page.Window.PageAmount)) - 3 or Page.Size, 1, 0);
+
+			local ButtonInline = Instance.new("Frame")
+			ButtonInline.Name = "ButtonInline"
+			ButtonInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			ButtonInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ButtonInline.BorderSizePixel = 0
+			ButtonInline.Position = UDim2.new(0, 1, 0, 1)
+			ButtonInline.Size = UDim2.new(1, -2, 1, -2)
+			ButtonInline.ZIndex = 5
+
+			local Accent = Library:NewInstance("Frame", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(1, 0, 0, 1)
+			Accent.Parent = ButtonInline
+			Accent.Visible = false
+
+			local PageName = Instance.new("TextLabel")
+			PageName.Name = "PageName"
+			PageName.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			PageName.TextColor3 = Color3.fromRGB(145,145,145)
+			PageName.TextSize = 12
+			PageName.Text = Page.Name
+			PageName.TextStrokeTransparency = 0
+			PageName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			PageName.BackgroundTransparency = 1
+			PageName.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			PageName.Position = UDim2.new(0,0,0,1)
+			PageName.BorderSizePixel = 0
+			PageName.Size = UDim2.new(1, 0, 1, 0)
+			PageName.Parent = ButtonInline
+
+			local UIGradient = Instance.new("UIGradient")
+			UIGradient.Name = "UIGradient"
+			UIGradient.Parent = ButtonInline
+
+			ButtonInline.Parent = NewButton
+
+			local Line = Instance.new("Frame")
+			Line.Name = "Line"
+			Line.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+			Line.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Line.BorderSizePixel = 0
+			Line.Position = UDim2.new(0, 1, 1, -2)
+			Line.Size = UDim2.new(1, -2, 0, 3)
+			Line.ZIndex = 7
+
+			local Frame = Instance.new("Frame")
+			Frame.Name = "Frame"
+			Frame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Frame.BorderSizePixel = 0
+			Frame.Position = UDim2.new(1, 0, 0, 0)
+			Frame.Size = UDim2.new(0, 1, 1, 0)
+			Frame.Parent = Line
+
+			local Frame1 = Instance.new("Frame")
+			Frame1.Name = "Frame"
+			Frame1.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Frame1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Frame1.BorderSizePixel = 0
+			Frame1.Position = UDim2.new(0, -1, 0, 0)
+			Frame1.Size = UDim2.new(0, 1, 1, 0)
+			Frame1.Parent = Line
+
+			Line.Parent = NewButton
+
+			NewButton.Parent = Page.Window.Elements.TabHolder
+			
+			local NewPage = Instance.new("Frame")
+			NewPage.Name = "NewPage"
+			NewPage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewPage.BackgroundTransparency = 1
+			NewPage.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewPage.BorderSizePixel = 0
+			NewPage.Position = UDim2.new(0, 6, 0, 6)
+			NewPage.Size = UDim2.new(1, -12, 1, -12)
+			NewPage.Visible = false
+			NewPage.Parent = Page.Window.Elements.Holder
+
+			local Left = Instance.new("Frame")
+			Left.Name = "Left"
+			Left.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Left.BackgroundTransparency = 1
+			Left.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Left.BorderSizePixel = 0
+			Left.Size = UDim2.new(0.5, -4, 1, 0)
+			Left.ZIndex = 2
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 6)
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = Left
+
+			Left.Parent = NewPage
+
+			local Right = Instance.new("Frame")
+			Right.Name = "Right"
+			Right.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Right.BackgroundTransparency = 1
+			Right.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Right.BorderSizePixel = 0
+			Right.Position = UDim2.new(0.5, 4, 0, 0)
+			Right.Size = UDim2.new(0.5, -4, 1, 0)
+
+			local UIListLayout1 = Instance.new("UIListLayout")
+			UIListLayout1.Name = "UIListLayout"
+			UIListLayout1.Padding = UDim.new(0, 6)
+			UIListLayout1.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout1.Parent = Right
+
+			Right.Parent = NewPage
+			
+			local Weapons = Instance.new("Frame")
+			Weapons.Name = "Weapons"
+			Weapons.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Weapons.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Weapons.Position = UDim2.new(0, 6, 0, 6)
+			Weapons.Size = UDim2.new(1, -12, 0, 50)
+			Weapons.Visible = false
+			Weapons.Parent = Page.Window.Elements.Holder
+
+			local WeaponInline = Instance.new("Frame")
+			WeaponInline.Name = "WeaponInline"
+			WeaponInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			WeaponInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			WeaponInline.BorderSizePixel = 0
+			WeaponInline.Position = UDim2.new(0, 1, 0, 1)
+			WeaponInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local WAccent = Library:NewInstance("Frame", true)
+			WAccent.Name = "WAccent"
+			WAccent.BackgroundColor3 = Library.Accent
+			WAccent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			WAccent.BorderSizePixel = 0
+			WAccent.Size = UDim2.new(1, 0, 0, 1)
+			WAccent.Parent = WeaponInline
+
+			local Holder = Instance.new("Frame")
+			Holder.Name = "Holder"
+			Holder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Holder.BackgroundTransparency = 1
+			Holder.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Holder.BorderSizePixel = 0
+			Holder.Position = UDim2.new(0, 0, 0, 2)
+			Holder.Size = UDim2.new(1, 0, 1, -2)
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = Holder
+
+			Holder.Parent = WeaponInline
+
+			WeaponInline.Parent = Weapons
+
+			function Page:Turn(bool)
+				Page.Open = bool
+				if not Page.Icons then
+					NewPage.Visible = Page.Open
+				else
+					Weapons.Visible = Page.Open
+					for Index, Weapon in pairs(Page.Weapons) do
+						Weapon:Turn(Weapon.Open)
+					end
+				end
+				ButtonInline.BackgroundColor3 = Page.Open and Color3.fromRGB(30, 30, 30) or Color3.fromRGB(20, 20, 20)
+				PageName.TextColor3 = Page.Open and Color3.fromRGB(255, 255, 255) or Color3.fromRGB(145,145,145)
+				Line.Size = Page.Open and UDim2.new(1, -2, 0, 4) or UDim2.new(1, -2, 0, 3)
+				Line.BackgroundColor3 = Page.Open and Color3.fromRGB(30, 30, 30) or Color3.fromRGB(20, 20, 20)
+				Accent.Visible = Page.Open
+			end
+			--
+			Library:Connection(NewButton.MouseButton1Down, function()
+				if not Page.Open then
+					for _, Pages in pairs(Page.Window.Pages) do
+						if Pages.Open and Pages ~= Page then
+							Pages:Turn(false)
+						end
+					end
+					Page:Turn(true)
+				end
+			end)
+			
+			function Page:UpdateWeapons()
+				for Index, Weapon in pairs(Page.Weapons) do
+					Weapon.Elements.Button.Size = UDim2.new(1/#Page.Weapons,0,1,0)
+					Weapon:Turn(Weapon.Open)
+				end
+			end
+
+			-- // Elements
+			Page.Elements = {
+				Left = Page.Icons and nil or Left,
+				Right = Page.Icons and nil or Right,
+				Main = NewPage,
+				Button = NewButton,
+				WeaponOutline = Weapons,
+				WeaponInline = Holder,
+			}
+
+			-- // Drawings
+			if #Page.Window.Pages == 0 then
+				Page:Turn(true)
+			end
+			Page.Window.Pages[#Page.Window.Pages + 1] = Page
+			Library.Pages[#Library.Pages + 1] = Page
+			Page.Window:UpdateTabs()
+			return setmetatable(Page, Library.Pages)
+		end
+		--
+		function Library:Watermark(Properties)
+			local Watermark = {
+				Name = (Properties.Name or Properties.name or "watermark text | placeholder");
+			}
+			--
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.AutomaticSize = Enum.AutomaticSize.X
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0.01, 0,0.02, 0)
+			Outline.Size = UDim2.new(0, 0, 0, 16)
+			Outline.Visible = false
+			Outline.Parent = Library.ScreenGUI
+
+			local Inline = Instance.new("Frame")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+            Value.RichText = true
+			Value.Text = Watermark.Name
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.TextXAlignment = Enum.TextXAlignment.Left
+			Value.AutomaticSize = Enum.AutomaticSize.X
+			Value.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Size = UDim2.new(0, 0, 1, 0)
+
+			local UIPadding = Instance.new("UIPadding")
+			UIPadding.Name = "UIPadding"
+			UIPadding.PaddingLeft = UDim.new(0, 5)
+			UIPadding.PaddingRight = UDim.new(0, 5)
+			UIPadding.Parent = Value
+
+			Value.Parent = Inline
+
+			Inline.Parent = Outline
+
+			local Accent = Library:NewInstance("Frame", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(1, 0, 0, 1)
+			Accent.Parent = Outline
+			
+			-- // Functions
+			function Watermark:UpdateText(NewText)
+				Value.Text = NewText;
+			end;
+			function Watermark:SetVisible(State)
+				Outline.Visible = State;
+			end;
+			
+			return Watermark
+		end
+		--
+		function Pages:Weapon(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Weapon = {
+				Icon = Properties.Icon or Properties.icon or "rbxassetid://6034281935",
+				Page = self,
+				Open = false,
+				Sections = {},
+				Elements = {},
+			}
+			--
+			--Weapon.Window.Elements.WeaponOutline.Visible = true
+
+			local NewWeapon = Instance.new("ImageButton")
+			NewWeapon.Name = "NewWeapon"
+			NewWeapon.Image = Weapon.Icon
+			NewWeapon.ImageColor3 = Color3.fromRGB(145, 145, 145)
+			NewWeapon.ScaleType = Enum.ScaleType.Fit
+			NewWeapon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewWeapon.BackgroundTransparency = 1
+			NewWeapon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewWeapon.BorderSizePixel = 0
+			NewWeapon.Size = UDim2.new(0.5, 0, 1, 0)
+			NewWeapon.Parent = Weapon.Page.Elements.WeaponInline
+			
+			local NewPage = Instance.new("Frame")
+			NewPage.Name = "NewPage"
+			NewPage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewPage.BackgroundTransparency = 1
+			NewPage.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewPage.BorderSizePixel = 0
+			NewPage.Position = UDim2.new(0, 6, 0, 66)
+			NewPage.Size = UDim2.new(1, -12, 1, -72)
+			NewPage.Visible = false
+			NewPage.Parent = Weapon.Page.Window.Elements.Holder
+
+			local Left = Instance.new("Frame")
+			Left.Name = "Left"
+			Left.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Left.BackgroundTransparency = 1
+			Left.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Left.BorderSizePixel = 0
+			Left.Size = UDim2.new(0.5, -4, 1, 0)
+			Left.ZIndex = 2
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 6)
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = Left
+
+			Left.Parent = NewPage
+
+			local Right = Instance.new("Frame")
+			Right.Name = "Right"
+			Right.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Right.BackgroundTransparency = 1
+			Right.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Right.BorderSizePixel = 0
+			Right.Position = UDim2.new(0.5, 4, 0, 0)
+			Right.Size = UDim2.new(0.5, -4, 1, 0)
+
+			local UIListLayout1 = Instance.new("UIListLayout")
+			UIListLayout1.Name = "UIListLayout"
+			UIListLayout1.Padding = UDim.new(0, 6)
+			UIListLayout1.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout1.Parent = Right
+
+			Right.Parent = NewPage
+
+			function Weapon:Turn(bool)
+				Weapon.Open = bool
+				NewPage.Visible = Weapon.Open and Weapon.Page.Open
+				NewWeapon.ImageColor3 = Weapon.Open and Color3.new(1,1,1) or Color3.fromRGB(145,145,145)
+			end
+			--
+			Library:Connection(NewWeapon.MouseButton1Down, function()
+				if not Weapon.Open then
+					Weapon:Turn(true)
+					for _, Weapons in pairs(Weapon.Page.Weapons) do
+						if Weapons.Open and Weapons ~= Weapon then
+							Weapons:Turn(false)
+						end
+					end
+				end
+			end)
+			--
+
+			-- // Elements
+			Weapon.Elements = {
+				Left = Left,
+				Right = Right,
+				Button = NewWeapon,
+				Main = NewPage
+			}
+
+			-- // Drawings
+			if #Weapon.Page.Weapons == 0 then
+				Weapon:Turn(true)
+			end
+			Weapon.Page.Weapons[#Weapon.Page.Weapons + 1] = Weapon
+			Weapon.Page:UpdateWeapons()
+			return setmetatable(Weapon, Library.Pages)
+		end
+		--
+		function Pages:Section(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Section = {
+				Name = Properties.Name or "Section",
+				Page = self,
+				Side = (Properties.side or Properties.Side or "left"):lower(),
+				Zindex = (Properties.Zindex or Properties.zindex or 1),
+				Elements = {},
+				Content = {},
+				Sections = {},
+			}
+			--
+			local SectionOutline = Instance.new("Frame")
+			SectionOutline.Name = "SectionOutline"
+			SectionOutline.AutomaticSize = Enum.AutomaticSize.Y
+			SectionOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			SectionOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SectionOutline.Size = UDim2.new(1, 0, 0, 20)
+			SectionOutline.Parent = Section.Side == "left" and Section.Page.Elements.Left or Section.Side == "right" and Section.Page.Elements.Right
+			SectionOutline.ZIndex = 10 - #Section.Page.Sections
+
+			local SectionInline = Instance.new("Frame")
+			SectionInline.Name = "SectionInline"
+			SectionInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			SectionInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SectionInline.BorderSizePixel = 0
+			SectionInline.Position = UDim2.new(0, 1, 0, 1)
+			SectionInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Accent = Library:NewInstance("Frame", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(1, 0, 0, 1)
+			Accent.Parent = SectionInline
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.Text = Section.Name
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Position = UDim2.new(0, 5, 0, 1)
+			Title.Size = UDim2.new(0, 200, 0, 20)
+			Title.Parent = SectionInline
+
+			local SectionContent = Instance.new("Frame")
+			SectionContent.Name = "SectionContent"
+			SectionContent.AutomaticSize = Enum.AutomaticSize.Y
+			SectionContent.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			SectionContent.BackgroundTransparency = 1
+			SectionContent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SectionContent.BorderSizePixel = 0
+			SectionContent.Position = UDim2.new(0, 4, 0, 25)
+			SectionContent.Size = UDim2.new(1, -8, 0, 0)
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 10)
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = SectionContent
+
+			local UIPadding = Instance.new("UIPadding")
+			UIPadding.Name = "UIPadding"
+			UIPadding.PaddingBottom = UDim.new(0, 6)
+			UIPadding.Parent = SectionContent
+
+			SectionContent.Parent = SectionInline
+
+			SectionInline.Parent = SectionOutline
+
+			-- // Elements
+			Section.Elements = {
+				SectionContent = SectionContent;
+			}
+
+			-- // Returning
+			Section.Page.Sections[#Section.Page.Sections + 1] = Section
+			return setmetatable(Section, Library.Sections)
+		end
+		--
+		function Sections:Toggle(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Toggle = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Risk = Properties.Risk or false,
+				Name = Properties.Name or "Toggle",
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or false
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Toggled = false,
+				Colorpickers = 0,
+			}
+			--
+			local NewToggle = Instance.new("TextButton")
+			NewToggle.Name = "NewToggle"
+			NewToggle.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewToggle.Text = ""
+			NewToggle.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewToggle.TextSize = 14
+			NewToggle.AutoButtonColor = false
+			NewToggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewToggle.BackgroundTransparency = 1
+			NewToggle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewToggle.BorderSizePixel = 0
+			NewToggle.Size = UDim2.new(1, 0, 0, 10)
+			NewToggle.Parent = Toggle.Section.Elements.SectionContent
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Size = UDim2.new(0, 10, 0, 10)
+
+			local Inline = Instance.new("Frame")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Accent = Library:NewInstance("Frame", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(1, 0, 1, 0)
+			Accent.Parent = Inline
+			Accent.Visible = false
+
+			Inline.Parent = Outline
+
+			Outline.Parent = NewToggle
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Position = UDim2.new(0, 16, 0, 0)
+			Title.Size = UDim2.new(1, 0, 1, 0)
+			Title.Parent = NewToggle
+			Title.Text = Toggle.Name
+
+			-- // Functions
+			local function SetState()
+				Toggle.Toggled = not Toggle.Toggled
+				Accent.Visible = Toggle.Toggled
+				Library.Flags[Toggle.Flag] = Toggle.Toggled
+				Toggle.Callback(Toggle.Toggled)
+			end
+			--
+			Library:Connection(NewToggle.MouseButton1Down, SetState)
+
+			function Toggle:Keybind(Properties)
+				local Properties = Properties or {}
+				local Keybind = {
+					Section = self,
+					Name = Properties.name or Properties.Name or "Keybind",
+					State = (
+						Properties.state
+							or Properties.State
+							or Properties.def
+							or Properties.Def
+							or Properties.default
+							or Properties.Default
+							or nil
+					),
+					Mode = (Properties.mode or Properties.Mode or "Toggle"),
+					UseKey = (Properties.UseKey or false),
+					Ignore = (Properties.ignore or Properties.Ignore or false),
+					Callback = (
+						Properties.callback
+							or Properties.Callback
+							or Properties.callBack
+							or Properties.CallBack
+							or function() end
+					),
+					Flag = (
+						Properties.flag
+							or Properties.Flag
+							or Properties.pointer
+							or Properties.Pointer
+							or Library.NextFlag()
+					),
+					Binding = nil,
+				}
+				local Key
+				local State = false
+				--
+				local ModeBox = Instance.new("Frame")
+				local Hold = Instance.new("TextButton")
+				local Toggle = Instance.new("TextButton")
+				local Always = Instance.new("TextButton")
+				--
+				local kOutline = Instance.new("Frame")
+				kOutline.Name = "Outline"
+				kOutline.AnchorPoint = Vector2.new(0, 0.5)
+				kOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+				kOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				kOutline.Position = UDim2.new(1, -35, 0.5, 0)
+				kOutline.Size = UDim2.new(0, 35, 0, 12)
+
+				local KInline = Instance.new("TextButton")
+				KInline.Name = "Inline"
+				KInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+				KInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				KInline.BorderSizePixel = 0
+				KInline.Position = UDim2.new(0, 1, 0, 1)
+				KInline.Size = UDim2.new(1, -2, 1, -2)
+				KInline.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+				KInline.Text = ""
+				KInline.TextColor3 = Color3.fromRGB(0, 0, 0)
+				KInline.TextSize = 14
+				KInline.AutoButtonColor = false
+
+				local Value = Instance.new("TextLabel")
+				Value.Name = "Value"
+				Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				Value.Text = "MB2"
+				Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+				Value.TextSize = 12
+				Value.TextStrokeTransparency = 0
+				Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Value.BackgroundTransparency = 1
+				Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Value.BorderSizePixel = 0
+				Value.Size = UDim2.new(1, 0, 1, 0)
+				Value.Parent = KInline
+
+				KInline.Parent = kOutline
+
+				kOutline.Parent = NewToggle
+
+				ModeBox.Name = "ModeBox"
+				ModeBox.Parent = kOutline
+				ModeBox.AnchorPoint = Vector2.new(0,0.5)
+				ModeBox.BackgroundColor3 = Color3.fromRGB(25,25,25)
+				ModeBox.BorderColor3 = Color3.fromRGB(50,50,50)
+				ModeBox.BorderSizePixel = 1
+				ModeBox.Size = UDim2.new(0, 65, 0, 60)
+				ModeBox.Position = UDim2.new(0,40,0.5,0)
+				ModeBox.Visible = false
+
+				local Outline4 = Instance.new("Frame")
+				Outline4.Name = "Outline"
+				Outline4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Outline4.BackgroundTransparency = 1
+				Outline4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Outline4.BorderSizePixel = 0
+				Outline4.Position = UDim2.new(0, -1, 0, -1)
+				Outline4.Size = UDim2.new(1, 2, 1, 2)
+				Outline4.Parent = ModeBox
+
+				local UIStroke = Instance.new("UIStroke")
+				UIStroke.Name = "UIStroke"
+				UIStroke.LineJoinMode = Enum.LineJoinMode.Miter
+				UIStroke.Parent = Outline4
+
+				Hold.Name = "Hold"
+				Hold.Parent = ModeBox
+				Hold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Hold.BackgroundTransparency = 1.000
+				Hold.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Hold.BorderSizePixel = 0
+				Hold.Size = UDim2.new(1, 0, 0.333000004, 0)
+				Hold.ZIndex = 2
+				Hold.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				Hold.Text = "Hold"
+				Hold.TextColor3 = Keybind.Mode == "Hold" and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+				Hold.TextSize = Library.FSize
+				Hold.TextStrokeTransparency = 0
+
+				Toggle.Name = "Toggle"
+				Toggle.Parent = ModeBox
+				Toggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Toggle.BackgroundTransparency = 1.000
+				Toggle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Toggle.BorderSizePixel = 0
+				Toggle.Position = UDim2.new(0, 0, 0.333000004, 0)
+				Toggle.Size = UDim2.new(1, 0, 0.333000004, 0)
+				Toggle.ZIndex = 2
+				Toggle.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				Toggle.Text = "Toggle"
+				Toggle.TextColor3 = Keybind.Mode == "Toggle" and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+				Toggle.TextSize = Library.FSize
+				Toggle.TextStrokeTransparency = 0
+
+				Always.Name = "Always"
+				Always.Parent = ModeBox
+				Always.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Always.BackgroundTransparency = 1.000
+				Always.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Always.BorderSizePixel = 0
+				Always.Position = UDim2.new(0, 0, 0.666999996, 0)
+				Always.Size = UDim2.new(1, 0, 0.333000004, 0)
+				Always.ZIndex = 2
+				Always.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				Always.Text = "Always"
+				Always.TextColor3 = Keybind.Mode == "Always" and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+				Always.TextSize = Library.FSize
+				Always.TextStrokeTransparency = 0
+
+				-- // Functions
+				local function set(newkey)
+					if string.find(tostring(newkey), "Enum") then
+						if c then
+							c:Disconnect()
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = false
+							end
+							Keybind.Callback(false)
+						end
+						if tostring(newkey):find("Enum.KeyCode.") then
+							newkey = Enum.KeyCode[tostring(newkey):gsub("Enum.KeyCode.", "")]
+						elseif tostring(newkey):find("Enum.UserInputType.") then
+							newkey = Enum.UserInputType[tostring(newkey):gsub("Enum.UserInputType.", "")]
+						end
+						if newkey == Enum.KeyCode.Backspace then
+							Key = nil
+							if Keybind.UseKey then
+								if Keybind.Flag then
+									Library.Flags[Keybind.Flag] = Key
+								end
+								Keybind.Callback(Key)
+							end
+							local text = "None"
+
+							Value.Text = text
+						elseif newkey ~= nil then
+							Key = newkey
+							if Keybind.UseKey then
+								if Keybind.Flag then
+									Library.Flags[Keybind.Flag] = Key
+								end
+								Keybind.Callback(Key)
+							end
+							local text = (Library.Keys[newkey] or tostring(newkey):gsub("Enum.KeyCode.", ""))
+
+							Value.Text = text
+						end
+
+						Library.Flags[Keybind.Flag .. "_KEY"] = newkey
+					elseif table.find({ "Always", "Toggle", "Hold" }, newkey) then
+						if not Keybind.UseKey then
+							Library.Flags[Keybind.Flag .. "_KEY STATE"] = newkey
+							Keybind.Mode = newkey
+							if Keybind.Mode == "Always" then
+								State = true
+								if Keybind.Flag then
+									Library.Flags[Keybind.Flag] = State
+								end
+								Keybind.Callback(true)
+							end
+						end
+					else
+						State = newkey
+						if Keybind.Flag then
+							Library.Flags[Keybind.Flag] = newkey
+						end
+						Keybind.Callback(newkey)
+					end
+				end
+				--
+				set(Keybind.State)
+				set(Keybind.Mode)
+				KInline.MouseButton1Click:Connect(function()
+					if not Keybind.Binding then
+
+						Value.Text = "..."
+
+						Keybind.Binding = Library:Connection(
+							game:GetService("UserInputService").InputBegan,
+							function(input, gpe)
+								set(
+									input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode
+										or input.UserInputType
+								)
+								Library:Disconnect(Keybind.Binding)
+								task.wait()
+								Keybind.Binding = nil
+							end
+						)
+					end
+				end)
+				--
+				Library:Connection(game:GetService("UserInputService").InputBegan, function(inp)
+					if (inp.KeyCode == Key or inp.UserInputType == Key) and not Keybind.Binding and not Keybind.UseKey then
+						if Keybind.Mode == "Hold" then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = true
+							end
+							c = Library:Connection(game:GetService("RunService").RenderStepped, function()
+								if Keybind.Callback then
+									Keybind.Callback(true)
+								end
+							end)
+						elseif Keybind.Mode == "Toggle" then
+							State = not State
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = State
+							end
+							Keybind.Callback(State)
+						end
+					end
+				end)
+				--
+				Library:Connection(game:GetService("UserInputService").InputEnded, function(inp)
+					if Keybind.Mode == "Hold" and not Keybind.UseKey then
+						if Key ~= "" or Key ~= nil then
+							if inp.KeyCode == Key or inp.UserInputType == Key then
+								if c then
+									c:Disconnect()
+									if Keybind.Flag then
+										Library.Flags[Keybind.Flag] = false
+									end
+									if Keybind.Callback then
+										Keybind.Callback(false)
+									end
+								end
+							end
+						end
+					end
+				end)
+				--
+				Library:Connection(KInline.MouseButton2Down, function()
+					ModeBox.Visible = true
+					NewToggle.ZIndex = 5
+				end)
+				--
+				Library:Connection(Hold.MouseButton1Down, function()
+					set("Hold")
+					Hold.TextColor3 = Color3.fromRGB(255,255,255)
+					Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+					Always.TextColor3 = Color3.fromRGB(145,145,145)
+					ModeBox.Visible = false
+					NewToggle.ZIndex = 1
+				end)
+				--
+				Library:Connection(Toggle.MouseButton1Down, function()
+					set("Toggle")
+					Hold.TextColor3 = Color3.fromRGB(145,145,145)
+					Toggle.TextColor3 = Color3.fromRGB(255,255,255)
+					Always.TextColor3 = Color3.fromRGB(145,145,145)
+					ModeBox.Visible = false
+					NewToggle.ZIndex = 1
+				end)
+				--
+				Library:Connection(Always.MouseButton1Down, function()
+					set("Always")
+					Hold.TextColor3 = Color3.fromRGB(145,145,145)
+					Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+					Always.TextColor3 = Color3.fromRGB(255,255,255)
+					ModeBox.Visible = false
+					NewToggle.ZIndex = 1
+				end)
+				--
+				Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+					if ModeBox.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if not Library:IsMouseOverFrame(ModeBox) then
+							ModeBox.Visible = false
+							NewToggle.ZIndex = 1
+						end
+					end
+				end)
+				--
+				Library.Flags[Keybind.Flag .. "_KEY"] = Keybind.State
+				Library.Flags[Keybind.Flag .. "_KEY STATE"] = Keybind.Mode
+				Flags[Keybind.Flag] = set
+				Flags[Keybind.Flag .. "_KEY"] = set
+				Flags[Keybind.Flag .. "_KEY STATE"] = set
+				--
+				function Keybind:Set(key)
+					set(key)
+				end
+
+				-- // Returning
+				return Keybind
+			end
+
+			function Toggle:Colorpicker(Properties)
+				local Properties = Properties or {}
+				local Colorpicker = {
+					State = (
+						Properties.state
+							or Properties.State
+							or Properties.def
+							or Properties.Def
+							or Properties.default
+							or Properties.Default
+							or Color3.fromRGB(255, 0, 0)
+					),
+					Alpha = (
+						Properties.alpha
+							or Properties.Alpha
+							or Properties.transparency
+							or Properties.Transparency
+							or 1
+					),
+					Callback = (
+						Properties.callback
+							or Properties.Callback
+							or Properties.callBack
+							or Properties.CallBack
+							or function() end
+					),
+					Flag = (
+						Properties.flag
+							or Properties.Flag
+							or Properties.pointer
+							or Properties.Pointer
+							or Library.NextFlag()
+					),
+				}
+				-- // Functions
+				Toggle.Colorpickers = Toggle.Colorpickers + 1
+				local colorpickertypes = Library:NewPicker(
+					"",
+					Colorpicker.State,
+					Colorpicker.Alpha,
+					NewToggle,
+					Toggle.Colorpickers,
+					Colorpicker.Flag,
+					Colorpicker.Callback
+				)
+
+				function Colorpicker:Set(color)
+					colorpickertypes:set(color)
+				end
+
+				-- // Returning
+				return Colorpicker
+			end
+
+			-- // Misc Functions
+			function Toggle.Set(bool)
+				bool = type(bool) == "boolean" and bool or false
+				if Toggle.Toggled ~= bool then
+					SetState()
+				end
+			end
+			Toggle.Set(Toggle.State)
+			Library.Flags[Toggle.Flag] = Toggle.State
+			Flags[Toggle.Flag] = Toggle.Set
+
+			-- // Returning
+			return Toggle
+		end
+		--
+		function Sections:Slider(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Slider = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or nil,
+				Min = (Properties.min or Properties.Min or Properties.minimum or Properties.Minimum or 0),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or 10
+				),
+				Max = (Properties.max or Properties.Max or Properties.maximum or Properties.Maximum or 100),
+				Sub = (
+					Properties.suffix
+						or Properties.Suffix
+						or Properties.ending
+						or Properties.Ending
+						or Properties.prefix
+						or Properties.Prefix
+						or Properties.measurement
+						or Properties.Measurement
+						or ""
+				),
+				Decimals = (Properties.decimals or Properties.Decimals or 1),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Disabled = (Properties.Disabled or Properties.disable or nil),
+			}
+			local TextValue = ("[value]" .. Slider.Sub)
+			--
+			local NewSlider = Instance.new("Frame")
+			NewSlider.Name = "NewSlider"
+			NewSlider.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewSlider.BackgroundTransparency = 1
+			NewSlider.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewSlider.BorderSizePixel = 0
+			NewSlider.Size = UDim2.new(1, 0, 0, Slider.Name ~= nil and 26 or 12)
+			NewSlider.Parent = Slider.Section.Elements.SectionContent
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0, 0, 1, -12)
+			Outline.Size = UDim2.new(1, 0, 0, 12)
+
+			local Inline = Instance.new("TextButton")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+			Inline.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Inline.Text = ""
+			Inline.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.TextSize = 14
+			Inline.AutoButtonColor = false
+
+			local Accent = Library:NewInstance("TextButton", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(0, 0, 1, 0)
+			Accent.Parent = Inline
+			Accent.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Accent.Text = ""
+			Accent.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.TextSize = 14
+			Accent.AutoButtonColor = false
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = "0"
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Size = UDim2.new(1, 0, 1, 0)
+			Value.Parent = Inline
+
+			Inline.Parent = Outline
+
+			Outline.Parent = NewSlider
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Size = UDim2.new(1, 0, 0, 10)
+			Title.Parent = NewSlider
+			Title.Text = Slider.Name ~= nil and Slider.Name or ""
+			Title.Visible = Slider.Name ~= nil and true or false
+
+			-- // Functions
+			local Sliding = false
+			local Val = Slider.State
+			local function Set(value)
+				value = math.clamp(Library:Round(value, Slider.Decimals), Slider.Min, Slider.Max)
+
+				local sizeX = ((value - Slider.Min) / (Slider.Max - Slider.Min))
+				Accent.Size = UDim2.new(sizeX, 0, 1, 0)
+				if Slider.Disabled and value == Slider.Min then
+					Value.Text = Slider.Disabled
+				else
+					Value.Text = TextValue:gsub("%[value%]", string.format("%.14g", value))
+				end
+				Val = value
+
+				Library.Flags[Slider.Flag] = value
+				Slider.Callback(value)
+			end				
+			--
+			local function ISlide(input)
+				local sizeX = (input.Position.X - Inline.AbsolutePosition.X) / Inline.AbsoluteSize.X
+				local value = ((Slider.Max - Slider.Min) * sizeX) + Slider.Min
+				Set(value)
+			end
+			--
+			Library:Connection(Inline.InputBegan, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = true
+					ISlide(input)
+				end
+			end)
+			Library:Connection(Inline.InputEnded, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = false
+				end
+			end)
+			Library:Connection(Accent.InputBegan, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = true
+					ISlide(input)
+				end
+			end)
+			Library:Connection(Accent.InputEnded, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = false
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement then
+					if Sliding then
+						ISlide(input)
+					end
+				end
+			end)
+			--
+			function Slider:Set(Value)
+				Set(Value)
+			end
+			--
+			Flags[Slider.Flag] = Set
+			Library.Flags[Slider.Flag] = Slider.State
+			Set(Slider.State)
+
+			-- // Returning
+			return Slider
+		end
+		--
+		function Sections:List(Properties)
+			local Properties = Properties or {};
+			local Dropdown = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Open = false,
+				Name = Properties.Name or Properties.name or nil,
+				Options = (Properties.options or Properties.Options or Properties.values or Properties.Values or {
+					"1",
+					"2",
+					"3",
+				}),
+				Max = (Properties.Max or Properties.max or nil),
+				ScrollMax = (Properties.ScrollingMax or Properties.scrollingmax or nil),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or nil
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				OptionInsts = {},
+			}
+			--
+			local NewList = Instance.new("Frame")
+			NewList.Name = "NewList"
+			NewList.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewList.BackgroundTransparency = 1
+			NewList.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewList.BorderSizePixel = 0
+			NewList.Size = UDim2.new(1, 0, 0, Dropdown.Name ~= nil and 30 or 16)
+			NewList.Parent = Dropdown.Section.Elements.SectionContent
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0, 0, 1, -16)
+			Outline.Size = UDim2.new(1, 0, 0, 16)
+
+			local Inline = Instance.new("TextButton")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+			Inline.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Inline.Text = ""
+			Inline.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.TextSize = 14
+			Inline.AutoButtonColor = false
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = "None"
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.TextXAlignment = Enum.TextXAlignment.Left
+			Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Position = UDim2.new(0, 4, 0, 0)
+			Value.Size = UDim2.new(1, 0, 1, 0)
+			Value.Parent = Inline
+
+			local Icon = Instance.new("TextLabel")
+			Icon.Name = "Icon"
+			Icon.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Icon.Text = "+"
+			Icon.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Icon.TextSize = 12
+			Icon.TextStrokeTransparency = 0
+			Icon.TextXAlignment = Enum.TextXAlignment.Right
+			Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Icon.BackgroundTransparency = 1
+			Icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Icon.BorderSizePixel = 0
+			Icon.Position = UDim2.new(0, -4, 0, 0)
+			Icon.Size = UDim2.new(1, 0, 1, 0)
+			Icon.Parent = Inline
+
+			Inline.Parent = Outline
+
+			local ContentOutline = Instance.new("Frame")
+			ContentOutline.Name = "ContentOutline"
+			ContentOutline.AutomaticSize = Enum.AutomaticSize.Y
+			ContentOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			ContentOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ContentOutline.Position = UDim2.new(0, 0, 1, 1)
+			ContentOutline.Size = UDim2.new(1, 0, 0, 0)
+			ContentOutline.Visible = false
+
+			local ContentInline = Instance.new("Frame")
+			ContentInline.Name = "ContentInline"
+			ContentInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			ContentInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ContentInline.BorderSizePixel = 0
+			ContentInline.Position = UDim2.new(0, 1, 0, 1)
+			ContentInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 2)
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = ContentInline
+
+			local UIPadding = Instance.new("UIPadding")
+			UIPadding.Name = "UIPadding"
+			UIPadding.PaddingBottom = UDim.new(0, 2)
+			UIPadding.PaddingTop = UDim.new(0, 2)
+			UIPadding.Parent = ContentInline
+
+			ContentInline.Parent = ContentOutline
+
+			ContentOutline.Parent = Outline
+
+			Outline.Parent = NewList
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Size = UDim2.new(1, 0, 0, 10)
+			Title.Parent = NewList
+			Title.Visible = Dropdown.Name ~= nil and true or false
+			Title.Text = Dropdown.Name ~= nil and Dropdown.Name or ""
+
+			-- // Connections
+			Library:Connection(Inline.MouseButton1Down, function()
+				ContentOutline.Visible = not ContentOutline.Visible
+				if ContentOutline.Visible then
+					Icon.Text = "-"
+					NewList.ZIndex = 5
+				else
+					Icon.Text = "+"
+					NewList.ZIndex = 1
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if ContentOutline.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(ContentOutline) and not Library:IsMouseOverFrame(Inline) then
+						ContentOutline.Visible = false
+						NewList.ZIndex = 1
+						Icon.Text = "+"
+					end
+				end
+			end)
+			--
+			local chosen = Dropdown.Max and {} or nil
+			local Count = 0
+			--
+			local function handleoptionclick(option, button, text)
+				button.MouseButton1Down:Connect(function()
+					if Dropdown.Max then
+						if table.find(chosen, option) then
+							table.remove(chosen, table.find(chosen, option))
+
+							local textchosen = {}
+							local cutobject = false
+
+							for _, opt in next, chosen do
+								table.insert(textchosen, opt)
+							end
+
+							Value.Text = #chosen == 0 and "" or table.concat(textchosen, ",") .. (cutobject and ", ..." or "")
+							text.TextColor3 = Color3.fromRGB(145,145,145)
+							
+							Library.Flags[Dropdown.Flag] = chosen
+							Dropdown.Callback(chosen)
+						else
+							if #chosen == Dropdown.Max then
+								Dropdown.OptionInsts[chosen[1]].accent.Visible = false
+								table.remove(chosen, 1)
+							end
+
+							table.insert(chosen, option)
+
+							local textchosen = {}
+							local cutobject = false
+
+							for _, opt in next, chosen do
+								table.insert(textchosen, opt)
+							end
+
+							Value.Text = #chosen == 0 and "" or table.concat(textchosen, ",") .. (cutobject and ", ..." or "")
+							text.TextColor3 = Color3.fromRGB(255,255,255)
+
+							Library.Flags[Dropdown.Flag] = chosen
+							Dropdown.Callback(chosen)
+						end
+					else
+						for opt, tbl in next, Dropdown.OptionInsts do
+							if opt ~= option then
+								tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+							end
+						end
+						chosen = option
+						Value.Text = option
+						text.TextColor3 = Color3.fromRGB(255,255,255)
+						ContentOutline.Visible = false
+						NewList.ZIndex = 1
+						Icon.Text = "+"
+						Library.Flags[Dropdown.Flag] = option
+						Dropdown.Callback(option)
+					end
+				end)
+			end
+			--
+			local function createoptions(tbl)
+				for _, option in next, tbl do
+					Dropdown.OptionInsts[option] = {}
+					--
+					local NewOption = Instance.new("TextButton")
+					NewOption.Name = "NewOption"
+					NewOption.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+					NewOption.Text = ""
+					NewOption.TextColor3 = Color3.fromRGB(255, 255, 255)
+					NewOption.TextSize = 12
+					NewOption.TextStrokeTransparency = 0
+					NewOption.TextWrapped = true
+					NewOption.TextXAlignment = Enum.TextXAlignment.Left
+					NewOption.AutoButtonColor = false
+					NewOption.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					NewOption.BackgroundTransparency = 1
+					NewOption.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					NewOption.BorderSizePixel = 0
+					NewOption.Size = UDim2.new(1, 0, 0, 14)
+
+					local OptionLabel = Instance.new("TextLabel")
+					OptionLabel.Name = "OptionLabel"
+					OptionLabel.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+					OptionLabel.Text = option
+					OptionLabel.TextColor3 = Color3.fromRGB(145, 145, 145)
+					OptionLabel.TextSize = 12
+					OptionLabel.TextStrokeTransparency = 0
+					OptionLabel.TextXAlignment = Enum.TextXAlignment.Left
+					OptionLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					OptionLabel.BackgroundTransparency = 1
+					OptionLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					OptionLabel.BorderSizePixel = 0
+					OptionLabel.Position = UDim2.new(0, 4, 0, 0)
+					OptionLabel.Size = UDim2.new(1, 0, 1, 0)
+					OptionLabel.Parent = NewOption
+
+					NewOption.Parent = ContentInline
+
+					Dropdown.OptionInsts[option].text = OptionLabel
+
+					Count = Count + 1
+
+					handleoptionclick(option, NewOption, OptionLabel)
+				end
+			end
+			createoptions(Dropdown.Options)
+			--
+			local set
+			set = function(option)
+				if Dropdown.Max then
+					table.clear(chosen)
+					option = type(option) == "table" and option or {}
+
+					for opt, tbl in next, Dropdown.OptionInsts do
+						if not table.find(option, opt) then
+							tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+						end
+					end
+
+					for i, opt in next, option do
+						if table.find(Dropdown.Options, opt) and #chosen < Dropdown.Max then
+							table.insert(chosen, opt)
+							Dropdown.OptionInsts[opt].text.TextColor3 = Color3.fromRGB(255,255,255)
+						end
+					end
+
+					local textchosen = {}
+					local cutobject = false
+
+					for _, opt in next, chosen do
+						table.insert(textchosen, opt)
+					end
+
+					Value.Text = #chosen == 0 and "" or table.concat(textchosen, ",") .. (cutobject and ", ..." or "")
+
+					Library.Flags[Dropdown.Flag] = chosen
+					Dropdown.Callback(chosen)
+				end
+			end
+			--
+			function Dropdown:Set(option)
+				if Dropdown.Max then
+					set(option)
+				else
+					for opt, tbl in next, Dropdown.OptionInsts do
+						if opt ~= option then
+							tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+						end
+					end
+					if table.find(Dropdown.Options, option) then
+						chosen = option
+						Dropdown.OptionInsts[option].text.TextColor3 = Color3.fromRGB(255,255,255)
+						Value.Text = option
+						Library.Flags[Dropdown.Flag] = chosen
+						Dropdown.Callback(chosen)
+					else
+						chosen = nil
+						Value.Text = "None"
+						Library.Flags[Dropdown.Flag] = chosen
+						Dropdown.Callback(chosen)
+					end
+				end
+			end
+			--
+			function Dropdown:Refresh(tbl)
+				for _, opt in next, Dropdown.OptionInsts do
+					coroutine.wrap(function()
+						opt.button:Destroy()
+					end)()
+				end
+				table.clear(Dropdown.OptionInsts)
+
+				createoptions(tbl)
+
+				if Dropdown.Max then
+					table.clear(chosen)
+				else
+					chosen = nil
+				end
+
+				Library.Flags[Dropdown.Flag] = chosen
+				Dropdown.Callback(chosen)
+			end
+
+			-- // Returning
+			if Dropdown.Max then
+				Flags[Dropdown.Flag] = set
+			else
+				Flags[Dropdown.Flag] = Dropdown
+			end
+			Dropdown:Set(Dropdown.State)
+			return Dropdown
+		end
+		--
+		function Sections:ListBox(Properties)
+			local Properties = Properties or {};
+			local Dropdown = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Open = false,
+				Options = (Properties.options or Properties.Options or Properties.values or Properties.Values or {
+					"1",
+					"2",
+					"3",
+				}),
+				Max = (Properties.Max or Properties.max or nil),
+				ScrollMax = (Properties.ScrollingMax or Properties.scrollingmax or nil),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or nil
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				OptionInsts = {},
+			}
+			--
+			local NewList = Instance.new("TextButton")
+			NewList.Name = "NewList"
+			NewList.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewList.Text = ""
+			NewList.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewList.TextSize = 14
+			NewList.AutoButtonColor = false
+			NewList.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewList.BackgroundTransparency = 1
+			NewList.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewList.BorderSizePixel = 0
+			NewList.Size = UDim2.new(1, 0, 0, (14 * Dropdown.ScrollMax) + (2 * Dropdown.ScrollMax) + 4)
+			NewList.Parent = Dropdown.Section.Elements.SectionContent
+
+			local ContentOutline = Instance.new("Frame")
+			ContentOutline.Name = "ContentOutline"
+			ContentOutline.AutomaticSize = Enum.AutomaticSize.Y
+			ContentOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			ContentOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ContentOutline.Size = UDim2.new(1, 0, 1, 0)
+
+			local ContentInline = Library:NewInstance("ScrollingFrame", true)
+			ContentInline.Name = "ContentInline"
+			ContentInline.AutomaticCanvasSize = Enum.AutomaticSize.Y
+			ContentInline.BottomImage = "rbxassetid://7783554086"
+			ContentInline.CanvasSize = UDim2.new()
+			ContentInline.MidImage = "rbxassetid://7783554086"
+			ContentInline.ScrollBarImageColor3 = Library.Accent
+			ContentInline.ScrollBarThickness = 4
+			ContentInline.TopImage = "rbxassetid://7783554086"
+			ContentInline.Active = true
+			ContentInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			ContentInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ContentInline.BorderSizePixel = 0
+			ContentInline.Position = UDim2.new(0, 1, 0, 1)
+			ContentInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 2)
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = ContentInline
+
+			local UIPadding = Instance.new("UIPadding")
+			UIPadding.Name = "UIPadding"
+			UIPadding.PaddingBottom = UDim.new(0, 2)
+			UIPadding.PaddingTop = UDim.new(0, 2)
+			UIPadding.Parent = ContentInline
+
+			ContentInline.Parent = ContentOutline
+
+			ContentOutline.Parent = NewList
+			--
+			local chosen = Dropdown.Max and {} or nil
+			local Count = 0
+			--
+			local function handleoptionclick(option, button, text)
+				button.MouseButton1Down:Connect(function()
+					if Dropdown.Max then
+						if table.find(chosen, option) then
+							table.remove(chosen, table.find(chosen, option))
+
+							local textchosen = {}
+							local cutobject = false
+
+							for _, opt in next, chosen do
+								table.insert(textchosen, opt)
+							end
+
+							text.TextColor3 = Color3.fromRGB(145,145,145)
+
+							Library.Flags[Dropdown.Flag] = chosen
+							Dropdown.Callback(chosen)
+						else
+							if #chosen == Dropdown.Max then
+								Dropdown.OptionInsts[chosen[1]].accent.Visible = false
+								table.remove(chosen, 1)
+							end
+
+							table.insert(chosen, option)
+
+							local textchosen = {}
+							local cutobject = false
+
+							for _, opt in next, chosen do
+								table.insert(textchosen, opt)
+							end
+
+							text.TextColor3 = Color3.fromRGB(255,255,255)
+
+							Library.Flags[Dropdown.Flag] = chosen
+							Dropdown.Callback(chosen)
+						end
+					else
+						for opt, tbl in next, Dropdown.OptionInsts do
+							if opt ~= option then
+								tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+							end
+						end
+						chosen = option
+						text.TextColor3 = Color3.fromRGB(255,255,255)
+						Library.Flags[Dropdown.Flag] = option
+						Dropdown.Callback(option)
+					end
+				end)
+			end
+			--
+			local function createoptions(tbl)
+				for _, option in next, tbl do
+					Dropdown.OptionInsts[option] = {}
+					--
+					local NewOption = Instance.new("TextButton")
+					NewOption.Name = "NewOption"
+					NewOption.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+					NewOption.Text = ""
+					NewOption.TextColor3 = Color3.fromRGB(255, 255, 255)
+					NewOption.TextSize = 12
+					NewOption.TextStrokeTransparency = 0
+					NewOption.TextWrapped = true
+					NewOption.TextXAlignment = Enum.TextXAlignment.Left
+					NewOption.AutoButtonColor = false
+					NewOption.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					NewOption.BackgroundTransparency = 1
+					NewOption.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					NewOption.BorderSizePixel = 0
+					NewOption.Size = UDim2.new(1, 0, 0, 14)
+
+					local OptionLabel = Instance.new("TextLabel")
+					OptionLabel.Name = "OptionLabel"
+					OptionLabel.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+					OptionLabel.Text = option
+					OptionLabel.TextColor3 = Color3.fromRGB(145, 145, 145)
+					OptionLabel.TextSize = 12
+					OptionLabel.TextStrokeTransparency = 0
+					OptionLabel.TextXAlignment = Enum.TextXAlignment.Left
+					OptionLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					OptionLabel.BackgroundTransparency = 1
+					OptionLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					OptionLabel.BorderSizePixel = 0
+					OptionLabel.Position = UDim2.new(0, 4, 0, 0)
+					OptionLabel.Size = UDim2.new(1, 0, 1, 0)
+					OptionLabel.Parent = NewOption
+
+					NewOption.Parent = ContentInline
+
+					Dropdown.OptionInsts[option].text = OptionLabel
+
+					Count = Count + 1
+
+					handleoptionclick(option, NewOption, OptionLabel)
+				end
+			end
+			createoptions(Dropdown.Options)
+			--
+			local set
+			set = function(option)
+				if Dropdown.Max then
+					table.clear(chosen)
+					option = type(option) == "table" and option or {}
+
+					for opt, tbl in next, Dropdown.OptionInsts do
+						if not table.find(option, opt) then
+							tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+						end
+					end
+
+					for i, opt in next, option do
+						if table.find(Dropdown.Options, opt) and #chosen < Dropdown.Max then
+							table.insert(chosen, opt)
+							Dropdown.OptionInsts[opt].text.TextColor3 = Color3.fromRGB(255,255,255)
+						end
+					end
+
+					local textchosen = {}
+					local cutobject = false
+
+					for _, opt in next, chosen do
+						table.insert(textchosen, opt)
+					end
+
+					Library.Flags[Dropdown.Flag] = chosen
+					Dropdown.Callback(chosen)
+				end
+			end
+			--
+			function Dropdown:Set(option)
+				if Dropdown.Max then
+					set(option)
+				else
+					for opt, tbl in next, Dropdown.OptionInsts do
+						if opt ~= option then
+							tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+						end
+					end
+					if table.find(Dropdown.Options, option) then
+						chosen = option
+						Dropdown.OptionInsts[option].text.TextColor3 = Color3.fromRGB(255,255,255)
+						Library.Flags[Dropdown.Flag] = chosen
+						Dropdown.Callback(chosen)
+					else
+						chosen = nil
+						Library.Flags[Dropdown.Flag] = chosen
+						Dropdown.Callback(chosen)
+					end
+				end
+			end
+			--
+			function Dropdown:Refresh(tbl)
+				for _, opt in next, Dropdown.OptionInsts do
+					coroutine.wrap(function()
+						opt.button:Destroy()
+					end)()
+				end
+				table.clear(Dropdown.OptionInsts)
+
+				createoptions(tbl)
+
+				if Dropdown.Max then
+					table.clear(chosen)
+				else
+					chosen = nil
+				end
+
+				Library.Flags[Dropdown.Flag] = chosen
+				Dropdown.Callback(chosen)
+			end
+
+			-- // Returning
+			if Dropdown.Max then
+				Flags[Dropdown.Flag] = set
+			else
+				Flags[Dropdown.Flag] = Dropdown
+			end
+			Dropdown:Set(Dropdown.State)
+			return Dropdown
+		end
+		--
+		function Sections:Colorpicker(Properties)
+			local Properties = Properties or {}
+			local Colorpicker = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = (Properties.Name or "Colorpicker"),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or Color3.fromRGB(255, 0, 0)
+				),
+				Alpha = (
+					Properties.alpha
+						or Properties.Alpha
+						or Properties.transparency
+						or Properties.Transparency
+						or 1
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Colorpickers = 0,
+			}
+			--
+			local NewColor = Instance.new("TextButton")
+			NewColor.Name = "NewColor"
+			NewColor.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewColor.Text = ""
+			NewColor.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewColor.TextSize = 14
+			NewColor.AutoButtonColor = false
+			NewColor.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewColor.BackgroundTransparency = 1
+			NewColor.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewColor.BorderSizePixel = 0
+			NewColor.Size = UDim2.new(1, 0, 0, 10)
+			NewColor.Parent = Colorpicker.Section.Elements.SectionContent
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Size = UDim2.new(1, 0, 1, 0)
+			Title.Parent = NewColor
+			Title.Text = Colorpicker.Name
+
+			-- // Functions
+			Colorpicker.Colorpickers = Colorpicker.Colorpickers + 1
+			local colorpickertypes = Library:NewPicker(
+				Colorpicker.Name,
+				Colorpicker.State,
+				Colorpicker.Alpha,
+				NewColor,
+				Colorpicker.Colorpickers,
+				Colorpicker.Flag,
+				Colorpicker.Callback
+			)
+
+			function Colorpicker:Set(color)
+				colorpickertypes:set(color, false, true)
+			end
+
+			function Colorpicker:Colorpicker(Properties)
+				local Properties = Properties or {}
+				local NewColorpicker = {
+					State = (
+						Properties.state
+							or Properties.State
+							or Properties.def
+							or Properties.Def
+							or Properties.default
+							or Properties.Default
+							or Color3.fromRGB(255, 0, 0)
+					),
+					Alpha = (
+						Properties.alpha
+							or Properties.Alpha
+							or Properties.transparency
+							or Properties.Transparency
+							or 1
+					),
+					Callback = (
+						Properties.callback
+							or Properties.Callback
+							or Properties.callBack
+							or Properties.CallBack
+							or function() end
+					),
+					Flag = (
+						Properties.flag
+							or Properties.Flag
+							or Properties.pointer
+							or Properties.Pointer
+							or Library.NextFlag()
+					),
+				}
+				-- // Functions
+				Colorpicker.Colorpickers = Colorpicker.Colorpickers + 1
+				local Newcolorpickertypes = Library:NewPicker(
+					"",
+					NewColorpicker.State,
+					NewColorpicker.Alpha,
+					NewColor,
+					Colorpicker.Colorpickers,
+					NewColorpicker.Flag,
+					NewColorpicker.Callback
+				)
+
+				function NewColorpicker:Set(color)
+					Newcolorpickertypes:Set(color)
+				end
+
+				-- // Returning
+				return NewColorpicker
+			end
+
+			-- // Returning
+			return Colorpicker
+		end
+		--
+		function Sections:Keybind(Properties)
+			local Properties = Properties or {}
+			local Keybind = {
+				Section = self,
+				Name = Properties.name or Properties.Name or "Keybind",
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or nil
+				),
+				Mode = (Properties.mode or Properties.Mode or "Toggle"),
+				UseKey = (Properties.UseKey or false),
+				Ignore = (Properties.ignore or Properties.Ignore or false),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Binding = nil,
+			}
+			local Key
+			local State = false
+			--
+			local ModeBox = Instance.new("Frame")
+			local Hold = Instance.new("TextButton")
+			local Toggle = Instance.new("TextButton")
+			local Always = Instance.new("TextButton")
+			--
+			local NewBind = Instance.new("Frame")
+			NewBind.Name = "NewBind"
+			NewBind.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewBind.BackgroundTransparency = 1
+			NewBind.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewBind.BorderSizePixel = 0
+			NewBind.Size = UDim2.new(1, 0, 0, 10)
+			NewBind.Parent = Keybind.Section.Elements.SectionContent
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Size = UDim2.new(1, 0, 1, 0)
+			Title.Parent = NewBind
+			Title.Text = Keybind.Name
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.AnchorPoint = Vector2.new(0, 0.5)
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(1, -35, 0.5, 0)
+			Outline.Size = UDim2.new(0, 35, 0, 12)
+
+			local Inline = Instance.new("TextButton")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+			Inline.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Inline.Text = ""
+			Inline.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.TextSize = 14
+			Inline.AutoButtonColor = false
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = "MB2"
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Size = UDim2.new(1, 0, 1, 0)
+			Value.Parent = Inline
+
+			Inline.Parent = Outline
+
+			Outline.Parent = NewBind
+
+			ModeBox.Name = "ModeBox"
+			ModeBox.Parent = Outline
+			ModeBox.AnchorPoint = Vector2.new(0,0.5)
+			ModeBox.BackgroundColor3 = Color3.fromRGB(25,25,25)
+			ModeBox.BorderColor3 = Color3.fromRGB(50,50,50)
+			ModeBox.BorderSizePixel = 1
+			ModeBox.Size = UDim2.new(0, 65, 0, 60)
+			ModeBox.Position = UDim2.new(0,40,0.5,0)
+			ModeBox.Visible = false
+			
+			local Outline4 = Instance.new("Frame")
+			Outline4.Name = "Outline"
+			Outline4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline4.BackgroundTransparency = 1
+			Outline4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline4.BorderSizePixel = 0
+			Outline4.Position = UDim2.new(0, -1, 0, -1)
+			Outline4.Size = UDim2.new(1, 2, 1, 2)
+			Outline4.Parent = ModeBox
+
+			local UIStroke = Instance.new("UIStroke")
+			UIStroke.Name = "UIStroke"
+			UIStroke.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke.Parent = Outline4
+
+			Hold.Name = "Hold"
+			Hold.Parent = ModeBox
+			Hold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Hold.BackgroundTransparency = 1.000
+			Hold.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Hold.BorderSizePixel = 0
+			Hold.Size = UDim2.new(1, 0, 0.333000004, 0)
+			Hold.ZIndex = 2
+			Hold.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Hold.Text = "Hold"
+			Hold.TextColor3 = Keybind.Mode == "Hold" and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+			Hold.TextSize = Library.FSize
+			Hold.TextStrokeTransparency = 0
+
+			Toggle.Name = "Toggle"
+			Toggle.Parent = ModeBox
+			Toggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Toggle.BackgroundTransparency = 1.000
+			Toggle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Toggle.BorderSizePixel = 0
+			Toggle.Position = UDim2.new(0, 0, 0.333000004, 0)
+			Toggle.Size = UDim2.new(1, 0, 0.333000004, 0)
+			Toggle.ZIndex = 2
+			Toggle.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Toggle.Text = "Toggle"
+			Toggle.TextColor3 = Keybind.Mode == "Toggle" and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+			Toggle.TextSize = Library.FSize
+			Toggle.TextStrokeTransparency = 0
+
+			Always.Name = "Always"
+			Always.Parent = ModeBox
+			Always.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Always.BackgroundTransparency = 1.000
+			Always.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Always.BorderSizePixel = 0
+			Always.Position = UDim2.new(0, 0, 0.666999996, 0)
+			Always.Size = UDim2.new(1, 0, 0.333000004, 0)
+			Always.ZIndex = 2
+			Always.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Always.Text = "Always"
+			Always.TextColor3 = Keybind.Mode == "Always" and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+			Always.TextSize = Library.FSize
+			Always.TextStrokeTransparency = 0
+
+			-- // Functions
+			local function set(newkey)
+				if string.find(tostring(newkey), "Enum") then
+					if c then
+						c:Disconnect()
+						if Keybind.Flag then
+							Library.Flags[Keybind.Flag] = false
+						end
+						Keybind.Callback(false)
+					end
+					if tostring(newkey):find("Enum.KeyCode.") then
+						newkey = Enum.KeyCode[tostring(newkey):gsub("Enum.KeyCode.", "")]
+					elseif tostring(newkey):find("Enum.UserInputType.") then
+						newkey = Enum.UserInputType[tostring(newkey):gsub("Enum.UserInputType.", "")]
+					end
+					if newkey == Enum.KeyCode.Backspace then
+						Key = nil
+						if Keybind.UseKey then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = Key
+							end
+							Keybind.Callback(Key)
+						end
+						local text = "None"
+
+						Value.Text = text
+					elseif newkey ~= nil then
+						Key = newkey
+						if Keybind.UseKey then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = Key
+							end
+							Keybind.Callback(Key)
+						end
+						local text = (Library.Keys[newkey] or tostring(newkey):gsub("Enum.KeyCode.", ""))
+
+						Value.Text = text
+					end
+
+					Library.Flags[Keybind.Flag .. "_KEY"] = newkey
+				elseif table.find({ "Always", "Toggle", "Hold" }, newkey) then
+					if not Keybind.UseKey then
+						Library.Flags[Keybind.Flag .. "_KEY STATE"] = newkey
+						Keybind.Mode = newkey
+						if Keybind.Mode == "Always" then
+							State = true
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = State
+							end
+							Keybind.Callback(true)
+						end
+					end
+				else
+					State = newkey
+					if Keybind.Flag then
+						Library.Flags[Keybind.Flag] = newkey
+					end
+					Keybind.Callback(newkey)
+				end
+			end
+			--
+			set(Keybind.State)
+			set(Keybind.Mode)
+			Inline.MouseButton1Click:Connect(function()
+				if not Keybind.Binding then
+
+					Value.Text = "..."
+
+					Keybind.Binding = Library:Connection(
+						game:GetService("UserInputService").InputBegan,
+						function(input, gpe)
+							set(
+								input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode
+									or input.UserInputType
+							)
+							Library:Disconnect(Keybind.Binding)
+							task.wait()
+							Keybind.Binding = nil
+						end
+					)
+				end
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(inp)
+				if (inp.KeyCode == Key or inp.UserInputType == Key) and not Keybind.Binding and not Keybind.UseKey then
+					if Keybind.Mode == "Hold" then
+						if Keybind.Flag then
+							Library.Flags[Keybind.Flag] = true
+						end
+						c = Library:Connection(game:GetService("RunService").RenderStepped, function()
+							if Keybind.Callback then
+								Keybind.Callback(true)
+							end
+						end)
+					elseif Keybind.Mode == "Toggle" then
+						State = not State
+						if Keybind.Flag then
+							Library.Flags[Keybind.Flag] = State
+						end
+						Keybind.Callback(State)
+					end
+				end
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputEnded, function(inp)
+				if Keybind.Mode == "Hold" and not Keybind.UseKey then
+					if Key ~= "" or Key ~= nil then
+						if inp.KeyCode == Key or inp.UserInputType == Key then
+							if c then
+								c:Disconnect()
+								if Keybind.Flag then
+									Library.Flags[Keybind.Flag] = false
+								end
+								if Keybind.Callback then
+									Keybind.Callback(false)
+								end
+							end
+						end
+					end
+				end
+			end)
+			--
+			Library:Connection(Inline.MouseButton2Down, function()
+				ModeBox.Visible = true
+				NewBind.ZIndex = 5
+			end)
+			--
+			Library:Connection(Hold.MouseButton1Down, function()
+				set("Hold")
+				Hold.TextColor3 = Color3.fromRGB(255,255,255)
+				Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+				Always.TextColor3 = Color3.fromRGB(145,145,145)
+				ModeBox.Visible = false
+				NewBind.ZIndex = 1
+			end)
+			--
+			Library:Connection(Toggle.MouseButton1Down, function()
+				set("Toggle")
+				Hold.TextColor3 = Color3.fromRGB(145,145,145)
+				Toggle.TextColor3 = Color3.fromRGB(255,255,255)
+				Always.TextColor3 = Color3.fromRGB(145,145,145)
+				ModeBox.Visible = false
+				NewBind.ZIndex = 1
+			end)
+			--
+			Library:Connection(Always.MouseButton1Down, function()
+				set("Always")
+				Hold.TextColor3 = Color3.fromRGB(145,145,145)
+				Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+				Always.TextColor3 = Color3.fromRGB(255,255,255)
+				ModeBox.Visible = false
+				NewBind.ZIndex = 1
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if ModeBox.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(ModeBox) then
+						ModeBox.Visible = false
+						NewBind.ZIndex = 1
+					end
+				end
+			end)
+			--
+			Library.Flags[Keybind.Flag .. "_KEY"] = Keybind.State
+			Library.Flags[Keybind.Flag .. "_KEY STATE"] = Keybind.Mode
+			Flags[Keybind.Flag] = set
+			Flags[Keybind.Flag .. "_KEY"] = set
+			Flags[Keybind.Flag .. "_KEY STATE"] = set
+			--
+			function Keybind:Set(key)
+				set(key)
+			end
+
+			-- // Returning
+			return Keybind
+		end
+		--
+		function Sections:Textbox(Properties)
+			local Properties = Properties or {}
+			local Textbox = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = (Properties.Name or Properties.name or nil),
+				Placeholder = (
+					Properties.placeholder
+						or Properties.Placeholder
+						or Properties.holder
+						or Properties.Holder
+						or ""
+				),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or ""
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+			}
+			--
+			local NewBox = Instance.new("TextButton")
+			NewBox.Name = "NewBox"
+			NewBox.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewBox.Text = ""
+			NewBox.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewBox.TextSize = 14
+			NewBox.AutoButtonColor = false
+			NewBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewBox.BackgroundTransparency = 1
+			NewBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewBox.BorderSizePixel = 0
+			NewBox.Size = UDim2.new(1, 0, 0, Textbox.Name ~= nil and 30 or 16)
+			NewBox.Parent = Textbox.Section.Elements.SectionContent
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0, 0, 1, -16)
+			Outline.Size = UDim2.new(1, 0, 0, 16)
+
+			local Inline = Instance.new("Frame")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Value = Instance.new("TextBox")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = Textbox.State
+			Value.PlaceholderText = Textbox.Placeholder
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.PlaceholderColor3 = Color3.fromRGB(145,145,145)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.TextXAlignment = Enum.TextXAlignment.Left
+			Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Position = UDim2.new(0, 4, 0, 0)
+			Value.Size = UDim2.new(1, 0, 1, 0)
+			Value.Parent = Inline
+			Value.ClearTextOnFocus = false
+
+			Inline.Parent = Outline
+
+			Outline.Parent = NewBox
+
+			local Title = Instance.new("TextLabel")
+			Title.Name = "Title"
+			Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextSize = 12
+			Title.TextStrokeTransparency = 0
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Size = UDim2.new(1, 0, 0, 10)
+			Title.Parent = NewBox
+			Title.Text = Textbox.Name ~= nil and Textbox.Name or ""
+			Title.Visible = Textbox.Name ~= nil and true or false
+
+			-- // Connections
+			Value.FocusLost:Connect(function()
+				Textbox.Callback(Value.Text)
+				Library.Flags[Textbox.Flag] = Value.Text
+			end)
+			--
+			local function set(str)
+				Value.Text = str
+				Library.Flags[Textbox.Flag] = str
+				Textbox.Callback(str)
+			end
+
+			-- // Return
+			Flags[Textbox.Flag] = set
+			return Textbox
+		end
+		--
+		function Sections:Button(Properties)
+			local Properties = Properties or {}
+			local Button = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or "button",
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+			}
+			--
+			local NewButton = Instance.new("Frame")
+			NewButton.Name = "NewButton"
+			NewButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewButton.BackgroundTransparency = 1
+			NewButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewButton.BorderSizePixel = 0
+			NewButton.Size = UDim2.new(1, 0, 0, 16)
+			NewButton.Parent = Button.Section.Elements.SectionContent
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0, 0, 1, -16)
+			Outline.Size = UDim2.new(1,0, 0, 16)
+
+			local Inline = Instance.new("TextButton")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+			Inline.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Inline.Text = ""
+			Inline.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.TextSize = 14
+			Inline.AutoButtonColor = false
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = Button.Name
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Size = UDim2.new(1, 0, 1, 0)
+			Value.Parent = Inline
+
+			Inline.Parent = Outline
+
+			Outline.Parent = NewButton
+			--
+			Library:Connection(Inline.MouseButton1Down, function()
+				Button.Callback()
+				Value.TextColor3 = Library.Accent
+				task.wait(0.1)
+				Value.TextColor3 = Color3.fromRGB(255,255,255)
+			end)
+
+			function Button:Button(Properties)
+				local Properties = Properties or {}
+				local InButton = {
+					Window = self.Window,
+					Page = self.Page,
+					Section = self,
+					Name = Properties.Name or "button",
+					Callback = (
+						Properties.callback
+							or Properties.Callback
+							or Properties.callBack
+							or Properties.CallBack
+							or function() end
+					),
+				}
+				--
+				Outline.Size = UDim2.new(0.5, -4, 0, 16)
+				local iOutline = Instance.new("Frame")
+				iOutline.Name = "Outline"
+				iOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+				iOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				iOutline.Position = UDim2.new(0.5, 4, 1, -16)
+				iOutline.Size = UDim2.new(0.5, -4, 0, 16)
+				iOutline.Parent = NewButton
+
+				local iInline = Instance.new("TextButton")
+				iInline.Name = "Inline"
+				iInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+				iInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				iInline.BorderSizePixel = 0
+				iInline.Position = UDim2.new(0, 1, 0, 1)
+				iInline.Size = UDim2.new(1, -2, 1, -2)
+				iInline.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+				iInline.Text = ""
+				iInline.TextColor3 = Color3.fromRGB(0, 0, 0)
+				iInline.TextSize = 14
+				iInline.AutoButtonColor = false
+
+				local iValue = Instance.new("TextLabel")
+				iValue.Name = "Value"
+				iValue.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				iValue.Text = InButton.Name
+				iValue.TextColor3 = Color3.fromRGB(255, 255, 255)
+				iValue.TextSize = 12
+				iValue.TextStrokeTransparency = 0
+				iValue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				iValue.BackgroundTransparency = 1
+				iValue.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				iValue.BorderSizePixel = 0
+				iValue.Size = UDim2.new(1, 0, 1, 0)
+				iValue.Parent = iInline
+
+				iInline.Parent = iOutline
+
+				--
+				Library:Connection(iInline.MouseButton1Down, function()
+					InButton.Callback()
+					iValue.TextColor3 = Library.Accent
+					task.wait(0.1)
+					iValue.TextColor3 = Color3.fromRGB(255,255,255)
+				end)
+			end
+
+			return Button
+		end
+		--
+		function Pages:PlayerList(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Playerlist = {
+				Page = self,
+				Players = {},
+				CurrentPlayer = nil;
+				LastPlayer = nil;
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+			}
+			--
+			local NewPlayer = Instance.new("Frame")
+			NewPlayer.Name = "NewPlayer"
+			NewPlayer.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			NewPlayer.BorderColor3 = Color3.fromRGB(50,50,50)
+			NewPlayer.BorderSizePixel = 1
+			NewPlayer.Size = UDim2.new(1, 0, 0,342)
+			NewPlayer.Parent = Playerlist.Page.Elements.Main
+			
+			local Outline4 = Instance.new("Frame")
+			Outline4.Name = "Outline"
+			Outline4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline4.BackgroundTransparency = 1
+			Outline4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline4.BorderSizePixel = 0
+			Outline4.Position = UDim2.new(0, -1, 0, -1)
+			Outline4.Size = UDim2.new(1, 2, 1, 2)
+			Outline4.Parent = NewPlayer
+
+			local UIStroke = Instance.new("UIStroke")
+			UIStroke.Name = "UIStroke"
+			UIStroke.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke.Parent = Outline4
+
+			local SectionTop = Instance.new("Frame")
+			SectionTop.Name = "SectionTop"
+			SectionTop.BackgroundColor3 = Color3.fromRGB(20,20,20)
+			SectionTop.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SectionTop.BorderSizePixel = 0
+			SectionTop.Size = UDim2.new(1, 0, 0, 20)
+			
+			local Accent = Library:NewInstance("Frame", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(1, 0, 0, 1)
+			Accent.Parent = SectionTop
+
+			local SectionName = Instance.new("TextLabel")
+			SectionName.Name = "SectionName"
+			SectionName.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			SectionName.Text = "Player List"
+			SectionName.TextColor3 = Color3.fromRGB(255, 255, 255)
+			SectionName.TextSize = Library.FSize
+			SectionName.TextStrokeTransparency = 0
+			SectionName.TextXAlignment = Enum.TextXAlignment.Left
+			SectionName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			SectionName.BackgroundTransparency = 1
+			SectionName.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SectionName.BorderSizePixel = 0
+			SectionName.Position = UDim2.new(0, 5, 0, 0)
+			SectionName.Size = UDim2.new(1, 0, 1, 0)
+			SectionName.Parent = SectionTop
+
+			SectionTop.Parent = NewPlayer
+
+			local List = Library:NewInstance("ScrollingFrame", true)
+			List.Name = "List"
+			List.AutomaticCanvasSize = Enum.AutomaticSize.Y
+			List.BottomImage = "rbxassetid://7783554086"
+			List.CanvasSize = UDim2.new()
+			List.MidImage = "rbxassetid://7783554086"
+			List.ScrollBarImageColor3 = Library.Accent
+			List.ScrollBarThickness = 8
+			List.TopImage = "rbxassetid://7783554086"
+			List.Active = true
+			List.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			List.BorderColor3 = Color3.fromRGB(50,50,50)
+			List.BorderSizePixel = 1
+			List.Position = UDim2.new(0, 5, 0, 25)
+			List.Size = UDim2.new(1, -10, 0, 225)
+			
+			local Outline5 = Instance.new("Frame")
+			Outline5.Name = "Outline"
+			Outline5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline5.BackgroundTransparency = 1
+			Outline5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline5.BorderSizePixel = 0
+			Outline5.Position = UDim2.new(0, 4, 0, 24)
+			Outline5.Size = UDim2.new(1, -8, 0, 227)
+			Outline5.Parent = NewPlayer
+
+			local UIStroke2 = Instance.new("UIStroke")
+			UIStroke2.Name = "UIStroke"
+			UIStroke2.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke2.Parent = Outline5
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = List
+
+			List.Parent = NewPlayer
+
+			local ImageLabel = Instance.new("ImageLabel")
+			ImageLabel.Name = "ImageLabel"
+			ImageLabel.Image = ""
+			ImageLabel.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			ImageLabel.BorderColor3 = Color3.fromRGB(50,50,50)
+			ImageLabel.Position = UDim2.new(0, 5, 1, -75)
+			ImageLabel.Size = UDim2.new(0, 70, 0, 70)
+			ImageLabel.Parent = NewPlayer
+			
+			local Outline8 = Instance.new("Frame")
+			Outline8.Name = "Outline"
+			Outline8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline8.BackgroundTransparency = 1
+			Outline8.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline8.BorderSizePixel = 0
+			Outline8.Position = UDim2.new(0,-1,0,-1)
+			Outline8.Size = UDim2.new(1,2,1,2)
+			Outline8.Parent = ImageLabel
+
+			local UIStroke5 = Instance.new("UIStroke")
+			UIStroke5.Name = "UIStroke"
+			UIStroke5.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke5.Parent = Outline8
+
+			local PlayerName1 = Instance.new("TextLabel")
+			PlayerName1.Name = "PlayerName"
+			PlayerName1.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			PlayerName1.Text = "Select a Player."
+			PlayerName1.TextColor3 = Color3.fromRGB(255, 255, 255)
+			PlayerName1.TextSize = Library.FSize
+			PlayerName1.TextStrokeTransparency = 0
+			PlayerName1.TextXAlignment = Enum.TextXAlignment.Left
+			PlayerName1.TextYAlignment = Enum.TextYAlignment.Top
+			PlayerName1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			PlayerName1.BackgroundTransparency = 1
+			PlayerName1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			PlayerName1.BorderSizePixel = 0
+			PlayerName1.Position = UDim2.new(0, 80, 1, -75)
+			PlayerName1.Size = UDim2.new(1, -459, 0, 70)
+			PlayerName1.Parent = NewPlayer
+
+			local Priority = Instance.new("TextButton")
+			Priority.Name = "Priority"
+			Priority.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Priority.Text = ""
+			Priority.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Priority.TextSize = 14
+			Priority.AutoButtonColor = false
+			Priority.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Priority.BorderColor3 = Color3.fromRGB(50,50,50)
+			Priority.BorderSizePixel = 1
+			Priority.Position = UDim2.new(1, -105, 1, -70)
+			Priority.Size = UDim2.new(0, 100, 0, 25)
+			
+			local Outline6 = Instance.new("Frame")
+			Outline6.Name = "Outline"
+			Outline6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline6.BackgroundTransparency = 1
+			Outline6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline6.BorderSizePixel = 0
+			Outline6.Position = UDim2.new(0,-1,0,-1)
+			Outline6.Size = UDim2.new(1,2,1,2)
+			Outline6.Parent = Priority
+
+			local UIStroke3 = Instance.new("UIStroke")
+			UIStroke3.Name = "UIStroke"
+			UIStroke3.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke3.Parent = Outline6
+
+			local PriorityLabel = Instance.new("TextLabel")
+			PriorityLabel.Name = "PriorityLabel"
+			PriorityLabel.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			PriorityLabel.Text = "Prioritize"
+			PriorityLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			PriorityLabel.TextSize = Library.FSize
+			PriorityLabel.TextStrokeTransparency = 0
+			PriorityLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			PriorityLabel.BackgroundTransparency = 1
+			PriorityLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			PriorityLabel.BorderSizePixel = 0
+			PriorityLabel.Size = UDim2.new(1, 0, 1, 0)
+			PriorityLabel.Parent = Priority
+
+			Priority.Parent = NewPlayer
+
+			local Friend = Instance.new("TextButton")
+			Friend.Name = "Friend"
+			Friend.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			Friend.Text = ""
+			Friend.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Friend.TextSize = 14
+			Friend.AutoButtonColor = false
+			Friend.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Friend.BorderColor3 = Color3.fromRGB(50,50,50)
+			Friend.BorderSizePixel = 1
+			Friend.Position = UDim2.new(1, -105, 1, -34)
+			Friend.Size = UDim2.new(0, 100, 0, 25)
+			
+			local Outline7 = Instance.new("Frame")
+			Outline7.Name = "Outline"
+			Outline7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Outline7.BackgroundTransparency = 1
+			Outline7.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline7.BorderSizePixel = 0
+			Outline7.Position = UDim2.new(0,-1,0,-1)
+			Outline7.Size = UDim2.new(1,2,1,2)
+			Outline7.Parent = Friend
+
+			local UIStroke4 = Instance.new("UIStroke")
+			UIStroke4.Name = "UIStroke"
+			UIStroke4.LineJoinMode = Enum.LineJoinMode.Miter
+			UIStroke4.Parent = Outline7
+
+			local FriendLabel = Instance.new("TextLabel")
+			FriendLabel.Name = "FriendLabel"
+			FriendLabel.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			FriendLabel.Text = "Friendly"
+			FriendLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			FriendLabel.TextSize = Library.FSize
+			FriendLabel.TextStrokeTransparency = 0
+			FriendLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			FriendLabel.BackgroundTransparency = 1
+			FriendLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			FriendLabel.BorderSizePixel = 0
+			FriendLabel.Size = UDim2.new(1, 0, 1, 0)
+			FriendLabel.Parent = Friend
+
+			Friend.Parent = NewPlayer
+
+			-- // Main
+			local chosen = nil
+			local optioninstances = {}
+			local function handleoptionclick(option, button, accent)
+				button.MouseButton1Click:Connect(function()
+					chosen = option
+					Library.Flags[Playerlist.Flag] = option
+					Playerlist.CurrentPlayer = option
+					--
+					for opt, tbl in next, optioninstances do
+						if opt ~= option then
+							tbl.accent.Visible = false
+						end
+					end
+					accent.Visible = true
+					--
+					if Playerlist.CurrentPlayer ~= Playerlist.LastPlayer then
+						Playerlist.LastPlayer = Playerlist.CurrentPlayer;
+						PlayerName1.Text = ("Id : %s\nDisplay Name : %s\nName : %s\nAccount Age : %s"):format(Playerlist.CurrentPlayer.UserId, Playerlist.CurrentPlayer.DisplayName ~= "" and Playerlist.CurrentPlayer.DisplayName or Playerlist.CurrentPlayer.Name, Playerlist.CurrentPlayer.Name, Playerlist.CurrentPlayer.AccountAge)
+						--
+						local imagedata = game:GetService("Players"):GetUserThumbnailAsync(Playerlist.CurrentPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420)
+
+						ImageLabel.Image = imagedata
+					end;
+				end)
+			end
+			--
+			local function createoptions(tbl)
+				for i, option in next, tbl do
+					optioninstances[option] = {}
+
+					local NewPlayer1 = Instance.new("TextButton")
+					NewPlayer1.Name = "NewPlayer"
+					NewPlayer1.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+					NewPlayer1.Text = ""
+					NewPlayer1.TextColor3 = Color3.fromRGB(0, 0, 0)
+					NewPlayer1.TextSize = 14
+					NewPlayer1.AutoButtonColor = false
+					NewPlayer1.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+					NewPlayer1.BorderColor3 = Color3.fromRGB(50,50,50)
+					NewPlayer1.Size = UDim2.new(1, 0, 0, 15)
+
+					local PlayerName = Instance.new("TextLabel")
+					PlayerName.Name = "PlayerName"
+					PlayerName.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+					PlayerName.Text = option.Name
+					PlayerName.TextColor3 = Color3.fromRGB(255, 255, 255)
+					PlayerName.TextSize = Library.FSize
+					PlayerName.TextStrokeTransparency = 0
+					PlayerName.TextXAlignment = Enum.TextXAlignment.Left
+					PlayerName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					PlayerName.BackgroundTransparency = 1
+					PlayerName.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					PlayerName.BorderSizePixel = 0
+					PlayerName.Position = UDim2.new(0, 6, 0, 0)
+					PlayerName.Size = UDim2.new(1, 0, 1, 0)
+					PlayerName.Parent = NewPlayer1
+
+					local PlayerStatus = Instance.new("TextLabel")
+					PlayerStatus.Name = "PlayerStatus"
+					PlayerStatus.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+					PlayerStatus.Text = option == game.Players.LocalPlayer and "Local Player" or table.find(Library.Friends, option) and "Friendly" or table.find(Library.Priorities, option) and "Priority" or "None"
+					PlayerStatus.TextColor3 = option == game.Players.LocalPlayer and Color3.fromRGB(0, 170, 255) or table.find(Library.Friends, option) and Color3.fromRGB(0,255,0) or table.find(Library.Priorities, option) and Color3.fromRGB(255,0,0) or Color3.fromRGB(255,255,255)
+					PlayerStatus.TextSize = Library.FSize
+					PlayerStatus.TextStrokeTransparency = 0
+					PlayerStatus.TextXAlignment = Enum.TextXAlignment.Right
+					PlayerStatus.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					PlayerStatus.BackgroundTransparency = 1
+					PlayerStatus.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					PlayerStatus.BorderSizePixel = 0
+					PlayerStatus.Position = UDim2.new(0, -25, 0, 0)
+					PlayerStatus.Size = UDim2.new(1, 0, 1, 0)
+					PlayerStatus.Parent = NewPlayer1
+
+					local AccentLine = Library:NewInstance("Frame", true)
+					AccentLine.Name = "AccentLine"
+					AccentLine.BackgroundColor3 = Library.Accent
+					AccentLine.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					AccentLine.BorderSizePixel = 0
+					AccentLine.Size = UDim2.new(0, 2, 1, 0)
+					AccentLine.Visible = false
+					AccentLine.Parent = NewPlayer1
+
+					NewPlayer1.Parent = List
+
+					optioninstances[option].button = NewPlayer1
+					optioninstances[option].text = PlayerName
+					optioninstances[option].status = PlayerStatus
+					optioninstances[option].accent = AccentLine
+					
+					if option == chosen then
+						chosen = option
+						Library.Flags[Playerlist.Flag] = option
+						Playerlist.CurrentPlayer = option
+						--
+						for opt, tbl in next, optioninstances do
+							if opt ~= option then
+								tbl.accent.Visible = false
+							end
+						end
+						AccentLine.Visible = true
+						--
+						if Playerlist.CurrentPlayer ~= Playerlist.LastPlayer then
+							Playerlist.LastPlayer = Playerlist.CurrentPlayer;
+							PlayerName1.Text = ("Id : %s\nDisplay Name : %s\nName : %s\nAccount Age : %s"):format(Playerlist.CurrentPlayer.UserId, Playerlist.CurrentPlayer.DisplayName ~= "" and Playerlist.CurrentPlayer.DisplayName or Playerlist.CurrentPlayer.Name, Playerlist.CurrentPlayer.Name, Playerlist.CurrentPlayer.AccountAge)
+							--
+							local imagedata = game:GetService("Players"):GetUserThumbnailAsync(Playerlist.CurrentPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420)
+
+							ImageLabel.Image = imagedata
+						end;
+					end
+
+					if option ~= game.Players.LocalPlayer then
+						handleoptionclick(option, NewPlayer1, AccentLine)
+					end
+				end
+			end
+			--
+			function Playerlist:Refresh(tbl, dontchange)
+				content = table.clone(tbl)
+
+				for _, opt in next, optioninstances do
+					coroutine.wrap(function()
+						opt.button:Remove()
+					end)()
+				end
+
+				table.clear(optioninstances)
+
+				createoptions(content)
+
+				if dontchange then
+					chosen = Playerlist.CurrentPlayer
+					Playerlist.CurrentPlayer = chosen
+				else
+					chosen = nil
+					Playerlist.CurrentPlayer = nil
+				end
+				Library.Flags[Playerlist.Flag] = chosen
+			end
+			--
+			Priority.MouseButton1Click:Connect(function()
+				if Playerlist.CurrentPlayer ~= nil and table.find(Library.Friends, Playerlist.CurrentPlayer) then
+					table.remove(Library.Friends, table.find(Library.Friends, Playerlist.CurrentPlayer))
+				end
+				if Playerlist.CurrentPlayer ~= nil and not table.find(Library.Priorities, Playerlist.CurrentPlayer) then
+					table.insert(Library.Priorities, Playerlist.CurrentPlayer)
+					optioninstances[Playerlist.CurrentPlayer].status.Text = "Priority"
+					optioninstances[Playerlist.CurrentPlayer].status.TextColor3 = Color3.fromRGB(255, 0, 0)
+				elseif Playerlist.CurrentPlayer ~= nil and table.find(Library.Priorities, Playerlist.CurrentPlayer) then
+					table.remove(Library.Priorities, table.find(Library.Priorities, Playerlist.CurrentPlayer))
+					optioninstances[Playerlist.CurrentPlayer].status.Text = "None"
+					optioninstances[Playerlist.CurrentPlayer].status.TextColor3 = Color3.fromRGB(255,255,255)
+				end
+			end)
+			--
+			Friend.MouseButton1Click:Connect(function()
+				if Playerlist.CurrentPlayer ~= nil and table.find(Library.Priorities, Playerlist.CurrentPlayer) then
+					table.remove(Library.Priorities, table.find(Library.Priorities, Playerlist.CurrentPlayer))
+				end
+				if Playerlist.CurrentPlayer ~= nil and not table.find(Library.Friends, Playerlist.CurrentPlayer) then
+					table.insert(Library.Friends, Playerlist.CurrentPlayer)
+					optioninstances[Playerlist.CurrentPlayer].status.Text = "Friendly"
+					optioninstances[Playerlist.CurrentPlayer].status.TextColor3 = Color3.fromRGB(0, 255, 0)
+				elseif Playerlist.CurrentPlayer ~= nil and table.find(Library.Friends, Playerlist.CurrentPlayer) then
+					table.remove(Library.Friends, table.find(Library.Friends, Playerlist.CurrentPlayer))
+					optioninstances[Playerlist.CurrentPlayer].status.Text = "None"
+					optioninstances[Playerlist.CurrentPlayer].status.TextColor3 = Color3.fromRGB(255,255,255)
+				end
+			end)
+			--
+			createoptions(game.Players:GetPlayers())
+			--
+			game.Players.PlayerAdded:Connect(function()
+				Playerlist:Refresh(game.Players:GetPlayers(), true)
+			end)
+			--
+			game.Players.PlayerRemoving:Connect(function()
+				Playerlist:Refresh(game.Players:GetPlayers(), true)
+			end)
+			-- Fix
+			Playerlist.Page.Elements.Left.Size = UDim2.new(0.5, -5,0.5, -80)
+			Playerlist.Page.Elements.Right.Size = UDim2.new(0.5, -5,0.5, -80)
+			Playerlist.Page.Elements.Left.Position = UDim2.new(0, 0,0.5, 85)
+			Playerlist.Page.Elements.Right.Position = UDim2.new(0.5, 5,0.5, 85)
+		end
+		--
+		function Sections:Divider(Properties)
+			local Properties = Properties or {}
+			local Divider = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or "divider",
+			}
+			--
+			local NewDivider = Instance.new("TextButton")
+			NewDivider.Name = "NewDivider"
+			NewDivider.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewDivider.Text = ""
+			NewDivider.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewDivider.TextSize = 14
+			NewDivider.AutoButtonColor = false
+			NewDivider.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewDivider.BackgroundTransparency = 1
+			NewDivider.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewDivider.BorderSizePixel = 0
+			NewDivider.Size = UDim2.new(1, 0, 0, 8)
+			NewDivider.Parent = Divider.Section.Elements.SectionContent
+
+			local Outline = Instance.new("Frame")
+			Outline.Name = "Outline"
+			Outline.AnchorPoint = Vector2.new(0, 0.5)
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0, 0, 0.5, 0)
+			Outline.Size = UDim2.new(1, 0, 0, 4)
+
+			local Inline = Instance.new("Frame")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = Divider.Name
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.AnchorPoint = Vector2.new(0.5, 0.5)
+			Value.AutomaticSize = Enum.AutomaticSize.X
+			Value.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Position = UDim2.new(0.5, 0, 0.5, 0)
+			Value.Size = UDim2.new(0, 0, 0, 8)
+
+			local UIPadding = Instance.new("UIPadding")
+			UIPadding.Name = "UIPadding"
+			UIPadding.PaddingLeft = UDim.new(0, 5)
+			UIPadding.PaddingRight = UDim.new(0, 5)
+			UIPadding.Parent = Value
+
+			Value.Parent = Inline
+
+			Inline.Parent = Outline
+
+			Outline.Parent = NewDivider
+			
+			return Divider
+		end
+		--
+		function Sections:Label(Properties)
+			local Properties = Properties or {}
+			local Label = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or "button",
+			}
+			--
+			local NewButton = Instance.new("TextButton")
+			NewButton.Name = "NewButton"
+			NewButton.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json")
+			NewButton.Text = ""
+			NewButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+			NewButton.TextSize = 14
+			NewButton.AutoButtonColor = false
+			NewButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			NewButton.BackgroundTransparency = 1
+			NewButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			NewButton.BorderSizePixel = 0
+			NewButton.Size = UDim2.new(1, 0, 0, 8)
+			NewButton.Parent = Label.Section.Elements.SectionContent
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = Label.Name
+			Value.TextXAlignment = Enum.TextXAlignment.Left
+			Value.TextColor3 = Color3.fromRGB(255,255,255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.TextWrapped = true
+			Value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Size = UDim2.new(1, 0, 1, 0)
+			Value.Parent = NewButton
+
+			return Label
+		end
+		--
+		function Library:Indicator(Properties)
+			local Indicator = {
+				Title = Properties.Name or Properties.name or "New Indicator";
+				Elements = {};
+				Dragging = { false, UDim2.new(0, 0, 0, 0) };
+			};
+			--
+			local Outline = Instance.new("TextButton")
+			Outline.Name = "Outline"
+			Outline.AutomaticSize = Enum.AutomaticSize.Y
+			Outline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			Outline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Outline.Position = UDim2.new(0,200,0.5,0)
+			Outline.Size = UDim2.new(0, 200, 0, 15)
+			Outline.AnchorPoint = Vector2.new(0.5,0.5)
+			Outline.Parent = Library.ScreenGUI
+			Outline.Visible = false
+			Outline.Text = ""
+			Outline.AutoButtonColor = false
+
+			local Inline = Instance.new("Frame")
+			Inline.Name = "Inline"
+			Inline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Inline.BorderSizePixel = 0
+			Inline.Position = UDim2.new(0, 1, 0, 1)
+			Inline.Size = UDim2.new(1, -2, 1, -2)
+
+			local Value = Instance.new("TextLabel")
+			Value.Name = "Value"
+			Value.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+			Value.Text = Indicator.Title
+			Value.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Value.TextSize = 12
+			Value.TextStrokeTransparency = 0
+			Value.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Value.BackgroundTransparency = 1
+			Value.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Value.BorderSizePixel = 0
+			Value.Position = UDim2.new(0, 0, 0, 2)
+			Value.Size = UDim2.new(1, 0, 0, 15)
+			Value.Parent = Inline
+
+			local HolderOutline = Instance.new("Frame")
+			HolderOutline.Name = "HolderOutline"
+			HolderOutline.AutomaticSize = Enum.AutomaticSize.Y
+			HolderOutline.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+			HolderOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			HolderOutline.Position = UDim2.new(0, 6, 0, 22)
+			HolderOutline.Size = UDim2.new(1, -12, 0, 0)
+
+			local HolderInline = Instance.new("Frame")
+			HolderInline.Name = "HolderInline"
+			HolderInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			HolderInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			HolderInline.BorderSizePixel = 0
+			HolderInline.Position = UDim2.new(0, 1, 0, 1)
+			HolderInline.Size = UDim2.new(1, -2, 1, -2)
+
+			local UIListLayout = Instance.new("UIListLayout")
+			UIListLayout.Name = "UIListLayout"
+			UIListLayout.Padding = UDim.new(0, 2)
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Parent = HolderInline
+
+			local UIPadding = Instance.new("UIPadding")
+			UIPadding.Name = "UIPadding"
+			UIPadding.PaddingBottom = UDim.new(0, 6)
+			UIPadding.PaddingTop = UDim.new(0, 6)
+			UIPadding.Parent = HolderInline
+
+			HolderInline.Parent = HolderOutline
+
+			HolderOutline.Parent = Inline
+
+			local UIPadding1 = Instance.new("UIPadding")
+			UIPadding1.Name = "UIPadding"
+			UIPadding1.PaddingBottom = UDim.new(0, 6)
+			UIPadding1.Parent = Inline
+
+			Inline.Parent = Outline
+
+			local Accent = Library:NewInstance("Frame", true)
+			Accent.Name = "Accent"
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Accent.BorderSizePixel = 0
+			Accent.Size = UDim2.new(1, 0, 0, 1)
+			Accent.Parent = Outline
+			
+			-- // Dragging
+			Library:Connection(Outline.MouseButton1Down, function()
+				local Location = game:GetService("UserInputService"):GetMouseLocation()
+				Indicator.Dragging[1] = true
+				Indicator.Dragging[2] = UDim2.new(0, Location.X - Outline.AbsolutePosition.X, 0, Location.Y - Outline.AbsolutePosition.Y)
+			end)
+			Library:Connection(game:GetService("UserInputService").InputEnded, function(Input)
+				if Input.UserInputType == Enum.UserInputType.MouseButton1 and Indicator.Dragging[1] then
+					local Location = game:GetService("UserInputService"):GetMouseLocation()
+					Indicator.Dragging[1] = false
+					Indicator.Dragging[2] = UDim2.new(0, 0, 0, 0)
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(Input)
+				local Location = game:GetService("UserInputService"):GetMouseLocation()
+				local ActualLocation = nil
+
+				-- Dragging
+				if Indicator.Dragging[1] then
+					Outline.Position = UDim2.new(
+						0,
+						Location.X - Indicator.Dragging[2].X.Offset + (Outline.Size.X.Offset * Outline.AnchorPoint.X),
+						0,
+						Location.Y - Indicator.Dragging[2].Y.Offset + (Outline.Size.Y.Offset * Outline.AnchorPoint.Y)
+					)
+				end
+			end)
+			
+			-- // Functions
+			function Indicator:NewValue(Properties)
+				local NewIndicator = {
+					Name = Properties.Name or Properties.name or "New Value";
+					Value = Properties.Value or Properties.value or "false";
+				};
+				--
+				local NewInd = Instance.new("Frame")
+				NewInd.Name = "NewInd"
+				NewInd.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				NewInd.BackgroundTransparency = 1
+				NewInd.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				NewInd.BorderSizePixel = 0
+				NewInd.Size = UDim2.new(1, 0, 0, 15)
+
+				local Title = Instance.new("TextLabel")
+				Title.Name = "Title"
+				Title.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				Title.Text = NewIndicator.Name
+				Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+				Title.TextSize = 12
+				Title.TextStrokeTransparency = 0
+				Title.TextXAlignment = Enum.TextXAlignment.Left
+				Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Title.BackgroundTransparency = 1
+				Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Title.BorderSizePixel = 0
+				Title.Position = UDim2.new(0, 4, 0, 0)
+				Title.Size = UDim2.new(1, 0, 1, 0)
+				Title.Parent = NewInd
+
+				local IndValue = Instance.new("TextLabel")
+				IndValue.Name = "IndValue"
+				IndValue.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				IndValue.Text = NewIndicator.Value
+				IndValue.TextColor3 = Color3.fromRGB(255, 255, 255)
+				IndValue.TextSize = 12
+				IndValue.TextStrokeTransparency = 0
+				IndValue.TextXAlignment = Enum.TextXAlignment.Right
+				IndValue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				IndValue.BackgroundTransparency = 1
+				IndValue.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				IndValue.BorderSizePixel = 0
+				IndValue.Position = UDim2.new(0, -4, 0, 0)
+				IndValue.Size = UDim2.new(1, 0, 1, 0)
+				IndValue.Parent = NewInd
+
+				NewInd.Parent = HolderInline
+				
+				-- // Functions
+				function NewIndicator:UpdateValue(NewValue)
+					IndValue.Text = tostring(NewValue)
+				end
+				
+				return NewIndicator
+			end
+			--
+			function Indicator:NewBar(Properties)
+				local NewBarInd = {
+					Name = Properties.Name or Properties.name or "New Value";
+					Min = (Properties.min or Properties.Min or Properties.minimum or Properties.Minimum or 0);
+					Max = (Properties.max or Properties.Max or Properties.maximum or Properties.Maximum or 100);
+					State = (Properties.state or Properties.State or Properties.def or Properties.Def or Properties.default or Properties.Default or 0);
+				};
+				local TextValue = ("[value]")
+				--
+				local NewBar = Instance.new("Frame")
+				NewBar.Name = "NewBar"
+				NewBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				NewBar.BackgroundTransparency = 1
+				NewBar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				NewBar.BorderSizePixel = 0
+				NewBar.Size = UDim2.new(1, 0, 0, 25)
+
+				local Title1 = Instance.new("TextLabel")
+				Title1.Name = "Title"
+				Title1.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				Title1.Text = NewBarInd.Name
+				Title1.TextColor3 = Color3.fromRGB(255, 255, 255)
+				Title1.TextSize = 12
+				Title1.TextStrokeTransparency = 0
+				Title1.TextXAlignment = Enum.TextXAlignment.Left
+				Title1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Title1.BackgroundTransparency = 1
+				Title1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Title1.BorderSizePixel = 0
+				Title1.Position = UDim2.new(0, 4, 0, 0)
+				Title1.Size = UDim2.new(1, 0, 0, 15)
+				Title1.Parent = NewBar
+
+				local IndValue1 = Instance.new("TextLabel")
+				IndValue1.Name = "IndValue"
+				IndValue1.FontFace = Font.fromEnum(Enum.Font.RobotoMono)
+				IndValue1.Text = "0"
+				IndValue1.TextColor3 = Color3.fromRGB(255, 255, 255)
+				IndValue1.TextSize = 12
+				IndValue1.TextStrokeTransparency = 0
+				IndValue1.TextXAlignment = Enum.TextXAlignment.Right
+				IndValue1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				IndValue1.BackgroundTransparency = 1
+				IndValue1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				IndValue1.BorderSizePixel = 0
+				IndValue1.Position = UDim2.new(0, -4, 0, 0)
+				IndValue1.Size = UDim2.new(1, 0, 0, 15)
+				IndValue1.Parent = NewBar
+
+				local BarOutline = Instance.new("Frame")
+				BarOutline.Name = "BarOutline"
+				BarOutline.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+				BarOutline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				BarOutline.Position = UDim2.new(0, 4, 1, -6)
+				BarOutline.Size = UDim2.new(1, -8, 0, 6)
+
+				local Bar = Library:NewInstance("Frame", true)
+				Bar.Name = "Bar"
+				Bar.BackgroundColor3 = Library.Accent
+				Bar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Bar.BorderSizePixel = 0
+				Bar.Size = UDim2.new(0.5, 0, 1, 0)
+				Bar.Parent = BarOutline
+
+				BarOutline.Parent = NewBar
+
+				NewBar.Parent = HolderInline
+
+				-- // Functions
+				function NewBarInd:UpdateValue(NewValue)
+					NewValue = math.clamp(Library:Round(NewValue, 1), NewBarInd.Min, NewBarInd.Max)
+					local sizeX = ((NewValue - NewBarInd.Min) / (NewBarInd.Max - NewBarInd.Min))
+					Bar.Size = UDim2.new(sizeX, 0, 1, 0)
+					IndValue1.Text = TextValue:gsub("%[value%]", string.format("%.14g", NewValue))
+				end
+				
+				NewBarInd:UpdateValue(NewBarInd.State)
+
+				return NewBarInd
+			end
+			--
+			function Indicator:SetVisible(State)
+				Outline.Visible = State
+			end
+			
+			return Indicator
+		end
+		--
+	end;
+end;
+
+-- Local Variables
+local Flags = Library.Flags
+local Pointers = Library.Pointers
+local Utility = Library.Utility
+
+local Bodyparts = {}
+
+for i,v in next, game.Players.LocalPlayer.Character:GetChildren() do 
+	if v:IsA("BasePart") then 
+		table.insert(Bodyparts, v.Name)
+	end 
+end
+
+return Library;

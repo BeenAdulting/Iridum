@@ -64,7 +64,7 @@ local library = {
     opening = false;
     hasInit = false;
     cheatname = startupArgs.cheatname or 'Clanware';
-    gamename = startupArgs.gamename or 'Universal';
+    gamename = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name;
     fileext = startupArgs.fileext or '.txt';
 }
 
@@ -934,6 +934,7 @@ function library:init()
                 Size = 13;
                 ZIndex = z+4;
                 Parent = notification.background;
+                RichText = true; -- Enable rich text
             })
 
             if color then
@@ -1031,6 +1032,7 @@ function library:init()
                 Center = true;
                 Outline = true;
                 Parent = objs.background;
+                RichText = true; -- Enable rich text
             });
 
         end
@@ -1111,6 +1113,7 @@ function library:init()
                     ZIndex = z+2;
                     Outline = true;
                     Parent = objs.background;
+                    RichText = true; -- Enable rich text
                 });
 
                 objs.valueLabel = utility:Draw('Text', {
@@ -1121,6 +1124,7 @@ function library:init()
                     ZIndex = z+2;
                     Outline = true;
                     Parent = objs.background;
+                    RichText = true; -- Enable rich text
                 });
 
             end
@@ -1284,6 +1288,7 @@ function library:init()
                 ZIndex = z+1;
                 Outline = true;
                 Parent = objs.midBorder;
+                RichText = true; -- Enable rich text
             })
 
             objs.groupBackground = utility:Draw('Square', {
@@ -1416,6 +1421,7 @@ function library:init()
                     Outline = true;
                     ZIndex = z+1;
                     Parent = objs.background;
+                    RichText = true; -- Enable rich text
                 })
 
                 objs.mainColor = utility:Draw('Square', {
@@ -1428,7 +1434,7 @@ function library:init()
 
                 objs.sat1 = utility:Draw('Image', {
                     Size = newUDim2(1,0,1,0);
-                    Data = crypt.base64decode("iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAQAAADURZm+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflBwwSLzK3wl3KAAADrElEQVR42u3TORLCMBBFwT+6/50hMqXSZgonBN0BWCDGYPwqeSWVZPWYVHd0Pc5H86v9areu4Sz9u7XZXT/vvtZtu6dtJtYw525iGya05afnWW17ltPE8fzfTZy/yf3vmCes59xf0Sf/42l3lnvGOyyH+y/bo/X689wCPCYkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEguAQgJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBILgEICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEiAkEBL8lzft9AVFFzN+ywAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNy0xMlQxODo0Nzo1MCswMDowMIxlM90AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDctMTJUMTg6NDc6NTArMDA6MDD9OIthAAAAAElFTkSuQmCC");
+                    Data = crypt.base64decode("iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAQAAADURZm+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflBwwSLzK3wl3KAAADrElEQVR42u3TORLCMBBFwT+6/50hMqXSZgonBN0BWCDGYPwqeSWVZPWYVHd0Pc5H86v9areu4Sz9u7XZXT/vvtZtu6dtJtYw525iGya05afnWW17ltPE8fzfTZy/yf3vmCes59xf0Sf/42l3lnvGOyyH+y/bo/X689wCPCYkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBILgEICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEiAkEBL8lzft9AVFFzN+ywAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNy0xMlQxODo0Nzo1MCswMDowMIxlM90AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDctMTJUMTg6NDc6NTArMDA6MDD9OIthAAAAAElFTkSuQmCC");
                     ZIndex = z+3;
                     Parent = objs.mainColor;
                 })
@@ -1801,6 +1807,7 @@ function library:init()
                                 Font = 2;
                                 ZIndex = library.zindexOrder.dropdown+2;
                                 Parent = valueObject.background;
+                                RichText = true; -- Enable rich text
                             })
                             valueObject.connection = utility:Connection(valueObject.background.MouseButton1Down, function()
                                 local currentList = self.selected
@@ -1972,6 +1979,7 @@ function library:init()
                     Outline = true;
                     Center = true;
                     Parent = objs.background;
+                    RichText = true; -- Enable rich text
                 })
 
                 utility:Connection(objs.background.MouseButton1Down, function()
@@ -2041,6 +2049,7 @@ function library:init()
                         Font = 2;
                         ZIndex = z+1;
                         Parent = objs.background;
+                        RichText = true; -- Enable rich text
                     })
 
                     objs.optionholder = utility:Draw('Square',{
@@ -2171,6 +2180,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -2178,7 +2188,7 @@ function library:init()
                         end)
 
                         utility:Connection(objs.holder.MouseLeave, function()
-                            objs.border1.ThemeColor = toggle.state and 'Accent' or 'Option Border 1';
+                            objs.border1.ThemeColor = toggle.state and 'Accent' or (self.objects.holder.Hover and 'Accent' or 'Option Border 1');
                         end)
 
                         utility:Connection(objs.holder.MouseButton1Down, function()
@@ -2446,6 +2456,7 @@ function library:init()
                                 Font = 2;
                                 ZIndex = z+1;
                                 Parent = objs.holder;
+                                RichText = true; -- Enable rich text
                             })
     
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -2666,6 +2677,7 @@ function library:init()
                                 Outline = true;
                                 Center = true;
                                 Parent = objs.background;
+                                RichText = true; -- Enable rich text
                             })
 
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -2837,6 +2849,7 @@ function library:init()
                                 ZIndex = z+5;
                                 Outline = true;
                                 Parent = objs.background;
+                                RichText = true; -- Enable rich text
                             })
     
                             objs.openText = utility:Draw('Text', {
@@ -2848,6 +2861,7 @@ function library:init()
                                 ZIndex = z+5;
                                 Outline = true;
                                 Parent = objs.background;
+                                RichText = true; -- Enable rich text
                             })
     
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -3039,6 +3053,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         objs.plusDetector = utility:Draw('Square', {
@@ -3270,6 +3285,7 @@ function library:init()
                             Outline = true;
                             Center = true;
                             Parent = objs.background;
+                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -3405,6 +3421,7 @@ function library:init()
                                 Outline = true;
                                 Center = true;
                                 Parent = objs.background;
+                                RichText = true; -- Enable rich text
                             })
     
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -3569,6 +3586,7 @@ function library:init()
                             Outline = true;
                             Center = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                     end
@@ -3673,6 +3691,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -3834,6 +3853,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         objs.inputText = utility:Draw('Text', {
@@ -3844,6 +3864,7 @@ function library:init()
                             ZIndex = z+5;
                             Outline = true;
                             Parent = objs.background;
+                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -4030,6 +4051,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         objs.keyText = utility:Draw('Text', {
@@ -4038,6 +4060,7 @@ function library:init()
                             Font = 2;
                             ZIndex = z+1;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -4232,6 +4255,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
 
                         objs.inputText = utility:Draw('Text', {
@@ -4243,6 +4267,7 @@ function library:init()
                             ZIndex = z+5;
                             Outline = true;
                             Parent = objs.background;
+                            RichText = true; -- Enable rich text
                         })
 
                         objs.openText = utility:Draw('Text', {
@@ -4254,6 +4279,7 @@ function library:init()
                             ZIndex = z+5;
                             Outline = true;
                             Parent = objs.background;
+                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -4397,6 +4423,7 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
+                            RichText = true; -- Enable rich text
                         })
                     end
                     ----------------------
@@ -4544,6 +4571,7 @@ function library:init()
             ZIndex = z+1;
             Outline = true;
             Parent = tooltipObjects.background;
+            RichText = true; -- Enable rich text
         })
 
         tooltipObjects.riskytext = utility:Draw('Text', {
@@ -4555,6 +4583,7 @@ function library:init()
             ZIndex = z+1;
             Outline = true;
             Parent = tooltipObjects.background;
+            RichText = true; -- Enable rich text
         })
 
     end
@@ -4572,7 +4601,7 @@ function library:init()
             text = {
                 {self.cheatname, true},
                 {"Private", true},
-                {game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name, true},
+                {self.gamename, true},
                 {'0 fps', true},
                 {'0ms', true},
                 {'00:00:00', true},
@@ -4666,6 +4695,7 @@ function library:init()
                 Outline = true;
                 Center = true;
                 Parent = objs.background;
+                RichText = true; -- Enable rich text
             })
 
         end
@@ -4700,12 +4730,16 @@ function library:init()
 end
 
 function library:CreateSettingsTab(menu)
-    local settingsTab = menu:AddTab('  Settings  ', 999);
-    local configSection = settingsTab:AddSection('Config', 1);
+    local settingsTab = menu:AddTab('Settings', 999);
+    local configSection = settingsTab:AddSection('Config', 2);
     local mainSection = settingsTab:AddSection('Main', 1);
     local creditsSection = settingsTab:AddSection('Credits', 2);
     creditsSection:AddSeparator({text = 'Developer'});
     creditsSection:AddText({text = "Adulting#0001"})
+    creditsSection:AddSeparator({text = 'Helpers'});
+    creditsSection:AddText({text = "Evillion#0001"})
+    creditsSection:AddText({text = "Vault#5434"})
+
 
     configSection:AddBox({text = 'Config Name', flag = 'configinput'})
     configSection:AddList({text = 'Config', flag = 'selectedconfig'})
@@ -4720,15 +4754,17 @@ function library:CreateSettingsTab(menu)
         end
     end
 
-    configSection:AddButton({text = 'Load', confirm = true, callback = function()
+    configSection:AddButton({text = 'Load', confirm = false, callback = function()
         library:LoadConfig(library.flags.selectedconfig);
     end}):AddButton({text = 'Save', confirm = true, callback = function()
         library:SaveConfig(library.flags.selectedconfig);
     end})
 
-    configSection:AddButton({text = 'Create', confirm = true, callback = function()
+    configSection:AddButton({text = 'Create', confirm = false, callback = function()
+        if library.flags.configinput == "" then 
+            return
+        end
         if library:GetConfig(library.flags.configinput) then
-            library:SendNotification('Config \''..library.flags.configinput..'\' already exists.', 5, c3new(1,0,0));
             return
         end
         writefile(self.cheatname..'/'..self.gamename..'/configs/'..library.flags.configinput.. self.fileext, http:JSONEncode({}));
@@ -4742,13 +4778,28 @@ function library:CreateSettingsTab(menu)
 
     refreshConfigs()
 
-    mainSection:AddBind({text = 'Open / Close', flag = 'togglebind', nomouse = true, noindicator = true, bind = Enum.KeyCode.End, callback = function()
+    mainSection:AddBind({text = 'Open / Close', flag = 'togglebind', nomouse = true, noindicator = true, bind = Enum.KeyCode.RightShift, callback = function()
         library:SetOpen(not library.open)
     end});
 
+    mainSection:AddToggle({text = 'Disable Movement If Open', flag = 'disablemenumovement', callback = function(bool)
+        if bool and library.open then
+            actionservice:BindAction(
+                'FreezeMovement',
+                function()
+                    return Enum.ContextActionResult.Sink
+                end,
+                false,
+                unpack(Enum.PlayerActions:GetEnumItems())
+            )
+        else
+            actionservice:UnbindAction('FreezeMovement');
+        end
+    end})
+
     mainSection:AddButton({text = 'Join Discord', flag = 'joindiscord', confirm = true, callback = function()
         local res = syn.request({
-            Url = 'https://discord.gg/rkRW5VrbWu',
+            Url = 'http://127.0.0.1:6463/rpc?v=1',
             Method = 'POST',
             Headers = {
                 ['Content-Type'] = 'application/json',
@@ -4757,62 +4808,54 @@ function library:CreateSettingsTab(menu)
             Body = game:GetService('HttpService'):JSONEncode({
                 cmd = 'INVITE_BROWSER',
                 nonce = game:GetService('HttpService'):GenerateGUID(false),
-                args = {code = 'rkRW5VrbWu'}
+                args = {code = getgenv().Config.Invite}
             })
         })
-        if res.Success then
-            library:SendNotification(library.cheatname..' | Joined Discord', 3);
-        end
+    end})
+    
+    mainSection:AddButton({text = 'Copy Discord', flag = 'copydiscord', callback = function()
+        setclipboard('https://discord.gg/'..getgenv().Config.Invite)
     end})
 
     mainSection:AddButton({text = 'Rejoin Server', confirm = true, callback = function()
         game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId);
     end})
 
-    mainSection:AddButton({text = 'Rejoin Game', confirm = true, callback = function()
-        game:GetService("TeleportService"):Teleport(game.PlaceId);
-    end})
-
     mainSection:AddButton({text = 'Copy Join Script', callback = function()
         setclipboard(([[game:GetService("TeleportService"):TeleportToPlaceInstance(%s, "%s")]]):format(game.PlaceId, game.JobId))
     end})
 
-    mainSection:AddButton({text = "Unload", confirm = true,
-       callback = function(bool)
-           if bool then
-               library:Unload() 
-           else
-               library:Unload() 
-           end
-       end})
+    mainSection:AddButton({text = 'Unload', confirm = true, callback = function()
+        library:Unload();
+    end})
 
-    mainSection:AddSeparator({text = 'Indicators'});
-
-    mainSection:AddToggle({text = 'Watermark', flag = 'watermark_enabled', state = true,});
-
-    mainSection:AddSlider({text = 'Custom X', flag = 'watermark_x', suffix = '%', min = 0, max = 100, increment = .1, value = 6});
-    mainSection:AddSlider({text = 'Custom Y', flag = 'watermark_y', suffix = '%', min = 0, max = 100, increment = .1, value = 1});
-
-    mainSection:AddToggle({text = 'Keybinds', flag = 'keybind_indicator', state = true, callback = function(bool)
+    mainSection:AddSeparator({text = 'Keybinds'});
+    mainSection:AddToggle({text = 'Keybind Indicator', flag = 'keybind_indicator', callback = function(bool)
         library.keyIndicator:SetEnabled(bool);
     end})
     mainSection:AddSlider({text = 'Position X', flag = 'keybind_indicator_x', min = 0, max = 100, increment = .1, value = .5, callback = function()
         library.keyIndicator:SetPosition(newUDim2(library.flags.keybind_indicator_x / 100, 0, library.flags.keybind_indicator_y / 100, 0));    
     end});
-    mainSection:AddSlider({text = 'Position Y', flag = 'keybind_indicator_y', min = 0, max = 100, increment = .1, value = 30, callback = function()
+    mainSection:AddSlider({text = 'Position Y', flag = 'keybind_indicator_y', min = 0, max = 100, increment = .1, value = 35, callback = function()
         library.keyIndicator:SetPosition(newUDim2(library.flags.keybind_indicator_x / 100, 0, library.flags.keybind_indicator_y / 100, 0));    
     end});
 
+    mainSection:AddSeparator({text = 'Watermark'})
+    mainSection:AddToggle({text = 'Enabled', flag = 'watermark_enabled'});
+    mainSection:AddList({text = 'Position', flag = 'watermark_pos', selected = 'Custom', values = {'Top', 'Top Left', 'Top Right', 'Bottom Left', 'Bottom Right', 'Custom'}, callback = function(val)
+        library.watermark.lock = val;
+    end})
+    mainSection:AddSlider({text = 'Custom X', flag = 'watermark_x', suffix = '%', value = 6.1, min = 0, max = 100, increment = .1});
+    mainSection:AddSlider({text = 'Custom Y', flag = 'watermark_y', suffix = '%', value = 1.2, min = 0, max = 100, increment = .1});
 
-
-    local themeStrings = {"Custom"};
+    local themeStrings = {};
     for _,v in next, library.themes do
         table.insert(themeStrings, v.name)
     end
-    local themeSection = settingsTab:AddSection('Custom Theme', 2);
+    local themeSection = settingsTab:AddSection('Theme', 1);
     local setByPreset = false
-themeSection:AddList({text = 'Presets', flag = 'preset_theme', values = themeStrings, callback = function(newTheme)
-        if newTheme == "Custom" then return end
+
+    themeSection:AddList({text = 'Presets', flag = 'preset_theme', values = themeStrings, callback = function(newTheme)
         setByPreset = true
         for _,v in next, library.themes do
             if v.name == newTheme then
@@ -4827,16 +4870,6 @@ themeSection:AddList({text = 'Presets', flag = 'preset_theme', values = themeStr
         end
         setByPreset = false
     end}):Select('Default');
-
-    for i, v in pairs(library.theme) do
-        themeSection:AddColor({text = i, flag = i, color = library.theme[i], callback = function(c3)
-            library.theme[i] = c3
-            library:SetTheme(library.theme)
-            if not setByPreset and not setByConfig then 
-                library.options.preset_theme:Select('Custom')
-            end
-        end});
-    end
 
     return settingsTab;
 end

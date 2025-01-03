@@ -63,8 +63,8 @@ local library = {
     open = false;
     opening = false;
     hasInit = false;
-    cheatname = startupArgs.cheatname or 'octohook';
-    gamename = startupArgs.gamename or 'universal';
+    cheatname = startupArgs.cheatname or 'Clanware';
+    gamename = startupArgs.gamename or 'Universal';
     fileext = startupArgs.fileext or '.txt';
 }
 
@@ -600,8 +600,8 @@ function library:init()
 
     makefolder(self.cheatname)
     makefolder(self.cheatname..'/assets')
-    makefolder(self.cheatname..'/'..game.PlaceId)
-    makefolder(self.cheatname..'/'..game.PlaceId..'/configs');
+    makefolder(self.cheatname..'/'..self.gamename)
+    makefolder(self.cheatname..'/'..self.gamename..'/configs');
 
     function self:SetTheme(theme)
         for i,v in next, theme do
@@ -934,7 +934,6 @@ function library:init()
                 Size = 13;
                 ZIndex = z+4;
                 Parent = notification.background;
-                RichText = true; -- Enable rich text
             })
 
             if color then
@@ -1032,7 +1031,6 @@ function library:init()
                 Center = true;
                 Outline = true;
                 Parent = objs.background;
-                RichText = true; -- Enable rich text
             });
 
         end
@@ -1113,7 +1111,6 @@ function library:init()
                     ZIndex = z+2;
                     Outline = true;
                     Parent = objs.background;
-                    RichText = true; -- Enable rich text
                 });
 
                 objs.valueLabel = utility:Draw('Text', {
@@ -1124,7 +1121,6 @@ function library:init()
                     ZIndex = z+2;
                     Outline = true;
                     Parent = objs.background;
-                    RichText = true; -- Enable rich text
                 });
 
             end
@@ -1288,7 +1284,6 @@ function library:init()
                 ZIndex = z+1;
                 Outline = true;
                 Parent = objs.midBorder;
-                RichText = true; -- Enable rich text
             })
 
             objs.groupBackground = utility:Draw('Square', {
@@ -1421,7 +1416,6 @@ function library:init()
                     Outline = true;
                     ZIndex = z+1;
                     Parent = objs.background;
-                    RichText = true; -- Enable rich text
                 })
 
                 objs.mainColor = utility:Draw('Square', {
@@ -1434,7 +1428,7 @@ function library:init()
 
                 objs.sat1 = utility:Draw('Image', {
                     Size = newUDim2(1,0,1,0);
-                    Data = crypt.base64decode("iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAQAAADURZm+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflBwwSLzK3wl3KAAADrElEQVR42u3TORLCMBBFwT+6/50hMqXSZgonBN0BWCDGYPwqeSWVZPWYVHd0Pc5H86v9areu4Sz9u7XZXT/vvtZtu6dtJtYw525iGya05afnWW17ltPE8fzfTZy/yf3vmCes59xf0Sf/42l3lnvGOyyH+y/bo/X689wCPCYkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBILgEICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEiAkEBL8lzft9AVFFzN+ywAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNy0xMlQxODo0Nzo1MCswMDowMIxlM90AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDctMTJUMTg6NDc6NTArMDA6MDD9OIthAAAAAElFTkSuQmCC");
+                    Data = crypt.base64decode("iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAQAAADURZm+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflBwwSLzK3wl3KAAADrElEQVR42u3TORLCMBBFwT+6/50hMqXSZgonBN0BWCDGYPwqeSWVZPWYVHd0Pc5H86v9areu4Sz9u7XZXT/vvtZtu6dtJtYw525iGya05afnWW17ltPE8fzfTZy/yf3vmCes59xf0Sf/42l3lnvGOyyH+y/bo/X689wCPCYkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEguAQgJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZAAIYGQQEggJEBIICQQEggJEBIICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEICIQFCAiGBkEBILgEICYQEQgKEBEICIYGQACGBkEBIICRASCAkEBIICRASCAmEBEIChARCAiGBkAAhgZBASICQQEggJBASICQQEggJhAQICYQEQgIhAUICIYGQQEiAkEBIICQQEiAkEBIICYQECAmEBEIChARCAiGBkAAhgZBASCAkQEggJBASCAkQEggJhARCAoQEQgIhgZAAIYGQQEggJEBIICQQEiAkEBL8lzft9AVFFzN+ywAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNy0xMlQxODo0Nzo1MCswMDowMIxlM90AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDctMTJUMTg6NDc6NTArMDA6MDD9OIthAAAAAElFTkSuQmCC");
                     ZIndex = z+3;
                     Parent = objs.mainColor;
                 })
@@ -1807,7 +1801,6 @@ function library:init()
                                 Font = 2;
                                 ZIndex = library.zindexOrder.dropdown+2;
                                 Parent = valueObject.background;
-                                RichText = true; -- Enable rich text
                             })
                             valueObject.connection = utility:Connection(valueObject.background.MouseButton1Down, function()
                                 local currentList = self.selected
@@ -1979,7 +1972,6 @@ function library:init()
                     Outline = true;
                     Center = true;
                     Parent = objs.background;
-                    RichText = true; -- Enable rich text
                 })
 
                 utility:Connection(objs.background.MouseButton1Down, function()
@@ -2049,7 +2041,6 @@ function library:init()
                         Font = 2;
                         ZIndex = z+1;
                         Parent = objs.background;
-                        RichText = true; -- Enable rich text
                     })
 
                     objs.optionholder = utility:Draw('Square',{
@@ -2180,7 +2171,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -2188,7 +2178,7 @@ function library:init()
                         end)
 
                         utility:Connection(objs.holder.MouseLeave, function()
-                            objs.border1.ThemeColor = toggle.state and 'Accent' or (self.objects.holder.Hover and 'Accent' or 'Option Border 1');
+                            objs.border1.ThemeColor = toggle.state and 'Accent' or 'Option Border 1';
                         end)
 
                         utility:Connection(objs.holder.MouseButton1Down, function()
@@ -2456,7 +2446,6 @@ function library:init()
                                 Font = 2;
                                 ZIndex = z+1;
                                 Parent = objs.holder;
-                                RichText = true; -- Enable rich text
                             })
     
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -2677,7 +2666,6 @@ function library:init()
                                 Outline = true;
                                 Center = true;
                                 Parent = objs.background;
-                                RichText = true; -- Enable rich text
                             })
 
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -2849,7 +2837,6 @@ function library:init()
                                 ZIndex = z+5;
                                 Outline = true;
                                 Parent = objs.background;
-                                RichText = true; -- Enable rich text
                             })
     
                             objs.openText = utility:Draw('Text', {
@@ -2861,7 +2848,6 @@ function library:init()
                                 ZIndex = z+5;
                                 Outline = true;
                                 Parent = objs.background;
-                                RichText = true; -- Enable rich text
                             })
     
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -3053,7 +3039,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         objs.plusDetector = utility:Draw('Square', {
@@ -3285,7 +3270,6 @@ function library:init()
                             Outline = true;
                             Center = true;
                             Parent = objs.background;
-                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -3421,7 +3405,6 @@ function library:init()
                                 Outline = true;
                                 Center = true;
                                 Parent = objs.background;
-                                RichText = true; -- Enable rich text
                             })
     
                             utility:Connection(objs.holder.MouseEnter, function()
@@ -3586,7 +3569,6 @@ function library:init()
                             Outline = true;
                             Center = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                     end
@@ -3691,7 +3673,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -3853,7 +3834,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         objs.inputText = utility:Draw('Text', {
@@ -3864,7 +3844,6 @@ function library:init()
                             ZIndex = z+5;
                             Outline = true;
                             Parent = objs.background;
-                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -4051,7 +4030,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         objs.keyText = utility:Draw('Text', {
@@ -4060,7 +4038,6 @@ function library:init()
                             Font = 2;
                             ZIndex = z+1;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -4255,7 +4232,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
 
                         objs.inputText = utility:Draw('Text', {
@@ -4267,7 +4243,6 @@ function library:init()
                             ZIndex = z+5;
                             Outline = true;
                             Parent = objs.background;
-                            RichText = true; -- Enable rich text
                         })
 
                         objs.openText = utility:Draw('Text', {
@@ -4279,7 +4254,6 @@ function library:init()
                             ZIndex = z+5;
                             Outline = true;
                             Parent = objs.background;
-                            RichText = true; -- Enable rich text
                         })
 
                         utility:Connection(objs.holder.MouseEnter, function()
@@ -4423,7 +4397,6 @@ function library:init()
                             ZIndex = z+1;
                             Outline = true;
                             Parent = objs.holder;
-                            RichText = true; -- Enable rich text
                         })
                     end
                     ----------------------
@@ -4571,7 +4544,6 @@ function library:init()
             ZIndex = z+1;
             Outline = true;
             Parent = tooltipObjects.background;
-            RichText = true; -- Enable rich text
         })
 
         tooltipObjects.riskytext = utility:Draw('Text', {
@@ -4583,7 +4555,6 @@ function library:init()
             ZIndex = z+1;
             Outline = true;
             Parent = tooltipObjects.background;
-            RichText = true; -- Enable rich text
         })
 
     end
@@ -4695,7 +4666,6 @@ function library:init()
                 Outline = true;
                 Center = true;
                 Parent = objs.background;
-                RichText = true; -- Enable rich text
             })
 
         end
@@ -4735,10 +4705,9 @@ function library:CreateSettingsTab(menu)
     local mainSection = settingsTab:AddSection('Main', 1);
     local creditsSection = settingsTab:AddSection('Credits', 2);
     creditsSection:AddSeparator({text = 'Developer'});
-    creditsSection:AddText({text = "Adulting#0001"})
+    creditsSection:AddText({text = "UnstableSolutions#0001"})
     creditsSection:AddSeparator({text = 'Helpers'});
     creditsSection:AddText({text = "Evillion#0001"})
-    creditsSection:AddText({text = "Vault#5434"})
 
 
     configSection:AddBox({text = 'Config Name', flag = 'configinput'})
@@ -4814,7 +4783,7 @@ function library:CreateSettingsTab(menu)
     end})
     
     mainSection:AddButton({text = 'Copy Discord', flag = 'copydiscord', callback = function()
-        setclipboard('https://discord.gg/'..getgenv().Config.Invite)
+        setclipboard('https://discord.gg/getiridium'..getgenv().Config.Invite)
     end})
 
     mainSection:AddButton({text = 'Rejoin Server', confirm = true, callback = function()

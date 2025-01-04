@@ -73,24 +73,24 @@ library.themes = {
         name = 'Default',
         theme = {
             ['Accent']                    = fromrgb(117, 153, 230);
-            ['Background']                = fromrgb(22,22,31);
+            ['Background']                = fromrgb(17,17,17);
             ['Border']                    = fromrgb(0,0,0);
-            ['Border 1']                  = fromrgb(50,50,50);
-            ['Border 2']                  = fromrgb(24,25,37);
+            ['Border 1']                  = fromrgb(47,47,47);
+            ['Border 2']                  = fromrgb(17,17,17);
             ['Border 3']                  = fromrgb(10,10,10);
             ['Primary Text']              = fromrgb(235,235,235);
-            ['Group Background']          = fromrgb(24,25,37);
-            ['Selected Tab Background']   = fromrgb(24,25,37);
-            ['Unselected Tab Background'] = fromrgb(22,22,31);
+            ['Group Background']          = fromrgb(17,17,17);
+            ['Selected Tab Background']   = fromrgb(17,17,17);
+            ['Unselected Tab Background'] = fromrgb(17,17,17);
             ['Selected Tab Text']         = fromrgb(245,245,245);
             ['Unselected Tab Text']       = fromrgb(145,145,145);
-            ['Section Background']        = fromrgb(22,22,31);
+            ['Section Background']        = fromrgb(17,17,17);
             ['Option Text 1']             = fromrgb(245,245,245);
             ['Option Text 2']             = fromrgb(195,195,195);
             ['Option Text 3']             = fromrgb(145,145,145);
-            ['Option Border 1']           = fromrgb(50,50,50);
+            ['Option Border 1']           = fromrgb(47,47,47);
             ['Option Border 2']           = fromrgb(0,0,0);
-            ['Option Background']         = fromrgb(24,25,37);
+            ['Option Background']         = fromrgb(35,35,35);
             ["Risky Text"]                = fromrgb(175, 21, 21);
             ["Risky Text Enabled"]        = fromrgb(255, 41, 41);
         }
@@ -4703,11 +4703,13 @@ function library:CreateSettingsTab(menu)
     local settingsTab = menu:AddTab('Settings', 999);
     local configSection = settingsTab:AddSection('Config', 2);
     local mainSection = settingsTab:AddSection('Main', 1);
-    local creditsSection = settingsTab:AddSection('Credits', 1);
+    local creditsSection = settingsTab:AddSection('Credits', 2);
     creditsSection:AddSeparator({text = 'Developer'});
-    creditsSection:AddText({text = "UnstableSolutions#0001"})
+    creditsSection:AddText({text = "UnstableSoltuions"})
+
     creditsSection:AddSeparator({text = 'Helpers'});
-    creditsSection:AddText({text = "Evillion#0001"})
+    creditsSection:AddText({text = "Evillion"})
+
 
 
     configSection:AddBox({text = 'Config Name', flag = 'configinput'})
@@ -4766,6 +4768,8 @@ function library:CreateSettingsTab(menu)
         end
     end})
 
+    
+    
     mainSection:AddButton({text = 'Copy Discord', flag = 'copydiscord', callback = function()
         setclipboard('https://discord.gg/'..getgenv().Config.Invite)
     end})
@@ -4801,7 +4805,14 @@ function library:CreateSettingsTab(menu)
     mainSection:AddSlider({text = 'Custom X', flag = 'watermark_x', suffix = '%', value = 6.1, min = 0, max = 100, increment = .1});
     mainSection:AddSlider({text = 'Custom Y', flag = 'watermark_y', suffix = '%', value = 1.2, min = 0, max = 100, increment = .1});
 
-   themeSection:AddList({text = 'Presets', flag = 'preset_theme', values = themeStrings, callback = function(newTheme)
+    local themeStrings = {};
+    for _,v in next, library.themes do
+        table.insert(themeStrings, v.name)
+    end
+    local themeSection = settingsTab:AddSection('Theme', 1);
+    local setByPreset = false
+
+    themeSection:AddList({text = 'Presets', flag = 'preset_theme', values = themeStrings, callback = function(newTheme)
         setByPreset = true
         for _,v in next, library.themes do
             if v.name == newTheme then

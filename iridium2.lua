@@ -1031,6 +1031,7 @@ function library:init()
                 Center = true;
                 Outline = true;
                 Parent = objs.background;
+                RichText = true;
             });
 
         end
@@ -1284,6 +1285,7 @@ function library:init()
                 ZIndex = z+1;
                 Outline = true;
                 Parent = objs.midBorder;
+                RichText = true;
             })
 
             objs.groupBackground = utility:Draw('Square', {

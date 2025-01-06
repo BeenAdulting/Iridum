@@ -1284,6 +1284,7 @@ function library:init()
                 ZIndex = z+1;
                 Outline = true;
                 Parent = objs.midBorder;
+                RichText = true;
             })
 
             objs.groupBackground = utility:Draw('Square', {
